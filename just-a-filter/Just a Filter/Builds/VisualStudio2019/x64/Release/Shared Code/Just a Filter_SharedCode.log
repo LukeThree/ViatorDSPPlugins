@@ -1,0 +1,360 @@
+﻿  Initfilter.cpp
+  LV_Clipper.cpp
+  LV_SVFilter.cpp
+  LV_FilterComponent.cpp
+  LV_HeaderComponent.cpp
+  LV_Window.cpp
+  OversamplingMenu.cpp
+  UI-Constructor.cpp
+  UI-InitWindow.cpp
+  UI-Paint.cpp
+  UI-Resized.cpp
+  UI-SaveWindow.cpp
+  StyleSheet.cpp
+  PluginProcessor.cpp
+  PluginEditor.cpp
+  BinaryData.cpp
+  BinaryData2.cpp
+  BinaryData3.cpp
+  BinaryData4.cpp
+  BinaryData5.cpp
+  include_juce_audio_basics.cpp
+  include_juce_audio_devices.cpp
+  include_juce_audio_formats.cpp
+  include_juce_audio_plugin_client_utils.cpp
+  include_juce_audio_processors.cpp
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Toggle.h(60,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Toggle.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Dial.h(74,40): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Dial.h(80,39): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Dial.h(102,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Label.h(28,1): warning C4458: declaration of 'font' hides class member (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\JUCE\modules\juce_gui_basics\widgets\juce_Label.h(346,10): message : see declaration of 'juce::Label::font' (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Fader.h(61,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Fader.h(69,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Fader.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Menu.h(51,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Menu.h(57,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_PushButton.h(28,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_PushButton.h(29,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_NumberBox.h(53,40): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_NumberBox.h(58,39): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\DSP\LV_Clipper.h(69,24): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file ..\..\Source\DSP\LV_Clipper.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\DSP\LV_Clipper.h(71,24): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file ..\..\Source\DSP\LV_Clipper.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\DSP\LV_Clipper.cpp(15,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\DSP\LV_Clipper.cpp(42,61): warning C4244: 'argument': conversion from 'Type' to 'const float', possible loss of data
+          with
+          [
+              Type=double
+          ]
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\DSP\LV_Clipper.cpp(45,74): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\DSP\LV_Clipper.cpp(52,61): warning C4244: 'argument': conversion from 'Type' to 'const float', possible loss of data
+          with
+          [
+              Type=double
+          ]
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\DSP\LV_Clipper.cpp(55,74): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Methods\UI-Paint.cpp(13,63): warning C4100: 'g': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\DSP\LV_Clipper.cpp(63,63): warning C4244: 'argument': conversion from 'Type' to 'const float', possible loss of data
+          with
+          [
+              Type=double
+          ]
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\DSP\LV_Clipper.cpp(66,74): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\DSP\LV_Clipper.cpp(89,12): warning C4244: 'return': conversion from 'Type' to 'float', possible loss of data
+          with
+          [
+              Type=double
+          ]
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\DSP\LV_Clipper.cpp(80,63): warning C4100: 'channel': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\DSP\LV_Clipper.cpp(101,12): warning C4244: 'return': conversion from 'Type' to 'float', possible loss of data
+          with
+          [
+              Type=double
+          ]
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\DSP\LV_Clipper.cpp(92,65): warning C4100: 'channel': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Toggle.h(60,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_HeaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Toggle.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_HeaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Dial.h(74,40): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_HeaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Dial.h(80,39): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_HeaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Dial.h(102,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Components\LV_HeaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Label.h(28,1): warning C4458: declaration of 'font' hides class member (compiling source file ..\..\Source\UI-Components\LV_HeaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\JUCE\modules\juce_gui_basics\widgets\juce_Label.h(346,10): message : see declaration of 'juce::Label::font' (compiling source file ..\..\Source\UI-Components\LV_HeaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Fader.h(61,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_HeaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Fader.h(69,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Components\LV_HeaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Fader.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_HeaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Menu.h(51,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_HeaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Menu.h(57,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_HeaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Toggle.h(60,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Toggle.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_PushButton.h(28,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Components\LV_HeaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_PushButton.h(29,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Components\LV_HeaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_NumberBox.h(53,40): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_HeaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_NumberBox.h(58,39): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_HeaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Dial.h(74,40): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Dial.h(80,39): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Dial.h(102,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Label.h(28,1): warning C4458: declaration of 'font' hides class member (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\JUCE\modules\juce_gui_basics\widgets\juce_Label.h(346,10): message : see declaration of 'juce::Label::font' (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Fader.h(61,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Fader.h(69,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Fader.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Menu.h(51,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Menu.h(57,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_PushButton.h(28,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_PushButton.h(29,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_NumberBox.h(53,40): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_NumberBox.h(58,39): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_HeaderComponent.cpp(64,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_HeaderComponent.cpp(71,88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_HeaderComponent.cpp(71,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_HeaderComponent.cpp(71,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_HeaderComponent.cpp(71,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_HeaderComponent.cpp(76,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_HeaderComponent.cpp(76,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_HeaderComponent.cpp(76,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_HeaderComponent.cpp(76,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Toggle.h(60,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_FilterComponent.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_HeaderComponent.cpp(87,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Toggle.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_FilterComponent.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_HeaderComponent.cpp(87,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_HeaderComponent.cpp(87,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_HeaderComponent.cpp(87,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_HeaderComponent.cpp(88,125): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_HeaderComponent.cpp(88,114): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_HeaderComponent.cpp(88,103): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_HeaderComponent.cpp(88,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_HeaderComponent.cpp(89,124): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_HeaderComponent.cpp(89,113): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_HeaderComponent.cpp(89,102): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_HeaderComponent.cpp(89,70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_HeaderComponent.cpp(90,129): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_HeaderComponent.cpp(90,122): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_HeaderComponent.cpp(90,101): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_HeaderComponent.cpp(90,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Dial.h(74,40): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_FilterComponent.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_HeaderComponent.cpp(91,117): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_HeaderComponent.cpp(91,83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Dial.h(80,39): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_FilterComponent.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_HeaderComponent.cpp(91,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Dial.h(102,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Components\LV_FilterComponent.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Label.h(28,1): warning C4458: declaration of 'font' hides class member (compiling source file ..\..\Source\UI-Components\LV_FilterComponent.cpp)
+C:\Users\lando\Documents\GitHub\JUCE\modules\juce_gui_basics\widgets\juce_Label.h(346,10): message : see declaration of 'juce::Label::font' (compiling source file ..\..\Source\UI-Components\LV_FilterComponent.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Fader.h(61,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_FilterComponent.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Fader.h(69,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Components\LV_FilterComponent.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Fader.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_FilterComponent.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Menu.h(51,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_FilterComponent.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Menu.h(57,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_FilterComponent.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_PushButton.h(28,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Components\LV_FilterComponent.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_PushButton.h(29,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Components\LV_FilterComponent.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_NumberBox.h(53,40): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_FilterComponent.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_NumberBox.h(58,39): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_FilterComponent.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_FilterComponent.cpp(32,94): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_FilterComponent.cpp(41,115): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_FilterComponent.cpp(61,49): warning C4100: 'g': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_FilterComponent.cpp(74,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_FilterComponent.cpp(74,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_FilterComponent.cpp(74,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_FilterComponent.cpp(74,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_FilterComponent.cpp(75,76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_FilterComponent.cpp(75,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_FilterComponent.cpp(75,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_FilterComponent.cpp(75,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_FilterComponent.cpp(77,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_FilterComponent.cpp(77,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_FilterComponent.cpp(77,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_FilterComponent.cpp(77,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_FilterComponent.cpp(78,116): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_FilterComponent.cpp(78,106): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_FilterComponent.cpp(78,97): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_FilterComponent.cpp(78,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_FilterComponent.cpp(79,101): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_FilterComponent.cpp(79,91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Components\LV_FilterComponent.cpp(79,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\DSP\LV_SVFilter.cpp(21,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\DSP\LV_SVFilter.cpp(46,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Toggle.h(60,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Toggle.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\DSP\LV_SVFilter.cpp(132,90): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\DSP\LV_SVFilter.cpp(136,61): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Dial.h(74,40): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Dial.h(80,39): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Dial.h(102,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Label.h(28,1): warning C4458: declaration of 'font' hides class member (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\JUCE\modules\juce_gui_basics\widgets\juce_Label.h(346,10): message : see declaration of 'juce::Label::font' (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Fader.h(61,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Fader.h(69,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Fader.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Menu.h(51,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Menu.h(57,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_PushButton.h(28,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_PushButton.h(29,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_NumberBox.h(53,40): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_NumberBox.h(58,39): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Toggle.h(60,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Toggle.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Dial.h(74,40): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Dial.h(80,39): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Dial.h(102,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Label.h(28,1): warning C4458: declaration of 'font' hides class member (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\JUCE\modules\juce_gui_basics\widgets\juce_Label.h(346,10): message : see declaration of 'juce::Label::font' (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Fader.h(61,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Fader.h(69,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Fader.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\PluginEditor.cpp(37,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\PluginEditor.cpp(37,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Menu.h(51,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Menu.h(57,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_PushButton.h(28,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_PushButton.h(29,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_NumberBox.h(53,40): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_NumberBox.h(58,39): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\PluginProcessor.cpp(103,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\PluginProcessor.cpp(132,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\PluginProcessor.cpp(138,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\PluginProcessor.cpp(208,56): warning C4100: 'index': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\PluginProcessor.cpp(212,67): warning C4100: 'index': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\PluginProcessor.cpp(217,83): warning C4100: 'newName': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\PluginProcessor.cpp(217,56): warning C4100: 'index': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\PluginProcessor.cpp(239,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\PluginProcessor.cpp(244,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\PluginProcessor.cpp(247,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\PluginProcessor.cpp(313,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Toggle.h(60,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\OversamplingMenu.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Toggle.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\OversamplingMenu.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\PluginProcessor.cpp(291,99): warning C4100: 'midiMessages': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Dial.h(74,40): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\OversamplingMenu.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Dial.h(80,39): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\OversamplingMenu.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Dial.h(102,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\OversamplingMenu.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Label.h(28,1): warning C4458: declaration of 'font' hides class member (compiling source file ..\..\Source\UI-Methods\OversamplingMenu.cpp)
+C:\Users\lando\Documents\GitHub\JUCE\modules\juce_gui_basics\widgets\juce_Label.h(346,10): message : see declaration of 'juce::Label::font' (compiling source file ..\..\Source\UI-Methods\OversamplingMenu.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Fader.h(61,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\OversamplingMenu.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Fader.h(69,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\OversamplingMenu.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Fader.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\OversamplingMenu.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Menu.h(51,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\OversamplingMenu.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Menu.h(57,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\OversamplingMenu.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Toggle.h(60,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Toggle.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Toggle.h(60,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Toggle.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Dial.h(74,40): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Dial.h(80,39): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Dial.h(102,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_PushButton.h(28,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\OversamplingMenu.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_PushButton.h(29,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\OversamplingMenu.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Dial.h(74,40): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Dial.h(80,39): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Dial.h(102,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_NumberBox.h(53,40): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\OversamplingMenu.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_NumberBox.h(58,39): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\OversamplingMenu.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Label.h(28,1): warning C4458: declaration of 'font' hides class member (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\JUCE\modules\juce_gui_basics\widgets\juce_Label.h(346,10): message : see declaration of 'juce::Label::font' (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Fader.h(61,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Fader.h(69,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Fader.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Menu.h(51,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Menu.h(57,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_PushButton.h(28,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_PushButton.h(29,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_NumberBox.h(53,40): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_NumberBox.h(58,39): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Methods\UI-SaveWindow.cpp(22,46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Methods\UI-SaveWindow.cpp(23,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Label.h(28,1): warning C4458: declaration of 'font' hides class member (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\JUCE\modules\juce_gui_basics\widgets\juce_Label.h(346,10): message : see declaration of 'juce::Label::font' (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Fader.h(61,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Fader.h(69,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Fader.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Menu.h(51,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Menu.h(57,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_PushButton.h(28,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_PushButton.h(29,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_NumberBox.h(53,40): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_NumberBox.h(58,39): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Methods\UI-InitWindow.cpp(27,93): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Methods\UI-InitWindow.cpp(27,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Methods\UI-InitWindow.cpp(27,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Methods\UI-InitWindow.cpp(27,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Methods\UI-InitWindow.cpp(32,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Methods\UI-InitWindow.cpp(32,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Methods\UI-InitWindow.cpp(37,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Methods\UI-InitWindow.cpp(37,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Toggle.h(60,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Toggle.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Dial.h(74,40): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Dial.h(80,39): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Dial.h(102,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Label.h(28,1): warning C4458: declaration of 'font' hides class member (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\JUCE\modules\juce_gui_basics\widgets\juce_Label.h(346,10): message : see declaration of 'juce::Label::font' (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Fader.h(61,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Fader.h(69,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Fader.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Menu.h(51,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_Menu.h(57,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_PushButton.h(28,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_PushButton.h(29,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_NumberBox.h(53,40): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\LV_NumberBox.h(58,39): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Methods\UI-Resized.cpp(23,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Methods\UI-Resized.cpp(23,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Methods\UI-Resized.cpp(25,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Methods\UI-Resized.cpp(25,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Methods\UI-Resized.cpp(25,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Methods\UI-Resized.cpp(16,10): warning C4189: 'topMargin': local variable is initialized but not referenced
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\UI-Methods\UI-Resized.cpp(15,10): warning C4189: 'leftMargin': local variable is initialized but not referenced
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\StyleSheet.cpp(66,54): warning C4244: 'argument': conversion from 'double' to 'ValueType', possible loss of data
+          with
+          [
+              ValueType=float
+          ]
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\StyleSheet.cpp(65,54): warning C4244: 'argument': conversion from 'double' to 'ValueType', possible loss of data
+          with
+          [
+              ValueType=float
+          ]
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\StyleSheet.cpp(69,144): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\StyleSheet.cpp(76,36): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\StyleSheet.cpp(97,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\StyleSheet.cpp(98,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\StyleSheet.cpp(99,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\StyleSheet.cpp(100,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\StyleSheet.cpp(113,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\StyleSheet.cpp(157,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\StyleSheet.cpp(158,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\StyleSheet.cpp(159,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\StyleSheet.cpp(160,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\StyleSheet.cpp(173,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\StyleSheet.cpp(245,81): warning C4244: 'argument': conversion from 'int' to 'ValueType', possible loss of data
+          with
+          [
+              ValueType=float
+          ]
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\StyleSheet.cpp(239,53): warning C4100: 'style': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\StyleSheet.cpp(238,49): warning C4100: 'maxSliderPos': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\StyleSheet.cpp(237,49): warning C4100: 'minSliderPos': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\StyleSheet.cpp(391,65): warning C4244: 'argument': conversion from 'double' to 'ValueType', possible loss of data
+          with
+          [
+              ValueType=int
+          ]
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\StyleSheet.cpp(391,53): warning C4244: 'argument': conversion from 'double' to 'ValueType', possible loss of data
+          with
+          [
+              ValueType=int
+          ]
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\StyleSheet.cpp(384,57): warning C4100: 'shouldDrawButtonAsDown': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\StyleSheet.cpp(383,57): warning C4100: 'shouldDrawButtonAsHighlighted': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\StyleSheet.cpp(427,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\StyleSheet.cpp(426,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\StyleSheet.cpp(433,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\StyleSheet.cpp(410,53): warning C4100: 'shouldDrawButtonAsDown': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Source\Widgets\StyleSheet.cpp(409,53): warning C4100: 'shouldDrawButtonAsHighlighted': unreferenced formal parameter
+  include_juce_audio_utils.cpp
+  include_juce_core.cpp
+  include_juce_data_structures.cpp
+  include_juce_dsp.cpp
+  include_juce_events.cpp
+  include_juce_graphics.cpp
+  include_juce_gui_extra.cpp
+  include_juce_gui_basics.cpp
+  Just a Filter_SharedCode.vcxproj -> C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Builds\VisualStudio2019\x64\Release\Shared Code\Just a Filter.lib

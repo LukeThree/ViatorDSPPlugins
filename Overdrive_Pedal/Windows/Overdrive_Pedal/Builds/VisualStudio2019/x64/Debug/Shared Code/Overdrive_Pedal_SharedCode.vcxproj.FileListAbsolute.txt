@@ -1,0 +1,1 @@
+C:\Users\lando\Documents\GitHub\Overdrive_Pedal\Windows\Overdrive_Pedal\Builds\VisualStudio2019\x64\Debug\Shared Code\Overdrive_Pedal.lib

@@ -1,0 +1,475 @@
+﻿  LV_DialComponent.cpp
+  LV_FaderComponent.cpp
+  LV_GroupComponent.cpp
+  LV_LabelComponent.cpp
+  LV_MenuComponent.cpp
+  LV_PowerToggle.cpp
+  LV_PushButtonComponent.cpp
+  LV_Window.cpp
+  UI-Constructor.cpp
+  UI-InitWindow.cpp
+  UI-Paint.cpp
+  UI-Resized.cpp
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_DialComponent.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_DialComponent.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_DialComponent.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_DialComponent.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_DialComponent.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_DialComponent.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_DialComponent.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_DialComponent.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_DialComponent.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(86,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_DialComponent.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\LV_PushButton.h(28,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Components\LV_PushButtonComponent.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\LV_PushButton.h(29,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Components\LV_PushButtonComponent.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Components\LV_PushButtonComponent.cpp(25,53): warning C4100: 'g': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Components\LV_DialComponent.cpp(34,47): warning C4100: 'g': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Components\LV_MenuComponent.cpp(26,47): warning C4100: 'g': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Components\LV_GroupComponent.cpp(25,48): warning C4100: 'g': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Components\LV_LabelComponent.cpp(26,48): warning C4100: 'g': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Components\LV_Window.cpp(41,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Components\LV_Window.cpp(41,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Components\LV_Window.cpp(50,88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Components\LV_Window.cpp(50,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Components\LV_Window.cpp(50,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Components\LV_Window.cpp(50,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Components\LV_Window.cpp(55,77): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Components\LV_Window.cpp(55,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Components\LV_Window.cpp(55,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Components\LV_Window.cpp(55,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Components\LV_Window.cpp(62,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Components\LV_Window.cpp(63,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Components\LV_Window.cpp(63,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Components\LV_Window.cpp(63,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Components\LV_Window.cpp(63,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_FaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_FaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_FaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_FaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_FaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_FaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_FaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_FaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_FaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(86,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_FaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Components\LV_FaderComponent.cpp(24,48): warning C4100: 'g': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(41,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(50,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(51,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(52,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(59,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(66,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(48,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(75,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(76,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(77,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(78,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(84,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(91,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(73,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(86,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-Resized.cpp(20,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-Resized.cpp(21,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-Resized.cpp(22,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-Resized.cpp(23,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-Resized.cpp(24,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-Resized.cpp(25,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-Resized.cpp(26,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-Resized.cpp(28,80): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-Resized.cpp(28,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_PowerToggle.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-Resized.cpp(28,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-Resized.cpp(28,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_PowerToggle.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-Resized.cpp(29,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-Resized.cpp(30,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_PowerToggle.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_PowerToggle.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-Resized.cpp(31,120): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-Resized.cpp(31,105): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-Resized.cpp(31,70): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_PowerToggle.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-Resized.cpp(33,108): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-Resized.cpp(33,98): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-Resized.cpp(33,91): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-Resized.cpp(33,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-Resized.cpp(34,131): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_PowerToggle.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-Resized.cpp(34,121): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_PowerToggle.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-Resized.cpp(34,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_PowerToggle.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-Resized.cpp(35,120): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_PowerToggle.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-Resized.cpp(35,110): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-Resized.cpp(35,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(86,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_PowerToggle.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-Resized.cpp(36,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-Resized.cpp(36,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-Resized.cpp(38,118): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-Resized.cpp(38,108): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-Resized.cpp(38,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Components\LV_PowerToggle.cpp(26,45): warning C4100: 'g': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(41,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(50,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(51,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(52,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(59,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(66,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(48,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(75,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(76,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(77,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(78,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(84,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(91,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(73,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(86,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(41,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(50,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(51,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(52,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(59,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(66,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(48,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(75,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(76,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(77,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(78,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(84,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(91,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(73,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(86,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(41,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(50,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(51,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(52,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(59,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(66,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(48,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(75,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(76,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(77,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(78,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(84,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(91,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(73,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(86,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-InitWindow.cpp(27,93): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-InitWindow.cpp(27,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-InitWindow.cpp(27,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-InitWindow.cpp(27,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-InitWindow.cpp(32,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-InitWindow.cpp(32,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-InitWindow.cpp(37,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-InitWindow.cpp(37,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  UI-SaveWindow.cpp
+  StyleSheet.cpp
+  ComponentProps.cpp
+  Filters.cpp
+  LV_BitCrusher.cpp
+  LV_SVFilter.cpp
+  ProcessorCore.cpp
+  UIFlexBox.cpp
+  PluginProcessor.cpp
+  PluginEditor.cpp
+  BinaryData.cpp
+  BinaryData2.cpp
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Widgets\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Widgets\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Widgets\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Widgets\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Widgets\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Widgets\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Widgets\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Widgets\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Widgets\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(86,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Widgets\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.cpp(58,50): warning C4244: 'argument': conversion from 'double' to 'ValueType', possible loss of data
+          with
+          [
+              ValueType=float
+          ]
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.cpp(57,50): warning C4244: 'argument': conversion from 'double' to 'ValueType', possible loss of data
+          with
+          [
+              ValueType=float
+          ]
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.cpp(61,140): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.cpp(66,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.cpp(186,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.cpp(185,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.cpp(170,35): warning C4100: 'shouldDrawButtonAsDown': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.cpp(169,48): warning C4100: 'shouldDrawButtonAsHighlighted': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(41,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(50,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(51,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(52,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(59,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(66,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(48,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(75,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(76,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(77,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(78,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(84,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(91,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(73,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(86,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(41,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(50,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(51,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(52,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(59,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(66,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(48,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(75,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(76,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(77,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(78,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(84,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(91,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(73,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-SaveWindow.cpp(22,46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\UI-Methods\UI-SaveWindow.cpp(23,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(86,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\LV_BitCrusher.cpp(17,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\LV_BitCrusher.cpp(31,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\LV_BitCrusher.cpp(77,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\LV_BitCrusher.cpp(80,69): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\LV_BitCrusher.cpp(112,40): warning C4244: 'argument': conversion from 'int' to 'Type', possible loss of data
+          with
+          [
+              Type=float
+          ]
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\LV_BitCrusher.cpp(113,46): warning C4244: '=': conversion from 'ValueType' to 'int', possible loss of data
+          with
+          [
+              ValueType=float
+          ]
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\LV_BitCrusher.cpp(126,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\LV_BitCrusher.cpp(127,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\LV_BitCrusher.cpp(128,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\LV_BitCrusher.cpp(129,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(41,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(50,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(51,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(52,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(59,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(66,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(48,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(75,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(76,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(77,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(78,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(84,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(91,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(73,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(86,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ComponentProps.cpp(24,89): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ComponentProps.cpp(40,89): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ComponentProps.cpp(68,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ComponentProps.cpp(69,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ProcessorCore.cpp(13,94): warning C4100: 'numChannels': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ProcessorCore.cpp(13,77): warning C4100: 'block': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\LV_SVFilter.cpp(21,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\LV_SVFilter.cpp(62,39): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\LV_SVFilter.cpp(179,90): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(41,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(50,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(51,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(52,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(59,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(66,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(48,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(75,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(76,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(77,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(78,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(84,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(91,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(73,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(86,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(41,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(50,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(51,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(52,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(59,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(66,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(48,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(75,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(76,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(77,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(78,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(84,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(91,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\ViatorDial.h(73,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\Widgets\StyleSheet.h(86,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\PluginProcessor.cpp(101,53): warning C4100: 'index': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\PluginProcessor.cpp(105,64): warning C4100: 'index': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\PluginProcessor.cpp(110,80): warning C4100: 'newName': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\PluginProcessor.cpp(110,53): warning C4100: 'index': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\PluginProcessor.cpp(126,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\PluginProcessor.cpp(127,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\PluginProcessor.cpp(133,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\PluginProcessor.cpp(134,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\PluginProcessor.cpp(229,22): warning C4244: 'argument': conversion from 'int' to 'Type', possible loss of data
+          with
+          [
+              Type=float
+          ]
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\PluginProcessor.cpp(188,96): warning C4100: 'midiMessages': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\PluginEditor.cpp(41,59): warning C4100: 'g': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\PluginEditor.cpp(52,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\PluginEditor.cpp(52,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\PluginEditor.cpp(55,69): warning C4100: 'slider': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Source\PluginProcessor.cpp(277,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  include_juce_audio_basics.cpp
+  include_juce_audio_devices.cpp
+  include_juce_audio_formats.cpp
+  include_juce_audio_plugin_client_utils.cpp
+  include_juce_audio_processors.cpp
+  include_juce_audio_utils.cpp
+  include_juce_core.cpp
+  include_juce_data_structures.cpp
+  include_juce_dsp.cpp
+  include_juce_events.cpp
+  include_juce_graphics.cpp
+  include_juce_gui_extra.cpp
+  include_juce_gui_basics.cpp
+  Marauder_SharedCode.vcxproj -> C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Builds\VisualStudio2019\x64\Release\Shared Code\Marauder.lib

@@ -1,0 +1,5 @@
+﻿  include_juce_audio_plugin_client_VST3.cpp
+     Creating library C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Builds\VisualStudio2019\x64\Release\VST3\LV50A.lib and object C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Builds\VisualStudio2019\x64\Release\VST3\LV50A.exp
+  Generating code
+  Finished generating code
+  LV50A_VST3.vcxproj -> C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Builds\VisualStudio2019\x64\Release\VST3\LV50A.vst3

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="i5XZ8x" name="Overdrive Pedal" projectType="audioplug" useAppConfig="0"
+              addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1"
+              bundleIdentifier="com.ViatorDSP.Overdrive" pluginName="Overdrive"
+              pluginDesc="Overdrive pedal for the front-end of an amp." pluginManufacturer="Viator DSP">
+  <MAINGROUP id="XLvoGm" name="Overdrive Pedal">
+    <GROUP id="{8E953BD9-6BFF-4254-3308-7693B4E2E3AD}" name="Assets">
+      <FILE id="zgqxuy" name="landon55-04.png" compile="0" resource="1" file="Source/Assets/landon55-04.png"/>
+      <FILE id="Vewcij" name="pluginBackground.png" compile="0" resource="1"
+            file="Source/Assets/pluginBackground.png"/>
+    </GROUP>
+    <GROUP id="{45BBD541-9E23-6F00-8E19-6D742B2B32BD}" name="Source">
+      <GROUP id="{19230DDF-BF9D-ED46-9752-BA1371DE8D95}" name="ChaosModule">
+        <FILE id="zM6HDk" name="ChaosModule.cpp" compile="1" resource="0" file="Source/ChaosModule.cpp"/>
+      </GROUP>
+      <GROUP id="{2AEDFD78-1994-80AF-C933-4AA0C7240CB8}" name="ProcessorCore">
+        <FILE id="q6ED3K" name="ProcessorCore.cpp" compile="1" resource="0"
+              file="Source/ProcessorCore.cpp"/>
+      </GROUP>
+      <GROUP id="{5663AE08-8D3A-1AAF-8E5F-99F88BC64092}" name="GainModule">
+        <FILE id="KNCjW8" name="GainModule.cpp" compile="1" resource="0" file="Source/GainModule.cpp"/>
+      </GROUP>
+      <GROUP id="{18579AAF-EF89-3931-557F-06587D1CCE48}" name="DriveModule">
+        <FILE id="sPTzLE" name="DriveModule.cpp" compile="1" resource="0" file="Source/DriveModule.cpp"/>
+      </GROUP>
+      <GROUP id="{A7AA3EAC-FD33-F5E3-74A8-E0C2F03C867E}" name="BlockChain">
+        <FILE id="uk7cFp" name="BlockChain.cpp" compile="1" resource="0" file="Source/BlockChain.cpp"/>
+      </GROUP>
+      <GROUP id="{DE499F51-BBC1-98D4-FC9C-4B2BAACE74D9}" name="FiltersModule">
+        <FILE id="OX3ISF" name="FiltersModule.cpp" compile="1" resource="0"
+              file="Source/FiltersModule.cpp"/>
+      </GROUP>
+      <FILE id="oQQHKL" name="ViatorDial.h" compile="0" resource="0" file="Source/ViatorDial.h"/>
+      <FILE id="AS9UO2" name="PluginProcessor.cpp" compile="1" resource="0"
+            file="Source/PluginProcessor.cpp"/>
+      <FILE id="YqmaU3" name="PluginProcessor.h" compile="0" resource="0"
+            file="Source/PluginProcessor.h"/>
+      <FILE id="ByoQNa" name="PluginEditor.cpp" compile="1" resource="0"
+            file="Source/PluginEditor.cpp"/>
+      <FILE id="AcIp1l" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+    </GROUP>
+  </MAINGROUP>
+  <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1" JUCE_VST3_CAN_REPLACE_VST2="0"/>
+  <EXPORTFORMATS>
+    <XCODE_MAC targetFolder="Builds/MacOSX">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug" targetName="Overdrive Pedal" optimisation="3"/>
+        <CONFIGURATION isDebug="0" name="Release" targetName="Overdrive Pedal"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_core" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_dsp" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../../../../JUCE/modules"/>
+      </MODULEPATHS>
+    </XCODE_MAC>
+  </EXPORTFORMATS>
+  <MODULES>
+    <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_plugin_client" showAllCode="1" useLocalCopy="0"
+            useGlobalPath="1"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_utils" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_dsp" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+  </MODULES>
+  <LIVE_SETTINGS>
+    <OSX/>
+  </LIVE_SETTINGS>
+</JUCERPROJECT>

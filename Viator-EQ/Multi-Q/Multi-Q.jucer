@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="t5iaVk" name="Multi-Q" projectType="audioplug" useAppConfig="0"
+              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="Viator DSP">
+  <MAINGROUP id="hgatCz" name="Multi-Q">
+    <GROUP id="{5244337E-67A1-F4C5-25A2-8EC35329EDEC}" name="Source">
+      <GROUP id="{50E31D72-64D2-243F-C3FF-4518999CE62A}" name="Assets">
+        <FILE id="mTxaz3" name="Articulations_back.png" compile="0" resource="1"
+              file="Source/Assets/Articulations_back.png"/>
+        <FILE id="jSx63i" name="Articulations_decore.png" compile="0" resource="1"
+              file="Source/Assets/Articulations_decore.png"/>
+        <FILE id="iE4Efe" name="Articulations_line_1.png" compile="0" resource="1"
+              file="Source/Assets/Articulations_line_1.png"/>
+        <FILE id="LYr1bk" name="Articulations_line_2.png" compile="0" resource="1"
+              file="Source/Assets/Articulations_line_2.png"/>
+        <FILE id="oAn2lB" name="back_vu-meter_decore.png" compile="0" resource="1"
+              file="Source/Assets/back_vu-meter_decore.png"/>
+        <FILE id="Af6DK0" name="background.png" compile="0" resource="1" file="Source/Assets/background.png"/>
+        <FILE id="QsC7ru" name="btclipper.png" compile="0" resource="1" file="Source/Assets/btclipper.png"/>
+        <FILE id="TdQxVW" name="button_middle_off.png" compile="0" resource="1"
+              file="Source/Assets/button_middle_off.png"/>
+        <FILE id="Hr97ek" name="button_middle_on.png" compile="0" resource="1"
+              file="Source/Assets/button_middle_on.png"/>
+        <FILE id="ULWvOG" name="button_small_off.png" compile="0" resource="1"
+              file="Source/Assets/button_small_off.png"/>
+        <FILE id="T7iCgk" name="button_small_on.png" compile="0" resource="1"
+              file="Source/Assets/button_small_on.png"/>
+        <FILE id="Cihp09" name="knob_middle.png" compile="0" resource="1" file="Source/Assets/knob_middle.png"/>
+        <FILE id="j8NgHy" name="knob_small.png" compile="0" resource="1" file="Source/Assets/knob_small.png"/>
+        <FILE id="ZwxvZn" name="landon55-04.png" compile="0" resource="1" file="Source/Assets/landon55-04.png"/>
+        <FILE id="cSHgn3" name="led_off.png" compile="0" resource="1" file="Source/Assets/led_off.png"/>
+        <FILE id="X3MsCN" name="led_on.png" compile="0" resource="1" file="Source/Assets/led_on.png"/>
+        <FILE id="bJsFHh" name="pluginBackground2.png" compile="0" resource="1"
+              file="Source/Assets/pluginBackground2.png"/>
+        <FILE id="BEjFJz" name="projucer.png" compile="0" resource="1" file="Source/Assets/projucer.png"/>
+        <FILE id="ZVFoT1" name="scale_knob middle.png" compile="0" resource="1"
+              file="Source/Assets/scale_knob middle.png"/>
+        <FILE id="RaOPg2" name="scale_knob small_.png" compile="0" resource="1"
+              file="Source/Assets/scale_knob small_.png"/>
+        <FILE id="RC1PWB" name="slider_vertical.png" compile="0" resource="1"
+              file="Source/Assets/slider_vertical.png"/>
+      </GROUP>
+      <GROUP id="{15B15F08-22BA-E8AC-BBAB-0D2466C2ACFB}" name="Parameters">
+        <FILE id="boxGBr" name="Parameters.cpp" compile="1" resource="0" file="Source/Parameters/Parameters.cpp"/>
+        <FILE id="bTZHa6" name="Parameters.h" compile="0" resource="0" file="Source/Parameters/Parameters.h"/>
+      </GROUP>
+      <GROUP id="{E3FC2293-AF2F-1591-2990-C204E53C0579}" name="GraphicEQ">
+        <FILE id="IQbCPk" name="GraphicEQ.cpp" compile="1" resource="0" file="Source/GraphicEQ/GraphicEQ.cpp"/>
+      </GROUP>
+      <GROUP id="{92B360DD-490B-5D9C-93D0-256F615FD639}" name="ParametricEQ">
+        <FILE id="PlqyBq" name="ParametricEQ.cpp" compile="1" resource="0"
+              file="Source/ParametricEQ/ParametricEQ.cpp"/>
+      </GROUP>
+      <GROUP id="{1D252C92-7EC2-B1C9-DB81-0E9D18D9DF71}" name="TubeEQ">
+        <FILE id="R0vf4Z" name="TubeEQ.cpp" compile="1" resource="0" file="Source/TubeEQ/TubeEQ.cpp"/>
+      </GROUP>
+      <GROUP id="{9230D3AD-D5F3-5387-EA55-4643B342ECE6}" name="DSP">
+        <FILE id="RjuITb" name="GraphicEQ.cpp" compile="1" resource="0" file="Source/DSP/GraphicEQ.cpp"/>
+        <FILE id="tGZdJN" name="GraphicEQ.h" compile="0" resource="0" file="Source/DSP/GraphicEQ.h"/>
+        <FILE id="RvcWS9" name="ParametricEQ.cpp" compile="1" resource="0"
+              file="Source/DSP/ParametricEQ.cpp"/>
+        <FILE id="UN9lYc" name="ParametricEQ.h" compile="0" resource="0" file="Source/DSP/ParametricEQ.h"/>
+        <FILE id="Wo3v1S" name="TubeEQ.cpp" compile="1" resource="0" file="Source/DSP/TubeEQ.cpp"/>
+        <FILE id="W3Ee8A" name="TubeEQ.h" compile="0" resource="0" file="Source/DSP/TubeEQ.h"/>
+      </GROUP>
+      <GROUP id="{5D1B686E-516F-6F7D-6CEC-3FB6814A4BD3}" name="UI-Methods">
+        <FILE id="kQV2sK" name="OversamplingMenu.cpp" compile="1" resource="0"
+              file="Source/UI-Methods/OversamplingMenu.cpp"/>
+        <FILE id="IQRenu" name="UI-Constructor.cpp" compile="1" resource="0"
+              file="Source/UI-Methods/UI-Constructor.cpp"/>
+        <FILE id="DdNEVt" name="UI-InitWindow.cpp" compile="1" resource="0"
+              file="Source/UI-Methods/UI-InitWindow.cpp"/>
+        <FILE id="SfdlYt" name="UI-Paint.cpp" compile="1" resource="0" file="Source/UI-Methods/UI-Paint.cpp"/>
+        <FILE id="geGhG9" name="UI-Resized.cpp" compile="1" resource="0" file="Source/UI-Methods/UI-Resized.cpp"/>
+        <FILE id="bhq06i" name="UI-SaveWindow.cpp" compile="1" resource="0"
+              file="Source/UI-Methods/UI-SaveWindow.cpp"/>
+      </GROUP>
+      <GROUP id="{CE34EEC1-0872-E4B4-4BCC-60D6EDE88B9E}" name="UI-Components">
+        <FILE id="flmx3z" name="CPUComponent.cpp" compile="1" resource="0"
+              file="Source/UI-Components/CPUComponent.cpp"/>
+        <FILE id="kfSQbx" name="CPUComponent.h" compile="0" resource="0" file="Source/UI-Components/CPUComponent.h"/>
+        <FILE id="Q4Rv6B" name="GraphicEQComponent.cpp" compile="1" resource="0"
+              file="Source/UI-Components/GraphicEQComponent.cpp"/>
+        <FILE id="fBoeIA" name="GraphicEQComponent.h" compile="0" resource="0"
+              file="Source/UI-Components/GraphicEQComponent.h"/>
+        <FILE id="CiIJyD" name="LV_Window.cpp" compile="1" resource="0" file="Source/UI-Components/LV_Window.cpp"/>
+        <FILE id="RVIlZg" name="LV_Window.h" compile="0" resource="0" file="Source/UI-Components/LV_Window.h"/>
+        <FILE id="vycG4G" name="TubeEQComponent.cpp" compile="1" resource="0"
+              file="Source/TubeEQComponent.cpp"/>
+        <FILE id="zcF9wU" name="TubeEQComponent.h" compile="0" resource="0"
+              file="Source/TubeEQComponent.h"/>
+        <FILE id="RNIwX5" name="ParametricEQComponent.cpp" compile="1" resource="0"
+              file="Source/UI-Components/ParametricEQComponent.cpp"/>
+        <FILE id="GT2P57" name="ParametricEQComponent.h" compile="0" resource="0"
+              file="Source/UI-Components/ParametricEQComponent.h"/>
+      </GROUP>
+      <FILE id="O8roDG" name="PluginProcessor.cpp" compile="1" resource="0"
+            file="Source/PluginProcessor.cpp"/>
+      <FILE id="RRKJzz" name="PluginProcessor.h" compile="0" resource="0"
+            file="Source/PluginProcessor.h"/>
+      <FILE id="VpHTpm" name="PluginEditor.cpp" compile="1" resource="0"
+            file="Source/PluginEditor.cpp"/>
+      <FILE id="T1JwIP" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+    </GROUP>
+  </MAINGROUP>
+  <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1" JUCE_VST3_CAN_REPLACE_VST2="0"/>
+  <EXPORTFORMATS>
+    <XCODE_MAC targetFolder="Builds/MacOSX">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug" targetName="Multi-Q"/>
+        <CONFIGURATION isDebug="0" name="Release" targetName="Multi-Q"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_core" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_dsp" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../../JUCE/modules"/>
+        <MODULEPATH id="viator_modules" path="../../viatordsp"/>
+      </MODULEPATHS>
+    </XCODE_MAC>
+    <VS2019 targetFolder="Builds/VisualStudio2019">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug" useRuntimeLibDLL="0"/>
+        <CONFIGURATION isDebug="0" name="Release" useRuntimeLibDLL="0"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="/Users/land00m/Documents/GitHub/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="/Users/land00m/Documents/GitHub/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="/Users/land00m/Documents/GitHub/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="/Users/land00m/Documents/GitHub/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="/Users/land00m/Documents/GitHub/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="/Users/land00m/Documents/GitHub/JUCE/modules"/>
+        <MODULEPATH id="juce_core" path="/Users/land00m/Documents/GitHub/JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="/Users/land00m/Documents/GitHub/JUCE/modules"/>
+        <MODULEPATH id="juce_dsp" path="/Users/land00m/Documents/GitHub/JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="/Users/land00m/Documents/GitHub/JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="/Users/land00m/Documents/GitHub/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="/Users/land00m/Documents/GitHub/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="/Users/land00m/Documents/GitHub/JUCE/modules"/>
+        <MODULEPATH id="viator_modules" path="../../viatordsp"/>
+      </MODULEPATHS>
+    </VS2019>
+  </EXPORTFORMATS>
+  <MODULES>
+    <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_plugin_client" showAllCode="1" useLocalCopy="0"
+            useGlobalPath="1"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_utils" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_dsp" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="viator_modules" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+  </MODULES>
+</JUCERPROJECT>

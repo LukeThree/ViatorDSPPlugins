@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="lRvihA" name="Electron EQ" projectType="audioplug" useAppConfig="0"
+              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" version="1.0.0"
+              companyName="Viator DSP" companyCopyright="Landon VIator 2017"
+              companyEmail="landonviator@gmail.com" companyWebsite="https://www.patreon.com/ViatorDSP"
+              pluginManufacturer="Viator DSP">
+  <MAINGROUP id="ax9ls0" name="Electron EQ">
+    <GROUP id="{B25BB9ED-2788-4462-9FC0-7D3B14AE95BB}" name="ParameterDef">
+      <FILE id="NMz2gu" name="Parameters.h" compile="0" resource="0" file="Source/Parameters.h"/>
+      <FILE id="IMP5fM" name="RecallParameters.cpp" compile="1" resource="0"
+            file="Source/RecallParameters.cpp"/>
+    </GROUP>
+    <GROUP id="{1DBA8EA7-F38B-816D-7EE3-2265A19E4775}" name="DSP">
+      <FILE id="SzRDOo" name="DSPMethods.cpp" compile="1" resource="0" file="Source/DSPMethods.cpp"/>
+      <FILE id="nUvIZO" name="LV_SVFilter.cpp" compile="1" resource="0" file="Source/LV_SVFilter.cpp"/>
+      <FILE id="hNMwP6" name="LV_SVFilter.h" compile="0" resource="0" file="Source/LV_SVFilter.h"/>
+      <FILE id="Q29Lr5" name="LV_TubeModel.cpp" compile="1" resource="0"
+            file="Source/LV_TubeModel.cpp"/>
+      <FILE id="p2vTbA" name="LV_TubeModel.h" compile="0" resource="0" file="Source/LV_TubeModel.h"/>
+    </GROUP>
+    <GROUP id="{EE1510D7-1998-F64D-EE4D-C3D07D5441B9}" name="UI">
+      <FILE id="XSRZuB" name="Buttons.cpp" compile="1" resource="0" file="Source/Buttons.cpp"/>
+      <FILE id="NbaxPU" name="Dials.cpp" compile="1" resource="0" file="Source/Dials.cpp"/>
+      <FILE id="DQx7jf" name="Labels.cpp" compile="1" resource="0" file="Source/Labels.cpp"/>
+      <FILE id="CSKBU1" name="Shadow.cpp" compile="1" resource="0" file="Source/Shadow.cpp"/>
+      <FILE id="GIwKFw" name="StereoMenu.cpp" compile="1" resource="0" file="Source/StereoMenu.cpp"/>
+      <FILE id="XAYNR9" name="StyleSheet.cpp" compile="1" resource="0" file="Source/StyleSheet.cpp"/>
+      <FILE id="IfWJv3" name="StyleSheet.h" compile="0" resource="0" file="Source/StyleSheet.h"/>
+      <FILE id="OsTq1Y" name="ViatorDial.h" compile="0" resource="0" file="Source/ViatorDial.h"/>
+    </GROUP>
+    <GROUP id="{6C84AE92-27FE-5FDF-F300-28BFB22582C2}" name="Assets">
+      <FILE id="AHebm0" name="landon55-03.png" compile="0" resource="1" file="Source/Assets/landon55-03.png"/>
+      <FILE id="h2sROA" name="landon55-04.png" compile="0" resource="1" file="Source/Assets/landon55-04.png"/>
+      <FILE id="wJ2eDf" name="pluginBackground.png" compile="0" resource="1"
+            file="Source/Assets/pluginBackground.png"/>
+      <FILE id="MILnEu" name="pluginBackground2.png" compile="0" resource="1"
+            file="Source/Assets/pluginBackground2.png"/>
+    </GROUP>
+    <GROUP id="{A4DA848E-E32F-616E-EB82-527B944DA58B}" name="Source">
+      <FILE id="aohyqm" name="PluginProcessor.cpp" compile="1" resource="0"
+            file="Source/PluginProcessor.cpp"/>
+      <FILE id="NnBIhz" name="PluginProcessor.h" compile="0" resource="0"
+            file="Source/PluginProcessor.h"/>
+      <FILE id="zIwdzU" name="PluginEditor.cpp" compile="1" resource="0"
+            file="Source/PluginEditor.cpp"/>
+      <FILE id="bPUvw4" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+    </GROUP>
+  </MAINGROUP>
+  <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1" JUCE_VST3_CAN_REPLACE_VST2="0"/>
+  <EXPORTFORMATS>
+    <XCODE_MAC targetFolder="Builds/MacOSX">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug" targetName="Electron EQ"/>
+        <CONFIGURATION isDebug="0" name="Release" targetName="Electron EQ"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_core" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_dsp" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../../JUCE/modules"/>
+      </MODULEPATHS>
+    </XCODE_MAC>
+  </EXPORTFORMATS>
+  <MODULES>
+    <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_plugin_client" showAllCode="1" useLocalCopy="0"
+            useGlobalPath="1"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_utils" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_dsp" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+  </MODULES>
+  <LIVE_SETTINGS>
+    <OSX/>
+  </LIVE_SETTINGS>
+</JUCERPROJECT>

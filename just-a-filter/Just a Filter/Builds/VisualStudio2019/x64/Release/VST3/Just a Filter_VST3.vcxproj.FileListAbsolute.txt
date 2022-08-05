@@ -1,0 +1,1 @@
+C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Builds\VisualStudio2019\x64\Release\VST3\Just a Filter.vst3

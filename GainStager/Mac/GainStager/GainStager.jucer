@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="vH7rO1" name="GainStager" projectType="audioplug" useAppConfig="0"
+              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" bundleIdentifier="com.ViatorDSP.GainStager"
+              pluginName="Gain Stager" pluginManufacturer="Viator DSP" pluginDesc="Auto Gain Stager"
+              pluginManufacturerCode="VDSP" pluginCode="VAGS" pluginAUExportPrefix="GainStagerV3"
+              version="1.0.2">
+  <MAINGROUP id="uSlstC" name="GainStager">
+    <GROUP id="{9F565A77-FE30-A459-E495-A56B7C9E3F06}" name="Assets">
+      <FILE id="M1PvLf" name="landon55-04.png" compile="0" resource="1" file="Source/Assets/landon55-04.png"/>
+      <FILE id="kHMzu4" name="pluginBackground2.png" compile="0" resource="1"
+            file="Source/Assets/pluginBackground2.png"/>
+    </GROUP>
+    <GROUP id="{37CD26ED-747E-9F56-FFA9-0339590FDD1D}" name="DSP">
+      <FILE id="iyxCd4" name="SignalDSP.cpp" compile="1" resource="0" file="Source/SignalDSP.cpp"/>
+    </GROUP>
+    <GROUP id="{28DBCC2A-4932-9BE0-1A8E-C45E4F8CB304}" name="Parameters">
+      <FILE id="WrFuCE" name="Parameters.cpp" compile="1" resource="0" file="Source/Parameters.cpp"/>
+      <FILE id="wO5KAL" name="Parameters.h" compile="0" resource="0" file="Source/Parameters.h"/>
+    </GROUP>
+    <GROUP id="{66EF3A88-5392-14CB-B74E-307FC9B6FE17}" name="GUI">
+      <FILE id="iR0UVi" name="ComponentProps.cpp" compile="1" resource="0"
+            file="Source/ComponentProps.cpp"/>
+      <FILE id="T3pCIG" name="StyleSheet.cpp" compile="1" resource="0" file="Source/StyleSheet.cpp"/>
+      <FILE id="vBghPg" name="StyleSheet.h" compile="0" resource="0" file="Source/StyleSheet.h"/>
+      <FILE id="UVH25D" name="ViatorDial.h" compile="0" resource="0" file="Source/ViatorDial.h"/>
+    </GROUP>
+    <GROUP id="{7BEC6F0F-1AD2-618C-E99C-7E8ECABCB8A5}" name="Source">
+      <FILE id="L6H1Ko" name="PluginProcessor.cpp" compile="1" resource="0"
+            file="Source/PluginProcessor.cpp"/>
+      <FILE id="Y019Pt" name="PluginProcessor.h" compile="0" resource="0"
+            file="Source/PluginProcessor.h"/>
+      <FILE id="BeFXlf" name="PluginEditor.cpp" compile="1" resource="0"
+            file="Source/PluginEditor.cpp"/>
+      <FILE id="OEo2z4" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+    </GROUP>
+  </MAINGROUP>
+  <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1" JUCE_VST3_CAN_REPLACE_VST2="0"/>
+  <EXPORTFORMATS>
+    <XCODE_MAC targetFolder="Builds/MacOSX">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug" targetName="GainStager"/>
+        <CONFIGURATION isDebug="0" name="Release" targetName="GainStager"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_core" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_dsp" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../../../../JUCE/modules"/>
+      </MODULEPATHS>
+    </XCODE_MAC>
+  </EXPORTFORMATS>
+  <MODULES>
+    <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_plugin_client" showAllCode="1" useLocalCopy="0"
+            useGlobalPath="1"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_utils" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_dsp" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+  </MODULES>
+  <LIVE_SETTINGS>
+    <OSX/>
+  </LIVE_SETTINGS>
+</JUCERPROJECT>

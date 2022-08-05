@@ -1,0 +1,38 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2019
+
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DiodeAmplifier - Standalone Plugin", "DiodeAmplifier_StandalonePlugin.vcxproj", "{C5784EEA-563E-2A26-BF81-3FA5C9F157F7}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B4D66DAD-61D9-77F6-F20A-EB14CC7AA761} = {B4D66DAD-61D9-77F6-F20A-EB14CC7AA761}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DiodeAmplifier - VST3", "DiodeAmplifier_VST3.vcxproj", "{F7535257-1830-BE97-F3CC-71E9C7896FC4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B4D66DAD-61D9-77F6-F20A-EB14CC7AA761} = {B4D66DAD-61D9-77F6-F20A-EB14CC7AA761}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DiodeAmplifier - Shared Code", "DiodeAmplifier_SharedCode.vcxproj", "{B4D66DAD-61D9-77F6-F20A-EB14CC7AA761}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7535257-1830-BE97-F3CC-71E9C7896FC4}.Debug|x64.ActiveCfg = Debug|x64
+		{F7535257-1830-BE97-F3CC-71E9C7896FC4}.Debug|x64.Build.0 = Debug|x64
+		{F7535257-1830-BE97-F3CC-71E9C7896FC4}.Release|x64.ActiveCfg = Release|x64
+		{F7535257-1830-BE97-F3CC-71E9C7896FC4}.Release|x64.Build.0 = Release|x64
+		{C5784EEA-563E-2A26-BF81-3FA5C9F157F7}.Debug|x64.ActiveCfg = Debug|x64
+		{C5784EEA-563E-2A26-BF81-3FA5C9F157F7}.Debug|x64.Build.0 = Debug|x64
+		{C5784EEA-563E-2A26-BF81-3FA5C9F157F7}.Release|x64.ActiveCfg = Release|x64
+		{C5784EEA-563E-2A26-BF81-3FA5C9F157F7}.Release|x64.Build.0 = Release|x64
+		{B4D66DAD-61D9-77F6-F20A-EB14CC7AA761}.Debug|x64.ActiveCfg = Debug|x64
+		{B4D66DAD-61D9-77F6-F20A-EB14CC7AA761}.Debug|x64.Build.0 = Debug|x64
+		{B4D66DAD-61D9-77F6-F20A-EB14CC7AA761}.Release|x64.ActiveCfg = Release|x64
+		{B4D66DAD-61D9-77F6-F20A-EB14CC7AA761}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

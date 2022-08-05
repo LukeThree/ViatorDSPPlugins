@@ -1,0 +1,3 @@
+﻿  include_juce_audio_plugin_client_VST3.cpp
+     Creating library C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Builds\VisualStudio2019\x64\Debug\VST3\GainStager.lib and object C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Builds\VisualStudio2019\x64\Debug\VST3\GainStager.exp
+  GainStager_VST3.vcxproj -> C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Builds\VisualStudio2019\x64\Debug\VST3\GainStager.vst3

@@ -1,0 +1,2 @@
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Builds\VisualStudio2019\x64\Debug\Standalone Plugin\Reverb.exe
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Builds\VisualStudio2019\x64\Debug\Standalone Plugin\Reverb.pdb

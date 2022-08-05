@@ -1,0 +1,5 @@
+﻿  include_juce_audio_plugin_client_VST3.cpp
+     Creating library C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Builds\VisualStudio2019\x64\Release\VST3\Graphic_EQ.lib and object C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Builds\VisualStudio2019\x64\Release\VST3\Graphic_EQ.exp
+  Generating code
+  Finished generating code
+  Graphic_EQ_VST3.vcxproj -> C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Builds\VisualStudio2019\x64\Release\VST3\Graphic_EQ.vst3

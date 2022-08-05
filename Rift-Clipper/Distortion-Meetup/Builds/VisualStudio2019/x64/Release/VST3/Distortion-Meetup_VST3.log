@@ -1,0 +1,5 @@
+﻿  include_juce_audio_plugin_client_VST3.cpp
+     Creating library C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Builds\VisualStudio2019\x64\Release\VST3\Distortion-Meetup.lib and object C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Builds\VisualStudio2019\x64\Release\VST3\Distortion-Meetup.exp
+  Generating code
+  Finished generating code
+  Distortion-Meetup_VST3.vcxproj -> C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Builds\VisualStudio2019\x64\Release\VST3\Distortion-Meetup.vst3

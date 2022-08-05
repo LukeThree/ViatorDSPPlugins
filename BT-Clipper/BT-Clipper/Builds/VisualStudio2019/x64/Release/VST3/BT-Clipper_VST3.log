@@ -1,0 +1,5 @@
+﻿  include_juce_audio_plugin_client_VST3.cpp
+     Creating library C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Builds\VisualStudio2019\x64\Release\VST3\BT-Clipper.lib and object C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Builds\VisualStudio2019\x64\Release\VST3\BT-Clipper.exp
+  Generating code
+  Finished generating code
+  BT-Clipper_VST3.vcxproj -> C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Builds\VisualStudio2019\x64\Release\VST3\BT-Clipper.vst3

@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio Version 16
+
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VoxDrive - Standalone Plugin", "VoxDrive_StandalonePlugin.vcxproj", "{6587AF5F-4F0D-7C4A-A2C1-91171388936B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{13184C70-C69B-82C2-5EC2-91DB1BC17E78} = {13184C70-C69B-82C2-5EC2-91DB1BC17E78}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VoxDrive - VST3", "VoxDrive_VST3.vcxproj", "{22B067DA-5EB7-EC5F-497B-40FBF03D22F5}"
+	ProjectSection(ProjectDependencies) = postProject
+		{13184C70-C69B-82C2-5EC2-91DB1BC17E78} = {13184C70-C69B-82C2-5EC2-91DB1BC17E78}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VoxDrive - Shared Code", "VoxDrive_SharedCode.vcxproj", "{13184C70-C69B-82C2-5EC2-91DB1BC17E78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22B067DA-5EB7-EC5F-497B-40FBF03D22F5}.Debug|x64.ActiveCfg = Debug|x64
+		{22B067DA-5EB7-EC5F-497B-40FBF03D22F5}.Debug|x64.Build.0 = Debug|x64
+		{22B067DA-5EB7-EC5F-497B-40FBF03D22F5}.Release|x64.ActiveCfg = Release|x64
+		{22B067DA-5EB7-EC5F-497B-40FBF03D22F5}.Release|x64.Build.0 = Release|x64
+		{6587AF5F-4F0D-7C4A-A2C1-91171388936B}.Debug|x64.ActiveCfg = Debug|x64
+		{6587AF5F-4F0D-7C4A-A2C1-91171388936B}.Debug|x64.Build.0 = Debug|x64
+		{6587AF5F-4F0D-7C4A-A2C1-91171388936B}.Release|x64.ActiveCfg = Release|x64
+		{6587AF5F-4F0D-7C4A-A2C1-91171388936B}.Release|x64.Build.0 = Release|x64
+		{13184C70-C69B-82C2-5EC2-91DB1BC17E78}.Debug|x64.ActiveCfg = Debug|x64
+		{13184C70-C69B-82C2-5EC2-91DB1BC17E78}.Debug|x64.Build.0 = Debug|x64
+		{13184C70-C69B-82C2-5EC2-91DB1BC17E78}.Release|x64.ActiveCfg = Release|x64
+		{13184C70-C69B-82C2-5EC2-91DB1BC17E78}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

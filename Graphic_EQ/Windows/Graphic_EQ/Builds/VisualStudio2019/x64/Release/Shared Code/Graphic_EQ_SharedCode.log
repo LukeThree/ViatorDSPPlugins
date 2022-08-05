@@ -1,0 +1,320 @@
+﻿  LV_DialComponent.cpp
+  LV_FaderComponent.cpp
+  LV_GroupComponent.cpp
+  LV_LabelComponent.cpp
+  LV_MenuComponent.cpp
+  LV_PowerToggle.cpp
+  LV_PushButtonComponent.cpp
+  LV_Window.cpp
+  UI-Constructor.cpp
+  UI-InitWindow.cpp
+  UI-Paint.cpp
+  UI-Resized.cpp
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Components\LV_MenuComponent.cpp(26,47): warning C4100: 'g': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_DialComponent.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_DialComponent.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_DialComponent.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_DialComponent.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_DialComponent.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Components\LV_LabelComponent.cpp(26,48): warning C4100: 'g': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_DialComponent.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_DialComponent.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_DialComponent.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_DialComponent.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(86,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_DialComponent.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Components\LV_DialComponent.cpp(30,47): warning C4100: 'g': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(34,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(40,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(86,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\LV_PushButton.h(28,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Components\LV_PushButtonComponent.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\LV_PushButton.h(29,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Components\LV_PushButtonComponent.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Components\LV_PushButtonComponent.cpp(21,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Components\LV_PushButtonComponent.cpp(22,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Components\LV_GroupComponent.cpp(25,48): warning C4100: 'g': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Components\LV_Window.cpp(41,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Components\LV_Window.cpp(41,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Components\LV_Window.cpp(50,88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Components\LV_Window.cpp(50,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Components\LV_Window.cpp(50,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Components\LV_Window.cpp(50,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Components\LV_Window.cpp(55,77): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Components\LV_Window.cpp(55,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Components\LV_Window.cpp(55,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Components\LV_Window.cpp(55,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Components\LV_Window.cpp(62,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Components\LV_Window.cpp(63,75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Components\LV_Window.cpp(63,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Components\LV_Window.cpp(63,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Components\LV_Window.cpp(63,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_PowerToggle.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_PowerToggle.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_PowerToggle.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_PowerToggle.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_PowerToggle.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_PowerToggle.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_PowerToggle.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_PowerToggle.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_PowerToggle.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(86,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_PowerToggle.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Components\LV_PowerToggle.cpp(26,45): warning C4100: 'g': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(34,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(40,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(86,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(34,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(40,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_FaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_FaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_FaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_FaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_FaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_FaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_FaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(86,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_FaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_FaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(86,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_FaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Components\LV_FaderComponent.cpp(20,48): warning C4100: 'g': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(34,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(40,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Methods\UI-Resized.cpp(29,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Methods\UI-Resized.cpp(29,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Methods\UI-Resized.cpp(29,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Methods\UI-Resized.cpp(29,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Methods\UI-Resized.cpp(34,112): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Methods\UI-Resized.cpp(34,99): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Methods\UI-Resized.cpp(34,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Methods\UI-Resized.cpp(38,142): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Methods\UI-Resized.cpp(39,143): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Methods\UI-Resized.cpp(41,105): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Methods\UI-Resized.cpp(41,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Methods\UI-Resized.cpp(42,138): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Methods\UI-Resized.cpp(42,128): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Methods\UI-Resized.cpp(42,93): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(86,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Methods\UI-InitWindow.cpp(27,93): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Methods\UI-InitWindow.cpp(27,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Methods\UI-InitWindow.cpp(27,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Methods\UI-InitWindow.cpp(27,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Methods\UI-InitWindow.cpp(32,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Methods\UI-InitWindow.cpp(32,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Methods\UI-InitWindow.cpp(37,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Methods\UI-InitWindow.cpp(37,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  UI-SaveWindow.cpp
+  StyleSheet.cpp
+  ComponentProps.cpp
+  Filters.cpp
+  ProcessorCore.cpp
+  PluginProcessor.cpp
+  PluginEditor.cpp
+  BinaryData.cpp
+  BinaryData2.cpp
+  include_juce_audio_basics.cpp
+  include_juce_audio_devices.cpp
+  include_juce_audio_formats.cpp
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Widgets\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Widgets\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Widgets\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Widgets\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Widgets\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Widgets\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Widgets\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Widgets\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Widgets\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(86,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Widgets\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.cpp(58,50): warning C4244: 'argument': conversion from 'double' to 'ValueType', possible loss of data
+          with
+          [
+              ValueType=float
+          ]
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.cpp(57,50): warning C4244: 'argument': conversion from 'double' to 'ValueType', possible loss of data
+          with
+          [
+              ValueType=float
+          ]
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.cpp(61,140): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.cpp(66,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.cpp(186,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.cpp(185,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.cpp(170,35): warning C4100: 'shouldDrawButtonAsDown': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.cpp(169,48): warning C4100: 'shouldDrawButtonAsHighlighted': unreferenced formal parameter
+  include_juce_audio_plugin_client_utils.cpp
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(34,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(40,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(86,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Methods\UI-SaveWindow.cpp(22,46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\UI-Methods\UI-SaveWindow.cpp(23,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(34,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(40,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(86,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ComponentProps.cpp(56,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ComponentProps.cpp(57,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ProcessorCore.cpp(30,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(34,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(40,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(86,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\PluginProcessor.cpp(117,54): warning C4100: 'index': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\PluginProcessor.cpp(121,65): warning C4100: 'index': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\PluginProcessor.cpp(126,81): warning C4100: 'newName': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\PluginProcessor.cpp(126,54): warning C4100: 'index': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\PluginProcessor.cpp(140,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\PluginProcessor.cpp(143,14): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\PluginProcessor.cpp(145,20): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\PluginProcessor.cpp(146,21): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\PluginProcessor.cpp(170,59): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\PluginProcessor.cpp(177,60): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\PluginProcessor.cpp(187,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\PluginProcessor.cpp(188,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\PluginProcessor.cpp(222,97): warning C4100: 'midiMessages': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\PluginProcessor.cpp(302,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\PluginProcessor.cpp(306,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\PluginProcessor.cpp(352,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\PluginProcessor.cpp(357,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(34,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(40,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\Widgets\StyleSheet.h(86,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\PluginEditor.cpp(34,60): warning C4100: 'g': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\PluginEditor.cpp(45,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\PluginEditor.cpp(45,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Source\PluginEditor.cpp(48,70): warning C4100: 'slider': unreferenced formal parameter
+  include_juce_audio_processors.cpp
+  include_juce_audio_utils.cpp
+  include_juce_core.cpp
+  include_juce_data_structures.cpp
+  include_juce_dsp.cpp
+  include_juce_events.cpp
+  include_juce_graphics.cpp
+  include_juce_gui_extra.cpp
+  include_juce_gui_basics.cpp
+  Graphic_EQ_SharedCode.vcxproj -> C:\Users\lando\Documents\GitHub\Graphic_EQ\Windows\Graphic_EQ\Builds\VisualStudio2019\x64\Release\Shared Code\Graphic_EQ.lib

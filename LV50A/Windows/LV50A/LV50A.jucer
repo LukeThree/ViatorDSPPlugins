@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="bRjunI" name="LV50A" projectType="audioplug" useAppConfig="0"
+              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" bundleIdentifier="com.ViatorDSP.LV50A"
+              pluginName="LV50A" pluginManufacturer="Viator DSP" version="2.0.0">
+  <MAINGROUP id="cOGsTo" name="LV50A">
+    <GROUP id="{DE02ED28-45EB-C26B-7D0E-A14CC0B7381B}" name="Source">
+      <GROUP id="{F62DD231-E534-AFD1-17DA-664B2328CBA7}" name="Assets"/>
+      <GROUP id="{57B3DFD8-1B99-5C50-A00D-207682A2AD1B}" name="UI-Components"/>
+      <GROUP id="{668C2B7B-0A48-A272-B7BB-36C8145C3B17}" name="UI-Methods"/>
+      <GROUP id="{8A3FA906-33E6-A49F-B0DF-F9B8C6A12B21}" name="Widgets"/>
+      <GROUP id="{1C584F37-7818-9B5D-E1D2-AF7D4B6E21AA}" name="Assets">
+        <FILE id="rbf5LX" name="landon55-03.png" compile="0" resource="1" file="Source/Assets/landon55-03.png"/>
+        <FILE id="BlQ6Gs" name="pluginBackground2.png" compile="0" resource="1"
+              file="Source/Assets/pluginBackground2.png"/>
+      </GROUP>
+      <GROUP id="{DA825654-38FF-2C4D-FE80-8DBF8307AC06}" name="UI-Components">
+        <FILE id="teD2Jj" name="LV_DialComponent.cpp" compile="1" resource="0"
+              file="Source/UI-Components/LV_DialComponent.cpp"/>
+        <FILE id="TuXu2s" name="LV_DialComponent.h" compile="0" resource="0"
+              file="Source/UI-Components/LV_DialComponent.h"/>
+        <FILE id="WIUYMT" name="LV_FaderComponent.cpp" compile="1" resource="0"
+              file="Source/UI-Components/LV_FaderComponent.cpp"/>
+        <FILE id="pZoVu2" name="LV_FaderComponent.h" compile="0" resource="0"
+              file="Source/UI-Components/LV_FaderComponent.h"/>
+        <FILE id="zXRGTh" name="LV_GroupComponent.cpp" compile="1" resource="0"
+              file="Source/UI-Components/LV_GroupComponent.cpp"/>
+        <FILE id="Q8iDuy" name="LV_GroupComponent.h" compile="0" resource="0"
+              file="Source/UI-Components/LV_GroupComponent.h"/>
+        <FILE id="WuCASR" name="LV_LabelComponent.cpp" compile="1" resource="0"
+              file="Source/UI-Components/LV_LabelComponent.cpp"/>
+        <FILE id="iii42Q" name="LV_LabelComponent.h" compile="0" resource="0"
+              file="Source/UI-Components/LV_LabelComponent.h"/>
+        <FILE id="GDdHKV" name="LV_MenuComponent.cpp" compile="1" resource="0"
+              file="Source/UI-Components/LV_MenuComponent.cpp"/>
+        <FILE id="HLGIro" name="LV_MenuComponent.h" compile="0" resource="0"
+              file="Source/UI-Components/LV_MenuComponent.h"/>
+        <FILE id="RttuuO" name="LV_PowerToggle.cpp" compile="1" resource="0"
+              file="Source/UI-Components/LV_PowerToggle.cpp"/>
+        <FILE id="hmBk0r" name="LV_PowerToggle.h" compile="0" resource="0"
+              file="Source/UI-Components/LV_PowerToggle.h"/>
+        <FILE id="RzVHFk" name="LV_PushButtonComponent.cpp" compile="1" resource="0"
+              file="Source/UI-Components/LV_PushButtonComponent.cpp"/>
+        <FILE id="sYh2Nb" name="LV_PushButtonComponent.h" compile="0" resource="0"
+              file="Source/UI-Components/LV_PushButtonComponent.h"/>
+        <FILE id="fEOauC" name="LV_Window.cpp" compile="1" resource="0" file="Source/UI-Components/LV_Window.cpp"/>
+        <FILE id="hdqbPQ" name="LV_Window.h" compile="0" resource="0" file="Source/UI-Components/LV_Window.h"/>
+      </GROUP>
+      <GROUP id="{6A934848-CF67-46E0-6259-16F9F69CAD55}" name="UI-Methods">
+        <FILE id="raJgaH" name="UI-Constructor.cpp" compile="1" resource="0"
+              file="Source/UI-Methods/UI-Constructor.cpp"/>
+        <FILE id="DzfqOs" name="UI-InitWindow.cpp" compile="1" resource="0"
+              file="Source/UI-Methods/UI-InitWindow.cpp"/>
+        <FILE id="CQNUVf" name="UI-Paint.cpp" compile="1" resource="0" file="Source/UI-Methods/UI-Paint.cpp"/>
+        <FILE id="xnXFvR" name="UI-Resized.cpp" compile="1" resource="0" file="Source/UI-Methods/UI-Resized.cpp"/>
+        <FILE id="gTZ2f0" name="UI-SaveWindow.cpp" compile="1" resource="0"
+              file="Source/UI-Methods/UI-SaveWindow.cpp"/>
+      </GROUP>
+      <GROUP id="{7820F129-2D6A-3A0B-7FC3-D99D5C66D690}" name="Widgets">
+        <FILE id="Dy4380" name="LV_Dial.h" compile="0" resource="0" file="Source/Widgets/LV_Dial.h"/>
+        <FILE id="Th2k5n" name="LV_Fader.h" compile="0" resource="0" file="Source/Widgets/LV_Fader.h"/>
+        <FILE id="ZHhrnQ" name="LV_GroupComponent.h" compile="0" resource="0"
+              file="Source/Widgets/LV_GroupComponent.h"/>
+        <FILE id="Yn9GWq" name="LV_Label.h" compile="0" resource="0" file="Source/Widgets/LV_Label.h"/>
+        <FILE id="ZZuCLI" name="LV_Menu.h" compile="0" resource="0" file="Source/Widgets/LV_Menu.h"/>
+        <FILE id="u7jWz3" name="LV_PushButton.h" compile="0" resource="0" file="Source/Widgets/LV_PushButton.h"/>
+        <FILE id="XTru6I" name="LV_Toggle.h" compile="0" resource="0" file="Source/Widgets/LV_Toggle.h"/>
+        <FILE id="w6994R" name="StyleSheet.cpp" compile="1" resource="0" file="Source/Widgets/StyleSheet.cpp"/>
+        <FILE id="a9mxxn" name="StyleSheet.h" compile="0" resource="0" file="Source/Widgets/StyleSheet.h"/>
+      </GROUP>
+      <GROUP id="{3125F89C-824E-EAED-F998-3078CE26844F}" name="Assets">
+        <FILE id="LeE5yg" name="landon55-04.png" compile="0" resource="1" file="Source/Assets/landon55-04.png"/>
+        <FILE id="NxS0Vo" name="pluginBackground.png" compile="0" resource="1"
+              file="Source/Assets/pluginBackground.png"/>
+      </GROUP>
+      <FILE id="DFqAIf" name="ComponentProps.cpp" compile="1" resource="0"
+            file="Source/ComponentProps.cpp"/>
+      <FILE id="FrSxCx" name="Filters.cpp" compile="1" resource="0" file="Source/Filters.cpp"/>
+      <FILE id="mtojoO" name="LV_SVFilter.cpp" compile="1" resource="0" file="Source/LV_SVFilter.cpp"/>
+      <FILE id="TN8f81" name="LV_SVFIlter.h" compile="0" resource="0" file="Source/LV_SVFIlter.h"/>
+      <FILE id="n4UOKz" name="ProcessorCore.cpp" compile="1" resource="0"
+            file="Source/ProcessorCore.cpp"/>
+      <FILE id="i9DsUH" name="UIFlexBox.cpp" compile="1" resource="0" file="Source/UIFlexBox.cpp"/>
+      <FILE id="uPxr5T" name="ViatorDial.h" compile="0" resource="0" file="Source/ViatorDial.h"/>
+      <FILE id="x6Yty9" name="PluginProcessor.cpp" compile="1" resource="0"
+            file="Source/PluginProcessor.cpp"/>
+      <FILE id="svGLcF" name="PluginProcessor.h" compile="0" resource="0"
+            file="Source/PluginProcessor.h"/>
+      <FILE id="ldXY38" name="PluginEditor.cpp" compile="1" resource="0"
+            file="Source/PluginEditor.cpp"/>
+      <FILE id="DSQi5v" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+    </GROUP>
+  </MAINGROUP>
+  <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1" JUCE_VST3_CAN_REPLACE_VST2="0"/>
+  <EXPORTFORMATS>
+    <VS2019 targetFolder="Builds/VisualStudio2019">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug" targetName="LV50A" useRuntimeLibDLL="0"/>
+        <CONFIGURATION isDebug="0" name="Release" targetName="LV50A" useRuntimeLibDLL="0"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_core" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_dsp" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../../../../JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../../../../JUCE/modules"/>
+      </MODULEPATHS>
+    </VS2019>
+  </EXPORTFORMATS>
+  <MODULES>
+    <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_plugin_client" showAllCode="1" useLocalCopy="0"
+            useGlobalPath="1"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_utils" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_dsp" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+  </MODULES>
+  <LIVE_SETTINGS>
+    <WINDOWS/>
+  </LIVE_SETTINGS>
+</JUCERPROJECT>

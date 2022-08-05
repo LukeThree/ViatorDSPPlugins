@@ -1,0 +1,5 @@
+﻿  include_juce_audio_plugin_client_VST3.cpp
+     Creating library C:\Users\lando\Documents\GitHub\phone-model\phone-model\Builds\VisualStudio2019\x64\Release\VST3\phone-model.lib and object C:\Users\lando\Documents\GitHub\phone-model\phone-model\Builds\VisualStudio2019\x64\Release\VST3\phone-model.exp
+  Generating code
+  Finished generating code
+  phone-model_VST3.vcxproj -> C:\Users\lando\Documents\GitHub\phone-model\phone-model\Builds\VisualStudio2019\x64\Release\VST3\phone-model.vst3

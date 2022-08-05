@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="j68ufU" name="Distortion-Meetup" projectType="audioplug"
+              useAppConfig="0" addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1"
+              companyName="Viator DSP" pluginName="Inflator Waveshaper" pluginManufacturer="Viator DSP"
+              pluginAUExportPrefix="InflatorWaveshaperAU">
+  <MAINGROUP id="Eftezg" name="Distortion-Meetup">
+    <GROUP id="{EA95FCF2-C03A-2FCB-A061-3BC4F5F6702E}" name="Source">
+      <GROUP id="{072F1815-8223-14AB-B223-DD212354304A}" name="DSP">
+        <FILE id="DcLpUe" name="LV_SplitDistortion.cpp" compile="1" resource="0"
+              file="Source/DSP/LV_SplitDistortion.cpp"/>
+        <FILE id="fcwMuq" name="LV_SplitDistortion.h" compile="0" resource="0"
+              file="Source/DSP/LV_SplitDistortion.h"/>
+        <FILE id="kRIBZK" name="LV_SVFilter.cpp" compile="1" resource="0" file="Source/DSP/LV_SVFilter.cpp"/>
+        <FILE id="XW1wvf" name="LV_SVFilter.h" compile="0" resource="0" file="Source/DSP/LV_SVFilter.h"/>
+        <FILE id="ga6ezP" name="PrepareSplitDistortion.cpp" compile="1" resource="0"
+              file="Source/DSP/PrepareSplitDistortion.cpp"/>
+      </GROUP>
+      <GROUP id="{2E1FEE22-6C4A-CB75-5D9A-1D3DF72F81A8}" name="UI-Components">
+        <FILE id="wRAIFC" name="LV_DialComponent.cpp" compile="1" resource="0"
+              file="Source/UI-Components/LV_DialComponent.cpp"/>
+        <FILE id="KfKD0H" name="LV_DialComponent.h" compile="0" resource="0"
+              file="Source/UI-Components/LV_DialComponent.h"/>
+        <FILE id="XJofRN" name="UI_Controls.cpp" compile="1" resource="0" file="Source/UI-Components/UI_Controls.cpp"/>
+        <FILE id="JKPhTL" name="UI_Controls.h" compile="0" resource="0" file="Source/UI-Components/UI_Controls.h"/>
+      </GROUP>
+      <GROUP id="{77E5CB21-EE33-BC75-DBF7-CD7E6CA300CE}" name="Widgets">
+        <FILE id="dADCTE" name="LV_Dial.h" compile="0" resource="0" file="Source/Widgets/LV_Dial.h"/>
+        <FILE id="Dd9sXa" name="LV_Fader.h" compile="0" resource="0" file="Source/Widgets/LV_Fader.h"/>
+        <FILE id="SoZRz6" name="LV_GroupComponent.h" compile="0" resource="0"
+              file="Source/Widgets/LV_GroupComponent.h"/>
+        <FILE id="tOj72w" name="LV_Label.h" compile="0" resource="0" file="Source/Widgets/LV_Label.h"/>
+        <FILE id="ldSWsV" name="LV_Menu.h" compile="0" resource="0" file="Source/Widgets/LV_Menu.h"/>
+        <FILE id="xs4Vj2" name="LV_PushButton.h" compile="0" resource="0" file="Source/Widgets/LV_PushButton.h"/>
+        <FILE id="kQnso8" name="LV_Toggle.h" compile="0" resource="0" file="Source/Widgets/LV_Toggle.h"/>
+        <FILE id="Abasjr" name="StyleSheet.cpp" compile="1" resource="0" file="Source/Widgets/StyleSheet.cpp"/>
+        <FILE id="dvLibv" name="StyleSheet.h" compile="0" resource="0" file="Source/Widgets/StyleSheet.h"/>
+      </GROUP>
+      <FILE id="Yi9oyQ" name="PluginProcessor.cpp" compile="1" resource="0"
+            file="Source/PluginProcessor.cpp"/>
+      <FILE id="l0k6Gs" name="PluginProcessor.h" compile="0" resource="0"
+            file="Source/PluginProcessor.h"/>
+      <FILE id="S5G7lq" name="PluginEditor.cpp" compile="1" resource="0"
+            file="Source/PluginEditor.cpp"/>
+      <FILE id="bB2H2i" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+    </GROUP>
+  </MAINGROUP>
+  <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1" JUCE_VST3_CAN_REPLACE_VST2="0"/>
+  <EXPORTFORMATS>
+    <XCODE_MAC targetFolder="Builds/MacOSX">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug" targetName="Inflator Waveshaper"/>
+        <CONFIGURATION isDebug="0" name="Release" targetName="Distortion-Meetup"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="../GitHub/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../GitHub/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../GitHub/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../GitHub/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../GitHub/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="../GitHub/JUCE/modules"/>
+        <MODULEPATH id="juce_core" path="../GitHub/JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../GitHub/JUCE/modules"/>
+        <MODULEPATH id="juce_dsp" path="../GitHub/JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="../GitHub/JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="../GitHub/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../GitHub/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../GitHub/JUCE/modules"/>
+      </MODULEPATHS>
+    </XCODE_MAC>
+    <VS2019 targetFolder="Builds/VisualStudio2019">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug" useRuntimeLibDLL="0"/>
+        <CONFIGURATION isDebug="0" name="Release" useRuntimeLibDLL="0"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_gui_extra"/>
+        <MODULEPATH id="juce_gui_basics"/>
+        <MODULEPATH id="juce_graphics"/>
+        <MODULEPATH id="juce_events"/>
+        <MODULEPATH id="juce_dsp"/>
+        <MODULEPATH id="juce_data_structures"/>
+        <MODULEPATH id="juce_core"/>
+        <MODULEPATH id="juce_audio_utils"/>
+        <MODULEPATH id="juce_audio_processors"/>
+        <MODULEPATH id="juce_audio_plugin_client"/>
+        <MODULEPATH id="juce_audio_formats"/>
+        <MODULEPATH id="juce_audio_devices"/>
+        <MODULEPATH id="juce_audio_basics"/>
+      </MODULEPATHS>
+    </VS2019>
+  </EXPORTFORMATS>
+  <MODULES>
+    <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_plugin_client" showAllCode="1" useLocalCopy="0"
+            useGlobalPath="1"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_utils" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_dsp" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+  </MODULES>
+</JUCERPROJECT>

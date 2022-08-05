@@ -1,0 +1,112 @@
+/*
+  ==============================================================================
+
+    SettingsPage.cpp
+    Created: 13 Jun 2022 3:11:30pm
+    Author:  Landon Viator
+
+  ==============================================================================
+*/
+
+#include <JuceHeader.h>
+#include "SettingsPage.h"
+#include "ButtonProps.cpp"
+
+//==============================================================================
+SettingsPage::SettingsPage(VibeMechanicAudioProcessor& p) : audioProcessor(p)
+{
+    addAndMakeVisible(m_themeMenu);
+    m_themeMenu.setColour(juce::ComboBox::ColourIds::backgroundColourId, juce::Colour::fromRGB(53, 55, 70));
+    m_themeMenu.setColour(juce::ComboBox::ColourIds::outlineColourId, juce::Colours::whitesmoke.withAlpha(0.0f));
+    m_themeMenu.setColour(juce::ComboBox::ColourIds::focusedOutlineColourId, juce::Colours::black.withAlpha(0.5f));
+    m_themeMenu.setColour(juce::ComboBox::ColourIds::textColourId, juce::Colours::whitesmoke.withAlpha(0.5f));
+    m_themeMenu.setColour(juce::ComboBox::ColourIds::arrowColourId, juce::Colours::whitesmoke.withAlpha(0.5f));
+
+    m_themeMenu.getLookAndFeel().setColour(juce::PopupMenu::backgroundColourId, juce::Colour::fromRGB(53, 55, 70));
+    m_themeMenu.getLookAndFeel().setColour(juce::PopupMenu::highlightedBackgroundColourId, juce::Colours::skyblue.withAlpha(0.1f));
+    m_themeMenu.getLookAndFeel().setColour(juce::PopupMenu::textColourId, juce::Colours::whitesmoke.withAlpha(0.5f));
+    m_themeMenu.getLookAndFeel().setColour(juce::PopupMenu::highlightedTextColourId, juce::Colours::whitesmoke.withAlpha(0.5f));
+
+    m_themeMenu.setJustificationType(juce::Justification::centred);
+
+    setThemeMenuProps();
+    setGlowSliderProps();
+    
+    m_themeGroup.setText("Plugin Color Themes");
+    
+    /** Buttons */
+    for (int i = 0; i < buttons.size(); ++i)
+    {
+        addAndMakeVisible(buttons[i]);
+        buttons[i]->setClickingTogglesState(true);
+        buttons[i]->setColour(juce::ComboBox::outlineColourId, juce::Colours::transparentBlack);
+        buttons[i]->setColour(juce::TextButton::ColourIds::textColourOnId, juce::Colours::whitesmoke);
+        buttons[i]->setColour(juce::TextButton::ColourIds::textColourOffId, juce::Colours::whitesmoke.withAlpha(0.5f));
+        buttons[i]->setColour(juce::TextButton::ColourIds::buttonColourId, juce::Colour::fromRGB(53, 55, 70));
+        buttons[i]->setColour(juce::TextButton::ColourIds::buttonOnColourId, juce::Colour::fromRGB(53, 55, 70).brighter(0.1));
+    }
+
+    setGlowButtonProps();
+    setGradientToggleProps();
+    setDiscordBtnProps();
+    setPatreonBtnProps();
+    setTwitchBtnProps();
+    
+    /** Groups */
+    for (auto& group : groups)
+    {
+        setGroupProps(*group);
+    }
+}
+
+SettingsPage::~SettingsPage()
+{
+}
+
+void SettingsPage::paint (juce::Graphics& g)
+{
+    g.fillAll(juce::Colours::black.brighter(0.1).withAlpha(0.9f));
+}
+
+void SettingsPage::resized()
+{
+    /** Glow Toggle */
+    const auto contentX = getWidth() * 0.1;
+    const auto contentY = getHeight() * 0.06;
+    m_glowToggle.setBounds(contentX * 1.47, contentY * 1.6, getWidth() * 0.2, getHeight() * 0.05);
+    m_glowSlider.setBounds(m_glowToggle.getX() + m_glowToggle.getWidth() * 1.34, m_glowToggle.getY(), m_glowToggle.getWidth() * 2.3, m_glowToggle.getHeight());
+    
+    /** Theme Menu and Gradient Toggle */
+    const auto buttonX = m_glowToggle.getX();
+    const auto buttonY = m_glowToggle.getY();
+    const auto buttonWidth = m_glowToggle.getWidth();
+    const auto buttonHeight = m_glowToggle.getHeight();
+    m_gradientToggle.setBounds(buttonX, buttonY + buttonHeight * 1.5, buttonWidth, buttonHeight);
+    m_themeMenu.setBounds(m_glowToggle.getX() + m_glowToggle.getWidth() * 1.55, m_gradientToggle.getY(), m_glowToggle.getWidth() * 2.0, m_glowToggle.getHeight());
+    
+    /** Social Toggles */
+    m_discord.setBounds(buttonX, buttonY * 9.0, buttonWidth, buttonHeight);
+    m_patreon.setBounds(m_discord.getX() + m_discord.getWidth() * 1.5, m_discord.getY(), buttonWidth, buttonHeight);
+    m_twitch.setBounds(m_patreon.getX() + m_patreon.getWidth() * 1.5, m_discord.getY(), buttonWidth, buttonHeight);
+    m_themeGroup.setBounds(m_glowToggle.getX() * 0.57, m_glowToggle.getY() * 0.65, m_themeMenu.getX() + m_themeMenu.getWidth(), m_gradientToggle.getY() + m_gradientToggle.getHeight() * 0.38);
+}
+
+SettingsPage::Theme SettingsPage::getPluginTheme()
+{
+    return m_pluginTheme;
+}
+
+bool SettingsPage::getGlowState()
+{
+    return m_glowToggle.getToggleState();
+}
+
+bool SettingsPage::getGradientState()
+{
+    return m_gradientToggle.getToggleState();
+}
+
+float SettingsPage::getCurrentGlowValue()
+{
+    return _currentGlowValue;
+}

@@ -1,0 +1,40 @@
+﻿  HeaderComponent.cpp
+C:\Users\lando\Documents\GitHub\viatordsp\viator_modules\viator_utils\utils.h(33,1): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\viatordsp\viator_modules\viator_gui\Widgets\Fader.h(54,56): warning C4100: 'event': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\viatordsp\viator_modules\viator_gui\Widgets\PushButton.h(24,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\viatordsp\viator_modules\viator_gui\Widgets\PushButton.h(28,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\VoxDrive\VoxDrive\Source\DSP\VoxDistortion.h(98,1): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\lando\Documents\GitHub\VoxDrive\VoxDrive\Source\PluginProcessor.h(77): message : see reference to class template instantiation 'VoxDistortion<float>' being compiled
+C:\Users\lando\Documents\GitHub\VoxDrive\VoxDrive\Source\PluginProcessor.h(74,106): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\VoxDrive\VoxDrive\Source\UI-Components\HeaderComponent.cpp(21,59): warning C4244: 'argument': conversion from 'int' to 'ValueType', possible loss of data
+          with
+          [
+              ValueType=float
+          ]
+C:\Users\lando\Documents\GitHub\VoxDrive\VoxDrive\Source\UI-Components\HeaderComponent.cpp(21,46): warning C4244: 'argument': conversion from 'int' to 'ValueType', possible loss of data
+          with
+          [
+              ValueType=float
+          ]
+C:\Users\lando\Documents\GitHub\VoxDrive\VoxDrive\Source\UI-Components\HeaderComponent.cpp(31,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\VoxDrive\VoxDrive\Source\UI-Components\HeaderComponent.cpp(30,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\VoxDrive\VoxDrive\Source\UI-Components\HeaderComponent.cpp(29,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\VoxDrive\VoxDrive\Source\UI-Components\HeaderComponent.cpp(28,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\VoxDrive\VoxDrive\Source\UI-Components\HeaderComponent.cpp(37,96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\VoxDrive\VoxDrive\Source\UI-Components\HeaderComponent.cpp(37,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\VoxDrive\VoxDrive\Source\UI-Components\HeaderComponent.cpp(37,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\VoxDrive\VoxDrive\Source\UI-Components\HeaderComponent.cpp(37,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\VoxDrive\VoxDrive\Source\UI-Components\HeaderComponent.cpp(41,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\VoxDrive\VoxDrive\Source\UI-Components\HeaderComponent.cpp(41,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\VoxDrive\VoxDrive\Source\UI-Components\HeaderComponent.cpp(41,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\VoxDrive\VoxDrive\Source\UI-Components\HeaderComponent.cpp(50,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\VoxDrive\VoxDrive\Source\UI-Components\HeaderComponent.cpp(50,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\VoxDrive\VoxDrive\Source\UI-Components\HeaderComponent.cpp(50,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\VoxDrive\VoxDrive\Source\UI-Components\HeaderComponent.cpp(50,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\VoxDrive\VoxDrive\Source\UI-Components\HeaderComponent.cpp(61,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\VoxDrive\VoxDrive\Source\UI-Components\HeaderComponent.cpp(61,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\VoxDrive\VoxDrive\Source\UI-Components\HeaderComponent.cpp(61,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\VoxDrive\VoxDrive\Source\UI-Components\HeaderComponent.cpp(61,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\VoxDrive\VoxDrive\Source\UI-Components\HeaderComponent.cpp(59,10): warning C4189: 'spaceBetween': local variable is initialized but not referenced
+Parameters.obj : warning LNK4006: "public: void __cdecl VoxDriveAudioProcessor::updateParameters(void)" (?updateParameters@VoxDriveAudioProcessor@@QEAAXXZ) already defined in PluginProcessor.obj; second definition ignored
+  VoxDrive_SharedCode.vcxproj -> C:\Users\lando\Documents\GitHub\VoxDrive\VoxDrive\Builds\VisualStudio2019\x64\Release\Shared Code\VoxDrive.lib

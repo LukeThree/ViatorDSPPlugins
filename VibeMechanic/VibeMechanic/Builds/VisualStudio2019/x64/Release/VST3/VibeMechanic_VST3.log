@@ -1,0 +1,6 @@
+﻿  include_juce_audio_plugin_client_VST3.cpp
+     Creating library C:\Users\lando\Documents\GitHub\VibeMechanic\VibeMechanic\Builds\VisualStudio2019\x64\Release\VST3\VibeMechanic.lib and object C:\Users\lando\Documents\GitHub\VibeMechanic\VibeMechanic\Builds\VisualStudio2019\x64\Release\VST3\VibeMechanic.exp
+  Generating code
+C:\Users\lando\Documents\GitHub\viatordsp\viator_modules\viator_dsp\Distortion.h(77): warning C4715: 'viator_dsp::Distortion<float>::processSample': not all control paths return a value
+  Finished generating code
+  VibeMechanic_VST3.vcxproj -> C:\Users\lando\Documents\GitHub\VibeMechanic\VibeMechanic\Builds\VisualStudio2019\x64\Release\VST3\VibeMechanic.vst3

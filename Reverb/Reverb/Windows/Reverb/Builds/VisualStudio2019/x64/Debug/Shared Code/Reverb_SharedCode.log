@@ -1,0 +1,125 @@
+﻿  PluginProcessor.cpp
+  PluginEditor.cpp
+  include_juce_audio_basics.cpp
+  include_juce_audio_devices.cpp
+  include_juce_audio_formats.cpp
+  include_juce_audio_plugin_client_utils.cpp
+  include_juce_audio_processors.cpp
+  include_juce_audio_utils.cpp
+  include_juce_core.cpp
+  include_juce_data_structures.cpp
+  include_juce_dsp.cpp
+  include_juce_events.cpp
+  include_juce_graphics.cpp
+  include_juce_gui_basics.cpp
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\ViatorDial.h(34,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\ViatorDial.h(35,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\ViatorDial.h(35,180): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\ViatorDial.h(35,115): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\ViatorDial.h(40,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginProcessor.cpp(101,51): warning C4100: 'index': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginProcessor.cpp(105,62): warning C4100: 'index': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginProcessor.cpp(110,78): warning C4100: 'newName': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginProcessor.cpp(110,51): warning C4100: 'index': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginProcessor.cpp(125,85): warning C4244: 'argument': conversion from 'double' to 'SampleType', possible loss of data
+          with
+          [
+              SampleType=float
+          ]
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginProcessor.cpp(126,33): warning C4244: 'argument': conversion from 'double' to 'SampleType', possible loss of data
+          with
+          [
+              SampleType=float
+          ]
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginProcessor.cpp(142,79): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginProcessor.cpp(143,77): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginProcessor.cpp(144,73): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginProcessor.cpp(145,74): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginProcessor.cpp(146,74): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginProcessor.cpp(182,94): warning C4100: 'midiMessages': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginProcessor.cpp(231,47): warning C4244: 'argument': conversion from 'double' to 'SampleType', possible loss of data
+          with
+          [
+              SampleType=float
+          ]
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginProcessor.cpp(233,37): warning C4244: 'argument': conversion from 'double' to 'SampleType', possible loss of data
+          with
+          [
+              SampleType=float
+          ]
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginProcessor.cpp(248,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginProcessor.cpp(251,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginProcessor.cpp(254,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginProcessor.cpp(257,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginProcessor.cpp(260,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\ViatorDial.h(34,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\ViatorDial.h(35,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\ViatorDial.h(35,180): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\ViatorDial.h(35,115): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\ViatorDial.h(40,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(27,85): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(29,89): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(39,83): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(41,87): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(133,77): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(150,77): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(166,79): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(174,82): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(182,78): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(190,77): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(198,80): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(206,78): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(214,76): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(222,76): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(269,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(269,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(269,195): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(269,164): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(270,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(270,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(270,193): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(270,162): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(284,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(284,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(284,188): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(284,157): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(285,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(285,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(285,189): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(285,159): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(298,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(298,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(298,193): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(298,162): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(299,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(299,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(299,190): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(299,160): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(313,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(313,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(313,188): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(313,157): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(314,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(314,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(314,187): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(314,157): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(328,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(328,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(328,189): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(328,158): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(342,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(342,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(342,188): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Source\PluginEditor.cpp(342,157): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  include_juce_gui_extra.cpp
+  Reverb_SharedCode.vcxproj -> C:\Users\lando\Documents\GitHub\Reverb\Reverb\Windows\Reverb\Builds\VisualStudio2019\x64\Debug\Shared Code\Reverb.lib

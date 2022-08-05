@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="dPBpM7" name="VoxDrive" projectType="audioplug" useAppConfig="0"
+              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="Viator DSP">
+  <MAINGROUP id="O12BMG" name="VoxDrive">
+    <GROUP id="{99FC07AC-F8D0-2F17-656E-A0A2063E6628}" name="Source">
+      <GROUP id="{189272AC-D26A-D5E0-2370-70454815FD31}" name="Buttons">
+        <FILE id="ceQMgE" name="SettingsButtonLogic.cpp" compile="1" resource="0"
+              file="Source/UI-Methods/Buttons/SettingsButtonLogic.cpp"/>
+      </GROUP>
+      <GROUP id="{EA59C694-BF71-F9A5-1F54-34D22BB50C58}" name="Assets">
+        <FILE id="vmEKQQ" name="Articulations_back.png" compile="0" resource="1"
+              file="Source/Assets/Articulations_back.png"/>
+        <FILE id="pbGv0T" name="Articulations_decore.png" compile="0" resource="1"
+              file="Source/Assets/Articulations_decore.png"/>
+        <FILE id="feP9nH" name="Articulations_line_1.png" compile="0" resource="1"
+              file="Source/Assets/Articulations_line_1.png"/>
+        <FILE id="Tkbx72" name="Articulations_line_2.png" compile="0" resource="1"
+              file="Source/Assets/Articulations_line_2.png"/>
+        <FILE id="S8iSYs" name="background.png" compile="0" resource="1" file="Source/Assets/background.png"/>
+        <FILE id="DSmAaC" name="button_middle_off.png" compile="0" resource="1"
+              file="Source/Assets/button_middle_off.png"/>
+        <FILE id="cIufQt" name="button_middle_on.png" compile="0" resource="1"
+              file="Source/Assets/button_middle_on.png"/>
+        <FILE id="CnNwG7" name="button_small_off.png" compile="0" resource="1"
+              file="Source/Assets/button_small_off.png"/>
+        <FILE id="q8kkHC" name="button_small_on.png" compile="0" resource="1"
+              file="Source/Assets/button_small_on.png"/>
+        <FILE id="RssTZv" name="gear01.png" compile="0" resource="1" file="Source/Assets/gear01.png"/>
+        <FILE id="sRoB84" name="landon55-04.png" compile="0" resource="1" file="Source/Assets/landon55-04.png"/>
+        <FILE id="cnu9tM" name="VoxDriveCircuit.png" compile="0" resource="1"
+              file="Source/Assets/VoxDriveCircuit.png"/>
+      </GROUP>
+      <FILE id="TcYukA" name="Globals.cpp" compile="1" resource="0" file="Source/Globals.cpp"/>
+      <FILE id="yDD5Fx" name="Globals.h" compile="0" resource="0" file="Source/Globals.h"/>
+      <GROUP id="{D7401EA1-02F4-D77C-617F-93ECD62B6F05}" name="LookAndFeel">
+        <FILE id="rQlhuA" name="ColorButtonLAF.cpp" compile="1" resource="0"
+              file="Source/LookAndFeel/ColorButtonLAF.cpp"/>
+        <FILE id="fHojf8" name="ColorButtonLAF.h" compile="0" resource="0"
+              file="Source/LookAndFeel/ColorButtonLAF.h"/>
+        <FILE id="mAwhbd" name="LabelLAF.cpp" compile="1" resource="0" file="Source/LookAndFeel/LabelLAF.cpp"/>
+        <FILE id="pVaiZ0" name="LabelLAF.h" compile="0" resource="0" file="Source/LookAndFeel/LabelLAF.h"/>
+        <FILE id="fuI8mg" name="MenuSliderLAF.cpp" compile="1" resource="0"
+              file="Source/LookAndFeel/MenuSliderLAF.cpp"/>
+        <FILE id="TyasDA" name="MenuSliderLAF.h" compile="0" resource="0" file="Source/LookAndFeel/MenuSliderLAF.h"/>
+        <FILE id="gsdRra" name="SettingsButtonLAF.cpp" compile="1" resource="0"
+              file="Source/LookAndFeel/SettingsButtonLAF.cpp"/>
+        <FILE id="FGuoGw" name="SettingsButtonLAF.h" compile="0" resource="0"
+              file="Source/LookAndFeel/SettingsButtonLAF.h"/>
+        <FILE id="z8Ui3K" name="ToggleButtonLAF.cpp" compile="1" resource="0"
+              file="Source/LookAndFeel/ToggleButtonLAF.cpp"/>
+        <FILE id="ITCvyB" name="ToggleButtonLAF.h" compile="0" resource="0"
+              file="Source/LookAndFeel/ToggleButtonLAF.h"/>
+      </GROUP>
+      <GROUP id="{FB64B0ED-B83C-CC08-460F-DEF35CAB45CA}" name="UI-Components">
+        <GROUP id="{BD17C6F5-8B75-7366-C75D-EC9A29DBD296}" name="SettingsComps">
+          <FILE id="TGLoHF" name="DiscordComp.cpp" compile="1" resource="0" file="Source/UI-Components/SettingsComps/DiscordComp.cpp"/>
+          <FILE id="tIRKf4" name="DiscordComp.h" compile="0" resource="0" file="Source/UI-Components/SettingsComps/DiscordComp.h"/>
+          <FILE id="IgeWIa" name="MasterColorComp.cpp" compile="1" resource="0"
+                file="Source/UI-Components/SettingsComps/MasterColorComp.cpp"/>
+          <FILE id="TrgYcF" name="MasterColorComp.h" compile="0" resource="0"
+                file="Source/UI-Components/SettingsComps/MasterColorComp.h"/>
+          <FILE id="D3B8LY" name="PatreonComp.cpp" compile="1" resource="0" file="Source/UI-Components/SettingsComps/PatreonComp.cpp"/>
+          <FILE id="d2tvlQ" name="PatreonComp.h" compile="0" resource="0" file="Source/UI-Components/SettingsComps/PatreonComp.h"/>
+          <FILE id="KohYQ4" name="TwitchComp.cpp" compile="1" resource="0" file="Source/UI-Components/SettingsComps/TwitchComp.cpp"/>
+          <FILE id="MbEp3y" name="TwitchComp.h" compile="0" resource="0" file="Source/UI-Components/SettingsComps/TwitchComp.h"/>
+        </GROUP>
+        <FILE id="YmjPJP" name="HeaderComponent.cpp" compile="1" resource="0"
+              file="Source/UI-Components/HeaderComponent.cpp"/>
+        <FILE id="VlwM1F" name="HeaderComponent.h" compile="0" resource="0"
+              file="Source/UI-Components/HeaderComponent.h"/>
+        <FILE id="Owtqgx" name="SettingsPage.cpp" compile="1" resource="0"
+              file="Source/UI-Components/SettingsPage.cpp"/>
+        <FILE id="rQOZtq" name="SettingsPage.h" compile="0" resource="0" file="Source/UI-Components/SettingsPage.h"/>
+      </GROUP>
+      <GROUP id="{B8727BBB-6BA8-C486-6D81-61ED6009359A}" name="DSP">
+        <FILE id="CDnNnP" name="VoxDistortion.cpp" compile="1" resource="0"
+              file="Source/DSP/VoxDistortion.cpp"/>
+        <FILE id="WPCefs" name="VoxDistortion.h" compile="0" resource="0" file="Source/DSP/VoxDistortion.h"/>
+      </GROUP>
+      <GROUP id="{28CD7EB6-156E-3525-BE91-A0C89BB020B0}" name="Parameters">
+        <FILE id="rkAbNw" name="Parameters.cpp" compile="1" resource="0" file="Source/Parameters/Parameters.cpp"/>
+        <FILE id="mTu4hM" name="Parameters.h" compile="0" resource="0" file="Source/Parameters/Parameters.h"/>
+      </GROUP>
+      <GROUP id="{EA850121-469A-CCE7-443E-1E8366895DCA}" name="UI-Methods">
+        <FILE id="JixJ6v" name="OversamplingMenu.cpp" compile="1" resource="0"
+              file="Source/UI-Methods/OversamplingMenu.cpp"/>
+        <FILE id="yQDNRP" name="UI-Constructor.cpp" compile="1" resource="0"
+              file="Source/UI-Methods/UI-Constructor.cpp"/>
+        <FILE id="SFalwM" name="UI-InitWindow.cpp" compile="1" resource="0"
+              file="Source/UI-Methods/UI-InitWindow.cpp"/>
+        <FILE id="bnjGH9" name="UI-Paint.cpp" compile="1" resource="0" file="Source/UI-Methods/UI-Paint.cpp"/>
+        <FILE id="VTWELN" name="UI-Resized.cpp" compile="1" resource="0" file="Source/UI-Methods/UI-Resized.cpp"/>
+        <FILE id="wPW9E4" name="UI-SaveWindow.cpp" compile="1" resource="0"
+              file="Source/UI-Methods/UI-SaveWindow.cpp"/>
+      </GROUP>
+      <FILE id="s3oU7N" name="PluginProcessor.cpp" compile="1" resource="0"
+            file="Source/PluginProcessor.cpp"/>
+      <FILE id="OlHasM" name="PluginProcessor.h" compile="0" resource="0"
+            file="Source/PluginProcessor.h"/>
+      <FILE id="QxUvtS" name="PluginEditor.cpp" compile="1" resource="0"
+            file="Source/PluginEditor.cpp"/>
+      <FILE id="p1iUxS" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+    </GROUP>
+  </MAINGROUP>
+  <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1" JUCE_VST3_CAN_REPLACE_VST2="0"/>
+  <EXPORTFORMATS>
+    <XCODE_MAC targetFolder="Builds/MacOSX">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug" targetName="VoxDrive"/>
+        <CONFIGURATION isDebug="0" name="Release" targetName="VoxDrive"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_core" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_dsp" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../../JUCE/modules"/>
+        <MODULEPATH id="viator_modules" path="../../viatordsp"/>
+      </MODULEPATHS>
+    </XCODE_MAC>
+    <VS2019 targetFolder="Builds/VisualStudio2019">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug"/>
+        <CONFIGURATION isDebug="0" name="Release" useRuntimeLibDLL="0"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="../../juce"/>
+        <MODULEPATH id="juce_audio_devices" path="../../juce"/>
+        <MODULEPATH id="juce_audio_formats" path="../../juce"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../../juce"/>
+        <MODULEPATH id="juce_audio_processors" path="../../juce"/>
+        <MODULEPATH id="juce_audio_utils" path="../../juce"/>
+        <MODULEPATH id="juce_core" path="../../juce"/>
+        <MODULEPATH id="juce_data_structures" path="../../juce"/>
+        <MODULEPATH id="juce_dsp" path="../../juce"/>
+        <MODULEPATH id="juce_events" path="../../juce"/>
+        <MODULEPATH id="juce_graphics" path="../../juce"/>
+        <MODULEPATH id="juce_gui_basics" path="../../juce"/>
+        <MODULEPATH id="juce_gui_extra" path="../../juce"/>
+        <MODULEPATH id="viator_modules" path="../../viatordsp"/>
+      </MODULEPATHS>
+    </VS2019>
+  </EXPORTFORMATS>
+  <MODULES>
+    <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_plugin_client" showAllCode="1" useLocalCopy="0"
+            useGlobalPath="1"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_utils" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_dsp" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="viator_modules" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+  </MODULES>
+</JUCERPROJECT>

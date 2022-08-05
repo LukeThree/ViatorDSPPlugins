@@ -1,0 +1,1 @@
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Builds\VisualStudio2019\x64\Release\VST3\Electron EQ.vst3

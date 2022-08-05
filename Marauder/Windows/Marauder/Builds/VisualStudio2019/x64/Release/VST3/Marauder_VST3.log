@@ -1,0 +1,5 @@
+﻿  include_juce_audio_plugin_client_VST3.cpp
+     Creating library C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Builds\VisualStudio2019\x64\Release\VST3\Marauder.lib and object C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Builds\VisualStudio2019\x64\Release\VST3\Marauder.exp
+  Generating code
+  Finished generating code
+  Marauder_VST3.vcxproj -> C:\Users\lando\Documents\GitHub\Marauder\Windows\Marauder\Builds\VisualStudio2019\x64\Release\VST3\Marauder.vst3

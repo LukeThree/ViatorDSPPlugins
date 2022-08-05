@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="OIhsSo" name="Stimulate" projectType="audioplug" useAppConfig="0"
+              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="Viator DSP"
+              pluginName="Stimulate">
+  <MAINGROUP id="QaAXOy" name="Stimulate">
+    <GROUP id="{848403CE-C2B7-03C8-394A-14B6FFA6D8D8}" name="Assets">
+      <FILE id="QWP00s" name="dark_blue.png" compile="0" resource="1" file="Source/Assets/dark_blue.png"/>
+      <FILE id="IGBMpY" name="landon55-03.png" compile="0" resource="1" file="Source/Assets/landon55-03.png"/>
+      <FILE id="CzkHWF" name="landon55-04.png" compile="0" resource="1" file="Source/Assets/landon55-04.png"/>
+      <FILE id="YuoU5C" name="oscilloscope-01.png" compile="0" resource="1"
+            file="Source/Assets/oscilloscope-01.png"/>
+      <FILE id="BLsqhe" name="pluginBackground.png" compile="0" resource="1"
+            file="Source/Assets/pluginBackground.png"/>
+      <FILE id="v3xbSu" name="pluginBackground2.png" compile="0" resource="1"
+            file="Source/Assets/pluginBackground2.png"/>
+      <FILE id="ewBrPV" name="testTexture.png" compile="0" resource="1" file="Source/Assets/testTexture.png"/>
+      <FILE id="pX0FJY" name="TEXTURE5.png" compile="0" resource="1" file="Source/Assets/TEXTURE5.png"/>
+    </GROUP>
+    <GROUP id="{04061C20-3ECD-6EEE-A90C-98D3613905F7}" name="Source">
+      <FILE id="Yf4MsF" name="PluginProcessor.cpp" compile="1" resource="0"
+            file="Source/PluginProcessor.cpp"/>
+      <FILE id="Mdqwvd" name="PluginProcessor.h" compile="0" resource="0"
+            file="Source/PluginProcessor.h"/>
+      <FILE id="BPmTri" name="PluginEditor.cpp" compile="1" resource="0"
+            file="Source/PluginEditor.cpp"/>
+      <FILE id="h1RuZj" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+    </GROUP>
+    <GROUP id="{01DB25B0-17A8-922B-4CB6-D50FA67E8271}" name="UI-Components">
+      <FILE id="QFLEkk" name="LV_HeaderComponent.cpp" compile="1" resource="0"
+            file="Source/UI-Components/LV_HeaderComponent.cpp"/>
+      <FILE id="NozcHj" name="LV_HeaderComponent.h" compile="0" resource="0"
+            file="Source/UI-Components/LV_HeaderComponent.h"/>
+    </GROUP>
+    <GROUP id="{8D7D14EA-5D46-C8F1-4532-08B39CA7EDCF}" name="UI-Methods">
+      <FILE id="OcvnKJ" name="OversamplingMenu.cpp" compile="1" resource="0"
+            file="Source/UI-Methods/OversamplingMenu.cpp"/>
+      <FILE id="ROHBzl" name="UI-Constructor.cpp" compile="1" resource="0"
+            file="Source/UI-Methods/UI-Constructor.cpp"/>
+      <FILE id="rPpMra" name="UI-InitWindow.cpp" compile="1" resource="0"
+            file="Source/UI-Methods/UI-InitWindow.cpp"/>
+      <FILE id="RlS7sN" name="UI-Paint.cpp" compile="1" resource="0" file="Source/UI-Methods/UI-Paint.cpp"/>
+      <FILE id="I12vT1" name="UI-Resized.cpp" compile="1" resource="0" file="Source/UI-Methods/UI-Resized.cpp"/>
+      <FILE id="ZiK7hT" name="UI-SaveWindow.cpp" compile="1" resource="0"
+            file="Source/UI-Methods/UI-SaveWindow.cpp"/>
+    </GROUP>
+  </MAINGROUP>
+  <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1" JUCE_VST3_CAN_REPLACE_VST2="0"/>
+  <EXPORTFORMATS>
+    <XCODE_MAC targetFolder="Builds/MacOSX">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug" targetName="exciter"/>
+        <CONFIGURATION isDebug="0" name="Release" targetName="exciter"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_core" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_dsp" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../../JUCE/modules"/>
+        <MODULEPATH id="viator_modules" path="../../viatordsp"/>
+      </MODULEPATHS>
+    </XCODE_MAC>
+    <VS2019 targetFolder="Builds/VisualStudio2019">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug" useRuntimeLibDLL="0"/>
+        <CONFIGURATION isDebug="0" name="Release" useRuntimeLibDLL="0"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_gui_extra" path="../../juce"/>
+        <MODULEPATH id="juce_gui_basics" path="../../juce"/>
+        <MODULEPATH id="juce_graphics" path="../../juce"/>
+        <MODULEPATH id="juce_events" path="../../juce"/>
+        <MODULEPATH id="juce_dsp" path="../../juce"/>
+        <MODULEPATH id="juce_data_structures" path="../../juce"/>
+        <MODULEPATH id="juce_core" path="../../juce"/>
+        <MODULEPATH id="juce_audio_utils" path="../../juce"/>
+        <MODULEPATH id="juce_audio_processors" path="../../juce"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../../juce"/>
+        <MODULEPATH id="juce_audio_formats" path="../../juce"/>
+        <MODULEPATH id="juce_audio_devices" path="../../juce"/>
+        <MODULEPATH id="juce_audio_basics" path="../../juce"/>
+        <MODULEPATH id="viator_modules" path="../../viatordsp"/>
+      </MODULEPATHS>
+    </VS2019>
+  </EXPORTFORMATS>
+  <MODULES>
+    <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_plugin_client" showAllCode="1" useLocalCopy="0"
+            useGlobalPath="1"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_utils" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_dsp" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="viator_modules" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+  </MODULES>
+  <LIVE_SETTINGS>
+    <WINDOWS/>
+  </LIVE_SETTINGS>
+</JUCERPROJECT>

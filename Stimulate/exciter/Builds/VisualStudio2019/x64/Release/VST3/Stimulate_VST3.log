@@ -1,0 +1,5 @@
+﻿  include_juce_audio_plugin_client_VST3.cpp
+     Creating library C:\Users\lando\Documents\GitHub\Stimulate\exciter\Builds\VisualStudio2019\x64\Release\VST3\Stimulate.lib and object C:\Users\lando\Documents\GitHub\Stimulate\exciter\Builds\VisualStudio2019\x64\Release\VST3\Stimulate.exp
+  Generating code
+  Finished generating code
+  Stimulate_VST3.vcxproj -> C:\Users\lando\Documents\GitHub\Stimulate\exciter\Builds\VisualStudio2019\x64\Release\VST3\Stimulate.vst3

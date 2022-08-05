@@ -1,0 +1,78 @@
+﻿  LV_SplitDistortion.cpp
+  LV_SVFilter.cpp
+  PrepareSplitDistortion.cpp
+  LV_DialComponent.cpp
+  UI_Controls.cpp
+  StyleSheet.cpp
+  PluginProcessor.cpp
+  PluginEditor.cpp
+  include_juce_audio_basics.cpp
+  include_juce_audio_devices.cpp
+  include_juce_audio_formats.cpp
+  include_juce_audio_plugin_client_utils.cpp
+  include_juce_audio_processors.cpp
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\Widgets\StyleSheet.cpp(66,54): warning C4244: 'argument': conversion from 'double' to 'ValueType', possible loss of data
+          with
+          [
+              ValueType=float
+          ]
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\Widgets\StyleSheet.cpp(65,54): warning C4244: 'argument': conversion from 'double' to 'ValueType', possible loss of data
+          with
+          [
+              ValueType=float
+          ]
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\Widgets\StyleSheet.cpp(69,144): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\Widgets\StyleSheet.cpp(74,50): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\Widgets\StyleSheet.cpp(90,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\Widgets\StyleSheet.cpp(91,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\Widgets\StyleSheet.cpp(92,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\Widgets\StyleSheet.cpp(93,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\Widgets\StyleSheet.cpp(106,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\Widgets\StyleSheet.cpp(150,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\Widgets\StyleSheet.cpp(151,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\Widgets\StyleSheet.cpp(152,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\DSP\LV_SVFilter.cpp(21,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\PluginProcessor.cpp(141,61): warning C4100: 'index': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\UI-Components\LV_DialComponent.cpp(33,47): warning C4100: 'g': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\Widgets\StyleSheet.cpp(153,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\PluginProcessor.cpp(145,72): warning C4100: 'index': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\PluginProcessor.cpp(150,88): warning C4100: 'newName': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\PluginProcessor.cpp(150,61): warning C4100: 'index': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\Widgets\StyleSheet.cpp(166,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\DSP\LV_SVFilter.cpp(101,39): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\DSP\LV_SVFilter.cpp(214,75): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\PluginProcessor.cpp(202,104): warning C4100: 'midiMessages': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\Widgets\StyleSheet.cpp(349,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\Widgets\StyleSheet.cpp(348,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\Widgets\StyleSheet.cpp(333,57): warning C4100: 'shouldDrawButtonAsDown': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\Widgets\StyleSheet.cpp(332,57): warning C4100: 'shouldDrawButtonAsHighlighted': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\PluginEditor.cpp(32,83): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\PluginEditor.cpp(32,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\PluginEditor.cpp(41,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\PluginEditor.cpp(41,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\UI-Components\UI_Controls.cpp(46,42): warning C4100: 'g': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\UI-Components\UI_Controls.cpp(61,69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\UI-Components\UI_Controls.cpp(61,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\UI-Components\UI_Controls.cpp(61,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\UI-Components\UI_Controls.cpp(61,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\UI-Components\UI_Controls.cpp(66,127): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\UI-Components\UI_Controls.cpp(66,117): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\UI-Components\UI_Controls.cpp(66,106): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\UI-Components\UI_Controls.cpp(66,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\DSP\LV_SplitDistortion.cpp(15,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\DSP\LV_SplitDistortion.cpp(96,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\memory(2698,56): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ] (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Source\PluginProcessor.cpp(49): message : see reference to function template instantiation 'std::unique_ptr<juce::AudioParameterFloat,std::default_delete<juce::AudioParameterFloat>> std::make_unique<juce::AudioParameterFloat,const char(&)[6],const char(&)[6],double,double,double,0>(const char (&)[6],const char (&)[6],double &&,double &&,double &&)' being compiled
+  include_juce_audio_utils.cpp
+  include_juce_core.cpp
+  include_juce_data_structures.cpp
+  include_juce_dsp.cpp
+  include_juce_events.cpp
+  include_juce_graphics.cpp
+  include_juce_gui_extra.cpp
+  include_juce_gui_basics.cpp
+  Distortion-Meetup_SharedCode.vcxproj -> C:\Users\lando\Documents\GitHub\Rift-Clipper\Distortion-Meetup\Builds\VisualStudio2019\x64\Release\Shared Code\Distortion-Meetup.lib

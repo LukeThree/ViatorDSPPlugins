@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist>
+  <dict>
+    <key>CFBundleExecutable</key>
+    <string>${EXECUTABLE_NAME}</string>
+    <key>CFBundleIconFile</key>
+    <string></string>
+    <key>CFBundleIdentifier</key>
+    <string>com.ViatorDSP.multibandstereowidener</string>
+    <key>CFBundleName</key>
+    <string>multi-band-stereo-widener</string>
+    <key>CFBundleDisplayName</key>
+    <string>multi-band-stereo-widener</string>
+    <key>CFBundlePackageType</key>
+    <string>BNDL</string>
+    <key>CFBundleSignature</key>
+    <string>????</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0.0</string>
+    <key>CFBundleVersion</key>
+    <string>1.0.0</string>
+    <key>NSHumanReadableCopyright</key>
+    <string>Viator DSP 2021</string>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>AudioComponents</key>
+    <array>
+      <dict>
+        <key>name</key>
+        <string>Viator DSP: Imager</string>
+        <key>description</key>
+        <string>multi-band-stereo-widener</string>
+        <key>factoryFunction</key>
+        <string>multibandstereowidenerAUFactory</string>
+        <key>manufacturer</key>
+        <string>Manu</string>
+        <key>type</key>
+        <string>aufx</string>
+        <key>subtype</key>
+        <string>Tqhk</string>
+        <key>version</key>
+        <integer>65536</integer>
+        <key>resourceUsage</key>
+        <dict>
+          <key>network.client</key>
+          <true/>
+          <key>temporary-exception.files.all.read-write</key>
+          <true/>
+        </dict>
+      </dict>
+    </array>
+  </dict>
+</plist>

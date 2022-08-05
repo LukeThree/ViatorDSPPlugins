@@ -1,0 +1,2 @@
+C:\Users\lando\Documents\GitHub\Overdrive_Pedal\Windows\Overdrive_Pedal\Builds\VisualStudio2019\x64\Debug\VST3\Overdrive_Pedal.vst3
+C:\Users\lando\Documents\GitHub\Overdrive_Pedal\Windows\Overdrive_Pedal\Builds\VisualStudio2019\x64\Debug\VST3\Overdrive_Pedal.pdb

@@ -1,0 +1,440 @@
+﻿  InitClipper.cpp
+  InitPostTone.cpp
+  InitPreTone.cpp
+  LV_Clipper.cpp
+  LV_SVFilter.cpp
+  LV_ClipperComponent.cpp
+  LV_HeaderComponent.cpp
+  LV_PostToneComponent.cpp
+  LV_PreToneComponent.cpp
+  LV_Window.cpp
+  OversamplingMenu.cpp
+  UI-Constructor.cpp
+  UI-InitWindow.cpp
+  UI-Paint.cpp
+  UI-Resized.cpp
+  UI-SaveWindow.cpp
+  StyleSheet.cpp
+  PluginProcessor.cpp
+  PluginEditor.cpp
+  BinaryData.cpp
+  BinaryData2.cpp
+  BinaryData3.cpp
+  BinaryData4.cpp
+  BinaryData5.cpp
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.h(69,24): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file ..\..\Source\DSP\InitClipper.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.h(71,24): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file ..\..\Source\DSP\InitClipper.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.h(69,24): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.h(71,24): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.h(69,24): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\OversamplingMenu.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.h(71,24): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\OversamplingMenu.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Toggle.h(60,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Toggle.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Toggle.h(60,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\OversamplingMenu.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Dial.h(74,40): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Toggle.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\OversamplingMenu.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Dial.h(80,39): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Dial.h(102,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Dial.h(74,40): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\OversamplingMenu.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Dial.h(80,39): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\OversamplingMenu.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Dial.h(102,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\OversamplingMenu.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Label.h(28,1): warning C4458: declaration of 'font' hides class member (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\JUCE\modules\juce_gui_basics\widgets\juce_Label.h(346,10): message : see declaration of 'juce::Label::font' (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Label.h(28,1): warning C4458: declaration of 'font' hides class member (compiling source file ..\..\Source\UI-Methods\OversamplingMenu.cpp)
+C:\Users\lando\Documents\GitHub\JUCE\modules\juce_gui_basics\widgets\juce_Label.h(346,10): message : see declaration of 'juce::Label::font' (compiling source file ..\..\Source\UI-Methods\OversamplingMenu.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Fader.h(61,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Fader.h(69,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Fader.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Fader.h(61,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\OversamplingMenu.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Fader.h(69,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\OversamplingMenu.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Fader.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\OversamplingMenu.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Menu.h(46,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Menu.h(52,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Menu.h(46,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\OversamplingMenu.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_PushButton.h(28,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Menu.h(52,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\OversamplingMenu.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_PushButton.h(29,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_PushButton.h(28,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\OversamplingMenu.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_PushButton.h(29,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\OversamplingMenu.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.h(69,24): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file ..\..\Source\DSP\LV_Clipper.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.h(71,24): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file ..\..\Source\DSP\LV_Clipper.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.cpp(15,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.cpp(42,61): warning C4244: 'argument': conversion from 'Type' to 'const float', possible loss of data
+          with
+          [
+              Type=double
+          ]
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.cpp(45,74): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.cpp(52,61): warning C4244: 'argument': conversion from 'Type' to 'const float', possible loss of data
+          with
+          [
+              Type=double
+          ]
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.cpp(55,74): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.cpp(63,63): warning C4244: 'argument': conversion from 'Type' to 'const float', possible loss of data
+          with
+          [
+              Type=double
+          ]
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.cpp(66,74): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.cpp(89,12): warning C4244: 'return': conversion from 'Type' to 'float', possible loss of data
+          with
+          [
+              Type=double
+          ]
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.cpp(80,63): warning C4100: 'channel': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.cpp(101,12): warning C4244: 'return': conversion from 'Type' to 'float', possible loss of data
+          with
+          [
+              Type=double
+          ]
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.h(69,24): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.cpp(92,65): warning C4100: 'channel': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.h(71,24): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.h(69,24): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.h(71,24): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Toggle.h(60,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Toggle.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Toggle.h(60,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Toggle.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Dial.h(74,40): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Dial.h(80,39): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Dial.h(102,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\StyleSheet.cpp(66,54): warning C4244: 'argument': conversion from 'double' to 'ValueType', possible loss of data
+          with
+          [
+              ValueType=float
+          ]
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\StyleSheet.cpp(65,54): warning C4244: 'argument': conversion from 'double' to 'ValueType', possible loss of data
+          with
+          [
+              ValueType=float
+          ]
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\StyleSheet.cpp(69,144): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\StyleSheet.cpp(76,36): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\StyleSheet.cpp(97,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\StyleSheet.cpp(98,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\StyleSheet.cpp(99,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\StyleSheet.cpp(100,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Label.h(28,1): warning C4458: declaration of 'font' hides class member (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\JUCE\modules\juce_gui_basics\widgets\juce_Label.h(346,10): message : see declaration of 'juce::Label::font' (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.h(69,24): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file ..\..\Source\DSP\InitPreTone.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\StyleSheet.cpp(113,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.h(71,24): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file ..\..\Source\DSP\InitPreTone.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\StyleSheet.cpp(157,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Fader.h(61,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\StyleSheet.cpp(158,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\StyleSheet.cpp(159,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\StyleSheet.cpp(160,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Fader.h(69,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\StyleSheet.cpp(173,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Fader.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Menu.h(46,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Menu.h(52,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\StyleSheet.cpp(348,65): warning C4244: 'argument': conversion from 'double' to 'ValueType', possible loss of data
+          with
+          [
+              ValueType=int
+          ]
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_PushButton.h(28,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\StyleSheet.cpp(348,53): warning C4244: 'argument': conversion from 'double' to 'ValueType', possible loss of data
+          with
+          [
+              ValueType=int
+          ]
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_PushButton.h(29,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Dial.h(74,40): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\StyleSheet.cpp(341,57): warning C4100: 'shouldDrawButtonAsDown': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Dial.h(80,39): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\StyleSheet.cpp(340,57): warning C4100: 'shouldDrawButtonAsHighlighted': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Dial.h(102,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\StyleSheet.cpp(384,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\StyleSheet.cpp(383,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\StyleSheet.cpp(390,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\StyleSheet.cpp(367,53): warning C4100: 'shouldDrawButtonAsDown': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\StyleSheet.cpp(366,53): warning C4100: 'shouldDrawButtonAsHighlighted': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Label.h(28,1): warning C4458: declaration of 'font' hides class member (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\JUCE\modules\juce_gui_basics\widgets\juce_Label.h(346,10): message : see declaration of 'juce::Label::font' (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Fader.h(61,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Fader.h(69,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Fader.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Methods\UI-Paint.cpp(23,36): warning C4244: 'argument': conversion from 'double' to 'ValueType', possible loss of data
+          with
+          [
+              ValueType=float
+          ]
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Methods\UI-Paint.cpp(23,24): warning C4244: 'argument': conversion from 'double' to 'ValueType', possible loss of data
+          with
+          [
+              ValueType=float
+          ]
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Methods\UI-Paint.cpp(24,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Menu.h(46,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Menu.h(52,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_PushButton.h(28,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_PushButton.h(29,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Methods\UI-Resized.cpp(23,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Methods\UI-Resized.cpp(23,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Methods\UI-Resized.cpp(27,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Methods\UI-Resized.cpp(27,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Methods\UI-Resized.cpp(27,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Methods\UI-Resized.cpp(27,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Methods\UI-Resized.cpp(31,133): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Methods\UI-Resized.cpp(31,117): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Methods\UI-Resized.cpp(31,100): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Methods\UI-Resized.cpp(31,86): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Methods\UI-Resized.cpp(35,130): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Methods\UI-Resized.cpp(35,114): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Methods\UI-Resized.cpp(35,97): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Methods\UI-Resized.cpp(35,83): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.h(69,24): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Components\LV_PreToneComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.h(71,24): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Components\LV_PreToneComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Toggle.h(60,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_PreToneComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Toggle.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_PreToneComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.h(69,24): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.h(71,24): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Dial.h(74,40): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_PreToneComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Dial.h(80,39): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_PreToneComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Dial.h(102,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Components\LV_PreToneComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Label.h(28,1): warning C4458: declaration of 'font' hides class member (compiling source file ..\..\Source\UI-Components\LV_PreToneComponent.cpp)
+C:\Users\lando\Documents\GitHub\JUCE\modules\juce_gui_basics\widgets\juce_Label.h(346,10): message : see declaration of 'juce::Label::font' (compiling source file ..\..\Source\UI-Components\LV_PreToneComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Fader.h(61,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_PreToneComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Fader.h(69,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Components\LV_PreToneComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Fader.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_PreToneComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Menu.h(46,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_PreToneComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Menu.h(52,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_PreToneComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_PushButton.h(28,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Components\LV_PreToneComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_PushButton.h(29,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Components\LV_PreToneComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_PreToneComponent.cpp(36,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_PreToneComponent.cpp(45,112): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_PreToneComponent.cpp(60,50): warning C4100: 'g': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_PreToneComponent.cpp(72,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_PreToneComponent.cpp(72,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Toggle.h(60,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_PreToneComponent.cpp(74,88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_PreToneComponent.cpp(74,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Toggle.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_PreToneComponent.cpp(74,71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_PreToneComponent.cpp(74,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_PreToneComponent.cpp(75,119): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_PreToneComponent.cpp(75,109): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_PreToneComponent.cpp(75,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_PreToneComponent.cpp(76,87): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_PreToneComponent.cpp(76,77): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Dial.h(74,40): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Dial.h(80,39): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Dial.h(102,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Label.h(28,1): warning C4458: declaration of 'font' hides class member (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\JUCE\modules\juce_gui_basics\widgets\juce_Label.h(346,10): message : see declaration of 'juce::Label::font' (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Fader.h(61,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Fader.h(69,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Fader.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.h(69,24): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.h(71,24): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Toggle.h(60,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_HeaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Menu.h(46,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Toggle.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_HeaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Menu.h(52,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_PushButton.h(28,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_PushButton.h(29,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Dial.h(74,40): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_HeaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Dial.h(80,39): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_HeaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Dial.h(102,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Components\LV_HeaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Label.h(28,1): warning C4458: declaration of 'font' hides class member (compiling source file ..\..\Source\UI-Components\LV_HeaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\JUCE\modules\juce_gui_basics\widgets\juce_Label.h(346,10): message : see declaration of 'juce::Label::font' (compiling source file ..\..\Source\UI-Components\LV_HeaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Fader.h(61,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_HeaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Fader.h(69,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Components\LV_HeaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Fader.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_HeaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Methods\UI-InitWindow.cpp(27,93): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Methods\UI-InitWindow.cpp(27,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Menu.h(46,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_HeaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Methods\UI-InitWindow.cpp(27,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Menu.h(52,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_HeaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Methods\UI-InitWindow.cpp(27,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Methods\UI-InitWindow.cpp(32,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Methods\UI-InitWindow.cpp(32,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_PushButton.h(28,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Components\LV_HeaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Methods\UI-InitWindow.cpp(37,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.h(69,24): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Components\LV_PostToneComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_PushButton.h(29,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Components\LV_HeaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Methods\UI-InitWindow.cpp(37,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.h(71,24): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Components\LV_PostToneComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.h(69,24): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file ..\..\Source\DSP\InitPostTone.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.h(71,24): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file ..\..\Source\DSP\InitPostTone.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_HeaderComponent.cpp(40,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_HeaderComponent.cpp(47,87): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_HeaderComponent.cpp(47,71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_HeaderComponent.cpp(47,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_HeaderComponent.cpp(47,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_HeaderComponent.cpp(52,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_HeaderComponent.cpp(52,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_HeaderComponent.cpp(52,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_HeaderComponent.cpp(52,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_HeaderComponent.cpp(63,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_HeaderComponent.cpp(63,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_HeaderComponent.cpp(63,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_HeaderComponent.cpp(63,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_HeaderComponent.cpp(64,120): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_HeaderComponent.cpp(64,109): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_HeaderComponent.cpp(64,98): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_HeaderComponent.cpp(64,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Toggle.h(60,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_PostToneComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Toggle.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_PostToneComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Dial.h(74,40): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_PostToneComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Dial.h(80,39): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_PostToneComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Dial.h(102,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Components\LV_PostToneComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Label.h(28,1): warning C4458: declaration of 'font' hides class member (compiling source file ..\..\Source\UI-Components\LV_PostToneComponent.cpp)
+C:\Users\lando\Documents\GitHub\JUCE\modules\juce_gui_basics\widgets\juce_Label.h(346,10): message : see declaration of 'juce::Label::font' (compiling source file ..\..\Source\UI-Components\LV_PostToneComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Fader.h(61,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_PostToneComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Fader.h(69,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Components\LV_PostToneComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Fader.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_PostToneComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Toggle.h(60,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Toggle.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Dial.h(74,40): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Dial.h(80,39): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Dial.h(102,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Menu.h(46,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_PostToneComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Menu.h(52,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_PostToneComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_PushButton.h(28,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Components\LV_PostToneComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_PushButton.h(29,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Components\LV_PostToneComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Label.h(28,1): warning C4458: declaration of 'font' hides class member (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\JUCE\modules\juce_gui_basics\widgets\juce_Label.h(346,10): message : see declaration of 'juce::Label::font' (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Fader.h(61,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_PostToneComponent.cpp(36,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Fader.h(69,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Fader.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_PostToneComponent.cpp(45,112): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_PostToneComponent.cpp(60,51): warning C4100: 'g': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_PostToneComponent.cpp(73,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_PostToneComponent.cpp(73,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Menu.h(46,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_PostToneComponent.cpp(75,106): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Menu.h(52,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_PostToneComponent.cpp(75,96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_PostToneComponent.cpp(75,89): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_PushButton.h(28,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_PostToneComponent.cpp(75,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.h(69,24): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_PushButton.h(29,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_PostToneComponent.cpp(76,100): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.h(71,24): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_PostToneComponent.cpp(76,90): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_PostToneComponent.cpp(76,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_PostToneComponent.cpp(77,87): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_PostToneComponent.cpp(77,77): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Methods\UI-SaveWindow.cpp(22,46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Methods\UI-SaveWindow.cpp(23,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Toggle.h(60,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Toggle.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Dial.h(74,40): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Dial.h(80,39): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Dial.h(102,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Label.h(28,1): warning C4458: declaration of 'font' hides class member (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\JUCE\modules\juce_gui_basics\widgets\juce_Label.h(346,10): message : see declaration of 'juce::Label::font' (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Fader.h(61,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Fader.h(69,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Fader.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Menu.h(46,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Menu.h(52,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_PushButton.h(28,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_PushButton.h(29,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\PluginEditor.cpp(40,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\PluginEditor.cpp(40,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_SVFilter.cpp(21,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_SVFilter.cpp(46,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_SVFilter.cpp(166,90): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_SVFilter.cpp(170,61): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.h(69,24): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Components\LV_ClipperComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.h(71,24): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Components\LV_ClipperComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.h(69,24): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\DSP\LV_Clipper.h(71,24): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Toggle.h(60,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_ClipperComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Toggle.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_ClipperComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Dial.h(74,40): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_ClipperComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Dial.h(80,39): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_ClipperComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Dial.h(102,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Components\LV_ClipperComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Label.h(28,1): warning C4458: declaration of 'font' hides class member (compiling source file ..\..\Source\UI-Components\LV_ClipperComponent.cpp)
+C:\Users\lando\Documents\GitHub\JUCE\modules\juce_gui_basics\widgets\juce_Label.h(346,10): message : see declaration of 'juce::Label::font' (compiling source file ..\..\Source\UI-Components\LV_ClipperComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Fader.h(61,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_ClipperComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Fader.h(69,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Components\LV_ClipperComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Fader.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_ClipperComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Menu.h(46,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_ClipperComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Menu.h(52,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\UI-Components\LV_ClipperComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Toggle.h(60,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Toggle.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_PushButton.h(28,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Components\LV_ClipperComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_PushButton.h(29,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Components\LV_ClipperComponent.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Dial.h(74,40): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Dial.h(80,39): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Dial.h(102,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Label.h(28,1): warning C4458: declaration of 'font' hides class member (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\JUCE\modules\juce_gui_basics\widgets\juce_Label.h(346,10): message : see declaration of 'juce::Label::font' (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Fader.h(61,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Fader.h(69,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Fader.h(67,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_ClipperComponent.cpp(67,104): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_ClipperComponent.cpp(86,84): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_ClipperComponent.cpp(86,69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_ClipperComponent.cpp(86,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Menu.h(46,44): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_ClipperComponent.cpp(86,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_Menu.h(52,43): warning C4100: 'event': unreferenced formal parameter (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_ClipperComponent.cpp(101,80): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_ClipperComponent.cpp(101,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_PushButton.h(28,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_ClipperComponent.cpp(102,125): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\Widgets\LV_PushButton.h(29,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_ClipperComponent.cpp(102,93): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_ClipperComponent.cpp(102,74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_ClipperComponent.cpp(102,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_ClipperComponent.cpp(103,115): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_ClipperComponent.cpp(103,105): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_ClipperComponent.cpp(103,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_ClipperComponent.cpp(104,117): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_ClipperComponent.cpp(104,107): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_ClipperComponent.cpp(104,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_ClipperComponent.cpp(105,106): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_ClipperComponent.cpp(105,96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_ClipperComponent.cpp(105,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_ClipperComponent.cpp(106,99): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_ClipperComponent.cpp(106,84): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_ClipperComponent.cpp(106,70): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\UI-Components\LV_ClipperComponent.cpp(106,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\PluginProcessor.cpp(203,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\PluginProcessor.cpp(209,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\PluginProcessor.cpp(263,54): warning C4100: 'index': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\PluginProcessor.cpp(267,65): warning C4100: 'index': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\PluginProcessor.cpp(272,81): warning C4100: 'newName': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\PluginProcessor.cpp(272,54): warning C4100: 'index': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\PluginProcessor.cpp(288,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\PluginProcessor.cpp(293,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\PluginProcessor.cpp(296,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\PluginProcessor.cpp(368,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\PluginProcessor.cpp(369,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\PluginProcessor.cpp(343,97): warning C4100: 'midiMessages': unreferenced formal parameter
+  include_juce_audio_basics.cpp
+  include_juce_audio_devices.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\memory(2698,56): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ] (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\PluginProcessor.cpp(76): message : see reference to function template instantiation 'std::unique_ptr<juce::AudioParameterFloat,std::default_delete<juce::AudioParameterFloat>> std::make_unique<juce::AudioParameterFloat,const char(&)[6],const char(&)[6],double,double,double,0>(const char (&)[6],const char (&)[6],double &&,double &&,double &&)' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\memory(2698,56): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ] (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Source\PluginProcessor.cpp(84): message : see reference to function template instantiation 'std::unique_ptr<juce::AudioParameterInt,std::default_delete<juce::AudioParameterInt>> std::make_unique<juce::AudioParameterInt,const char(&)[8],const char(&)[9],double,double,double,0>(const char (&)[8],const char (&)[9],double &&,double &&,double &&)' being compiled
+  include_juce_audio_formats.cpp
+  include_juce_audio_plugin_client_utils.cpp
+  include_juce_audio_processors.cpp
+  include_juce_audio_utils.cpp
+  include_juce_core.cpp
+  include_juce_data_structures.cpp
+  include_juce_dsp.cpp
+  include_juce_events.cpp
+  include_juce_graphics.cpp
+  include_juce_gui_extra.cpp
+  include_juce_gui_basics.cpp
+  BT-Clipper_SharedCode.vcxproj -> C:\Users\lando\Documents\GitHub\BT-Clipper\BT-Clipper\Builds\VisualStudio2019\x64\Release\Shared Code\BT-Clipper.lib

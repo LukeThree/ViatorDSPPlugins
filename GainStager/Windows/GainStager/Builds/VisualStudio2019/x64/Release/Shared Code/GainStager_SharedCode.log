@@ -1,0 +1,140 @@
+﻿  ComponentProps.cpp
+  Parameters.cpp
+  PluginEditor.cpp
+  PluginProcessor.cpp
+  SignalDSP.cpp
+  StyleSheet.cpp
+  BinaryData.cpp
+  include_juce_audio_basics.cpp
+  include_juce_audio_devices.cpp
+  include_juce_audio_formats.cpp
+  include_juce_audio_plugin_client_utils.cpp
+  include_juce_audio_processors.cpp
+  include_juce_audio_utils.cpp
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\StyleSheet.h(61,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\StyleSheet.h(62,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\StyleSheet.h(63,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\StyleSheet.h(64,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\StyleSheet.h(70,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\StyleSheet.h(71,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\StyleSheet.h(78,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\StyleSheet.h(59,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\StyleSheet.h(87,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\StyleSheet.h(88,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\StyleSheet.h(89,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\StyleSheet.h(90,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\StyleSheet.h(103,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\StyleSheet.h(85,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\StyleSheet.cpp(62,50): warning C4244: 'argument': conversion from 'double' to 'ValueType', possible loss of data
+          with
+          [
+              ValueType=float
+          ]
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\StyleSheet.cpp(61,50): warning C4244: 'argument': conversion from 'double' to 'ValueType', possible loss of data
+          with
+          [
+              ValueType=float
+          ]
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\StyleSheet.cpp(65,140): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\StyleSheet.cpp(70,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\StyleSheet.cpp(93,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\StyleSheet.cpp(92,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\StyleSheet.cpp(77,35): warning C4100: 'shouldDrawButtonAsDown': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\StyleSheet.cpp(76,48): warning C4100: 'shouldDrawButtonAsHighlighted': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\StyleSheet.cpp(166,14): warning C4189: 'thumbWidth': local variable is initialized but not referenced
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\ViatorDial.h(41,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\ViatorDial.h(41,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\ComponentProps.cpp(24,89): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\ComponentProps.cpp(52,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\ComponentProps.cpp(53,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\ViatorDial.h(41,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginProcessor.cpp(96,55): warning C4100: 'index': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginProcessor.cpp(100,66): warning C4100: 'index': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginProcessor.cpp(105,82): warning C4100: 'newName': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginProcessor.cpp(105,55): warning C4100: 'index': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginProcessor.cpp(119,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginProcessor.cpp(122,14): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginProcessor.cpp(129,17): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginProcessor.cpp(174,98): warning C4100: 'midiMessages': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\Parameters.cpp(46,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginProcessor.cpp(275,14): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginProcessor.cpp(279,17): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\Parameters.cpp(71,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(64,114): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(77,120): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(89,76): warning C4458: declaration of 'audioProcessor' hides class member
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.h(91,31): message : see declaration of 'GainStagerAudioProcessorEditor::audioProcessor' (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(103,93): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(103,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(103,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(103,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(108,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(108,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(113,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(113,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(144,191): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(144,149): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(144,111): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(144,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(148,185): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(148,143): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(148,105): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(148,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(159,75): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(159,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(159,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(159,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(161,117): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(161,102): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(163,121): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(163,106): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(163,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(169,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(168,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(167,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(175,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(173,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(182,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(181,16): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(180,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(179,16): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Source\PluginEditor.cpp(190,71): warning C4100: 'slider': unreferenced formal parameter
+  include_juce_core.cpp
+  include_juce_data_structures.cpp
+  include_juce_dsp.cpp
+  include_juce_events.cpp
+  include_juce_graphics.cpp
+  include_juce_gui_basics.cpp
+  include_juce_gui_extra.cpp
+  GainStager_SharedCode.vcxproj -> C:\Users\lando\Documents\GitHub\GainStager\Windows\GainStager\Builds\VisualStudio2019\x64\Release\Shared Code\GainStager.lib

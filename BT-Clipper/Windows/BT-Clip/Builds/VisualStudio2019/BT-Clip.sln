@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2019
+
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BT-Clip - VST3", "BT-Clip_VST3.vcxproj", "{D84BA996-D276-2568-2915-CEF7E40F4D77}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E64E4769-F62F-E36E-155D-19CFEF1ECDF2} = {E64E4769-F62F-E36E-155D-19CFEF1ECDF2}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BT-Clip - Shared Code", "BT-Clip_SharedCode.vcxproj", "{E64E4769-F62F-E36E-155D-19CFEF1ECDF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D84BA996-D276-2568-2915-CEF7E40F4D77}.Debug|x64.ActiveCfg = Debug|x64
+		{D84BA996-D276-2568-2915-CEF7E40F4D77}.Debug|x64.Build.0 = Debug|x64
+		{D84BA996-D276-2568-2915-CEF7E40F4D77}.Release|x64.ActiveCfg = Release|x64
+		{D84BA996-D276-2568-2915-CEF7E40F4D77}.Release|x64.Build.0 = Release|x64
+		{E64E4769-F62F-E36E-155D-19CFEF1ECDF2}.Debug|x64.ActiveCfg = Debug|x64
+		{E64E4769-F62F-E36E-155D-19CFEF1ECDF2}.Debug|x64.Build.0 = Debug|x64
+		{E64E4769-F62F-E36E-155D-19CFEF1ECDF2}.Release|x64.ActiveCfg = Release|x64
+		{E64E4769-F62F-E36E-155D-19CFEF1ECDF2}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

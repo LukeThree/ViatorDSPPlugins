@@ -1,0 +1,520 @@
+﻿  BordersProps.cpp
+  ButtonProps.cpp
+  CompressorButtons.cpp
+  CompressorDials.cpp
+  DialProps.cpp
+  EQButtons.cpp
+  EQDials.cpp
+  InitBorders.cpp
+  InitButtons.cpp
+  InitDials.cpp
+  InitLabels.cpp
+  InputDials.cpp
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.h(92,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ] (compiling source file ..\..\Source\CompressorDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CompressorDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CompressorDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CompressorDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CompressorDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(41,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CompressorDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\CompressorDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(50,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CompressorDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(51,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CompressorDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(52,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CompressorDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CompressorDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(59,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\CompressorDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(66,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CompressorDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(48,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\CompressorDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.h(92,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ] (compiling source file ..\..\Source\ButtonProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.h(92,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ] (compiling source file ..\..\Source\DialProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ButtonProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\DialProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\DialProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ButtonProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\DialProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ButtonProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ButtonProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\DialProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(41,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ButtonProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(41,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\DialProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\ButtonProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\DialProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(50,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\DialProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(51,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\DialProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(50,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ButtonProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(51,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ButtonProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(52,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\DialProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(52,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ButtonProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\DialProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ButtonProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(59,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\ButtonProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(59,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\DialProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(66,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ButtonProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(66,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\DialProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(48,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\ButtonProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(48,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\DialProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.h(92,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ] (compiling source file ..\..\Source\InitBorders.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitBorders.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitBorders.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitBorders.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitBorders.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(41,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitBorders.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\InitBorders.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(50,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitBorders.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(51,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitBorders.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(52,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitBorders.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitBorders.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(59,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\InitBorders.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(66,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitBorders.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(48,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\InitBorders.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\DialProps.cpp(17,89): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.h(92,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ] (compiling source file ..\..\Source\InitButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ButtonProps.cpp(20,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ButtonProps.cpp(21,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(41,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\InitButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(50,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(51,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(52,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(59,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\InitButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(66,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(48,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\InitButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.h(92,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ] (compiling source file ..\..\Source\InputDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InputDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InputDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InputDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InputDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(41,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InputDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\InputDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(50,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InputDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(51,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InputDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(52,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InputDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InputDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(59,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\InputDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(66,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InputDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(48,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\InputDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.h(92,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ] (compiling source file ..\..\Source\InitLabels.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitLabels.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitLabels.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitLabels.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitLabels.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(41,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitLabels.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\InitLabels.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(50,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitLabels.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(51,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitLabels.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(52,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitLabels.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitLabels.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(59,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\InitLabels.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(66,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitLabels.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(48,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\InitLabels.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.h(92,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ] (compiling source file ..\..\Source\EQDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\EQDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\EQDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\EQDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\EQDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(41,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\EQDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\EQDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(50,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\EQDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(51,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\EQDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(52,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\EQDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\EQDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(59,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\EQDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(66,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\EQDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(48,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\EQDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.h(92,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ] (compiling source file ..\..\Source\CompressorButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CompressorButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CompressorButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CompressorButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CompressorButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(41,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CompressorButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\CompressorButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(50,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CompressorButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(51,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CompressorButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(52,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CompressorButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CompressorButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(59,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\CompressorButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(66,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CompressorButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(48,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\CompressorButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.h(92,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ] (compiling source file ..\..\Source\EQButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\EQButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\EQButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\EQButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\EQButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(41,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\EQButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\EQButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(50,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\EQButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(51,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\EQButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(52,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\EQButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\EQButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(59,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\EQButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(66,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\EQButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(48,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\EQButtons.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.h(92,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ] (compiling source file ..\..\Source\BordersProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\BordersProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\BordersProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\BordersProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\BordersProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(41,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\BordersProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\BordersProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(50,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\BordersProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(51,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\BordersProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(52,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\BordersProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\BordersProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(59,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\BordersProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(66,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\BordersProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(48,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\BordersProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.h(92,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ] (compiling source file ..\..\Source\InitDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(41,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\InitDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(50,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(51,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(52,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(59,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\InitDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(66,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(48,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\InitDials.cpp)
+  LabelProps.cpp
+  LV_Compressor.cpp
+  LV_SVFilter.cpp
+  OutputDials.cpp
+  OversampleMenu.cpp
+  Parameters.cpp
+  PhaseButton.cpp
+  PluginBackground.cpp
+  PluginHeader.cpp
+  SatTypeButton.cpp
+  PluginProcessor.cpp
+  PluginEditor.cpp
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.h(92,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ] (compiling source file ..\..\Source\LabelProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\LabelProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\LabelProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\LabelProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\LabelProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(41,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\LabelProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\LabelProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(50,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\LabelProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(51,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\LabelProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(52,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\LabelProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\LabelProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(59,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\LabelProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(66,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\LabelProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(48,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\LabelProps.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.h(92,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ] (compiling source file ..\..\Source\OversampleMenu.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\OversampleMenu.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\OversampleMenu.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\OversampleMenu.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\OversampleMenu.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(41,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\OversampleMenu.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\OversampleMenu.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(50,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\OversampleMenu.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(51,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\OversampleMenu.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(52,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\OversampleMenu.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\OversampleMenu.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(59,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\OversampleMenu.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(66,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\OversampleMenu.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(48,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\OversampleMenu.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.h(92,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ] (compiling source file ..\..\Source\LV_Compressor.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.cpp(20,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.cpp(55,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.cpp(60,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.cpp(68,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.cpp(73,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.cpp(77,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.cpp(81,58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.cpp(87,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.cpp(94,103): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.cpp(102,55): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.cpp(120,86): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.cpp(124,38): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.cpp(124,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.cpp(125,39): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.cpp(125,58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.h(92,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ] (compiling source file ..\..\Source\OutputDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\OversampleMenu.cpp(21,115): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_SVFilter.cpp(21,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_SVFilter.cpp(62,39): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_SVFilter.cpp(169,79): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\OutputDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\OutputDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\OutputDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\OutputDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(41,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\OutputDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\OutputDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(50,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\OutputDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(51,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\OutputDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(52,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\OutputDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\OutputDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(59,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\OutputDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(66,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\OutputDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(48,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\OutputDials.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.h(92,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ] (compiling source file ..\..\Source\PhaseButton.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PhaseButton.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PhaseButton.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PhaseButton.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PhaseButton.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(41,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PhaseButton.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PhaseButton.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(50,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PhaseButton.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(51,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PhaseButton.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(52,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PhaseButton.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PhaseButton.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(59,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PhaseButton.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(66,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PhaseButton.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(48,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PhaseButton.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.h(92,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ] (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.h(92,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ] (compiling source file ..\..\Source\PluginHeader.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.h(92,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ] (compiling source file ..\..\Source\Parameters.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(41,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginHeader.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginHeader.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginHeader.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginHeader.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(41,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginHeader.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(50,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(51,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(52,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PluginHeader.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(59,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(50,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginHeader.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(51,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginHeader.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(52,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginHeader.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(66,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginHeader.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(59,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginHeader.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(48,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(66,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginHeader.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(48,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PluginHeader.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.h(92,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ] (compiling source file ..\..\Source\SatTypeButton.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\SatTypeButton.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\SatTypeButton.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\SatTypeButton.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\SatTypeButton.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(41,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\SatTypeButton.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\SatTypeButton.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(50,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\SatTypeButton.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(51,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\SatTypeButton.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(52,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\SatTypeButton.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\SatTypeButton.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(59,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\SatTypeButton.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(66,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\SatTypeButton.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(48,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\SatTypeButton.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.h(92,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ] (compiling source file ..\..\Source\PluginBackground.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\PluginHeader.cpp(17,96): warning C4244: 'argument': conversion from 'int' to 'ValueType', possible loss of data
+          with
+          [
+              ValueType=float
+          ]
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\PluginHeader.cpp(17,58): warning C4244: 'argument': conversion from 'int' to 'ValueType', possible loss of data
+          with
+          [
+              ValueType=float
+          ]
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\PluginHeader.cpp(24,77): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data
+          with
+          [
+              ValueType=float
+          ]
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\PluginHeader.cpp(28,177): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\PluginHeader.cpp(28,136): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\PluginHeader.cpp(28,90): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data
+          with
+          [
+              ValueType=float
+          ]
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginBackground.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\PluginHeader.cpp(28,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginBackground.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\PluginHeader.cpp(33,171): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginBackground.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\PluginHeader.cpp(33,130): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\PluginHeader.cpp(33,84): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data
+          with
+          [
+              ValueType=float
+          ]
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginBackground.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\PluginHeader.cpp(33,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(41,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginBackground.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PluginBackground.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(50,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginBackground.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(51,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginBackground.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(52,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginBackground.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginBackground.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\PluginProcessor.cpp(100,56): warning C4100: 'index': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(59,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginBackground.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\PluginProcessor.cpp(104,67): warning C4100: 'index': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\PluginProcessor.cpp(109,83): warning C4100: 'newName': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\PluginProcessor.cpp(109,56): warning C4100: 'index': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(66,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginBackground.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\PluginProcessor.cpp(122,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(48,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PluginBackground.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\PluginProcessor.cpp(140,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\PluginProcessor.cpp(179,99): warning C4100: 'midiMessages': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\LV_Compressor.h(92,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ] (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(41,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(50,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(51,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(52,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(59,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(66,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\ViatorDial.h(48,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\PluginBackground.cpp(21,103): warning C4244: 'argument': conversion from 'int' to 'ValueType', possible loss of data
+          with
+          [
+              ValueType=float
+          ]
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\PluginBackground.cpp(21,68): warning C4244: 'argument': conversion from 'int' to 'ValueType', possible loss of data
+          with
+          [
+              ValueType=float
+          ]
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\PluginBackground.cpp(26,105): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\PluginBackground.cpp(26,65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\PluginEditor.cpp(66,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\PluginEditor.cpp(67,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\PluginEditor.cpp(68,152): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\PluginEditor.cpp(68,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\PluginEditor.cpp(70,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\PluginEditor.cpp(73,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\PluginEditor.cpp(78,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\PluginEditor.cpp(78,65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\PluginEditor.cpp(78,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\PluginEditor.cpp(79,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\PluginEditor.cpp(81,106): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\PluginEditor.cpp(81,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\PluginEditor.cpp(83,115): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\PluginEditor.cpp(83,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\memory(2698,56): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ] (compiling source file ..\..\Source\Parameters.cpp)
+C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Source\Parameters.cpp(22): message : see reference to function template instantiation 'std::unique_ptr<juce::AudioParameterFloat,std::default_delete<juce::AudioParameterFloat>> std::make_unique<juce::AudioParameterFloat,const char(&)[7],const char(&)[7],double,double,double,0>(const char (&)[7],const char (&)[7],double &&,double &&,double &&)' being compiled
+  BinaryData.cpp
+  BinaryData2.cpp
+  include_juce_audio_basics.cpp
+  include_juce_audio_devices.cpp
+  include_juce_audio_formats.cpp
+  include_juce_audio_plugin_client_utils.cpp
+  include_juce_audio_processors.cpp
+  include_juce_audio_utils.cpp
+  include_juce_core.cpp
+  include_juce_data_structures.cpp
+  include_juce_dsp.cpp
+  include_juce_events.cpp
+  include_juce_graphics.cpp
+  include_juce_gui_basics.cpp
+  include_juce_gui_extra.cpp
+  BedroomComp_SharedCode.vcxproj -> C:\Users\lando\Documents\GitHub\BedroomComp\Windows\BedroomComp\Builds\VisualStudio2019\x64\Release\Shared Code\BedroomComp.lib

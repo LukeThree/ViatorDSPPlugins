@@ -1,0 +1,468 @@
+﻿  LV_DialComponent.cpp
+  LV_FaderComponent.cpp
+  LV_GroupComponent.cpp
+  LV_LabelComponent.cpp
+  LV_MenuComponent.cpp
+  LV_PowerToggle.cpp
+  LV_PushButtonComponent.cpp
+  LV_Window.cpp
+  UI-Constructor.cpp
+  UI-InitWindow.cpp
+  UI-Paint.cpp
+  UI-Resized.cpp
+  UI-SaveWindow.cpp
+  StyleSheet.cpp
+  LV_SVFilter.cpp
+  Filters.cpp
+  ProcessorCore.cpp
+  ComponentProps.cpp
+  UIFlexBox.cpp
+  PluginProcessor.cpp
+  PluginEditor.cpp
+  BinaryData.cpp
+  BinaryData2.cpp
+  include_juce_audio_basics.cpp
+  include_juce_audio_devices.cpp
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Components\LV_GroupComponent.cpp(25,48): warning C4100: 'g': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_DialComponent.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_DialComponent.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_DialComponent.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_DialComponent.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_DialComponent.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_DialComponent.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_DialComponent.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_DialComponent.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_DialComponent.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(86,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_DialComponent.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Components\LV_DialComponent.cpp(30,47): warning C4100: 'g': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\LV_PushButton.h(28,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Components\LV_PushButtonComponent.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\LV_PushButton.h(29,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Components\LV_PushButtonComponent.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Components\LV_PushButtonComponent.cpp(25,53): warning C4100: 'g': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Components\LV_Window.cpp(41,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Components\LV_Window.cpp(41,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Components\LV_Window.cpp(50,88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Components\LV_Window.cpp(50,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Components\LV_Window.cpp(50,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Components\LV_Window.cpp(50,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Components\LV_Window.cpp(55,77): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Components\LV_Window.cpp(55,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Components\LV_Window.cpp(55,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Components\LV_Window.cpp(55,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Components\LV_Window.cpp(62,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Components\LV_Window.cpp(63,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Components\LV_Window.cpp(63,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Components\LV_Window.cpp(63,61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Components\LV_Window.cpp(63,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Components\LV_LabelComponent.cpp(26,48): warning C4100: 'g': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_PowerToggle.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_PowerToggle.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_PowerToggle.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_PowerToggle.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_PowerToggle.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_PowerToggle.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_PowerToggle.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_PowerToggle.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_PowerToggle.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(86,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_PowerToggle.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_FaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_FaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Components\LV_PowerToggle.cpp(26,45): warning C4100: 'g': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_FaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_FaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_FaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_FaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_FaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_FaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_FaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(86,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Components\LV_FaderComponent.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Components\LV_FaderComponent.cpp(22,48): warning C4100: 'g': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(34,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(34,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(35,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(35,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(42,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(42,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(51,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(51,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(52,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(52,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Components\LV_MenuComponent.cpp(26,47): warning C4100: 'g': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(54,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(54,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(60,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(60,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(61,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(61,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(69,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(69,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(49,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(49,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ProcessorCore.cpp(33,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ProcessorCore.cpp(37,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(34,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(35,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(86,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-InitWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(42,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(86,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ComponentProps.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(51,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(52,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(54,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(60,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(61,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(69,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(49,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(34,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(35,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(86,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Paint.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(42,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(51,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(34,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(52,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(54,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(35,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(60,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(42,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(61,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(69,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(51,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(49,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(52,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(54,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(60,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(61,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(69,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(49,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(86,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(86,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Resized.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-InitWindow.cpp(27,93): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-InitWindow.cpp(27,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-InitWindow.cpp(27,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-InitWindow.cpp(27,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-InitWindow.cpp(32,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-InitWindow.cpp(32,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-InitWindow.cpp(37,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-InitWindow.cpp(37,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ComponentProps.cpp(30,89): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ComponentProps.cpp(46,89): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(34,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ComponentProps.cpp(64,89): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(35,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(42,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ComponentProps.cpp(93,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ComponentProps.cpp(94,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(51,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(52,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(54,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(60,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(34,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(61,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(35,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(69,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(42,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(49,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Widgets\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Widgets\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Widgets\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(51,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Widgets\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(52,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Widgets\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(54,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(60,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Widgets\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(61,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Widgets\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Widgets\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(69,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Widgets\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(49,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(86,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Widgets\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(34,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(35,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(42,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.cpp(58,50): warning C4244: 'argument': conversion from 'double' to 'ValueType', possible loss of data
+          with
+          [
+              ValueType=float
+          ]
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.cpp(57,50): warning C4244: 'argument': conversion from 'double' to 'ValueType', possible loss of data
+          with
+          [
+              ValueType=float
+          ]
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(86,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.cpp(61,140): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(51,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(52,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.cpp(66,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(54,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(60,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(61,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(69,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(49,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(86,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-SaveWindow.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.cpp(186,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.cpp(185,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.cpp(170,35): warning C4100: 'shouldDrawButtonAsDown': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.cpp(169,48): warning C4100: 'shouldDrawButtonAsHighlighted': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(86,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UI-Methods\UI-Constructor.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\PluginProcessor.cpp(123,50): warning C4100: 'index': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\PluginProcessor.cpp(127,61): warning C4100: 'index': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\PluginProcessor.cpp(132,77): warning C4100: 'newName': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\PluginProcessor.cpp(132,50): warning C4100: 'index': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\PluginProcessor.cpp(148,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\PluginProcessor.cpp(149,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\PluginProcessor.cpp(152,14): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\PluginProcessor.cpp(158,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(28,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\PluginProcessor.cpp(159,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(28,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(28,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(28,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(34,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(29,136): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(35,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(29,124): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(29,84): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(31,113): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(42,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(31,101): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(31,90): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(32,136): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(32,124): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(51,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(52,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(54,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(60,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(61,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(69,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\ViatorDial.h(49,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\PluginProcessor.cpp(274,22): warning C4244: 'argument': conversion from 'int' to 'Type', possible loss of data
+          with
+          [
+              Type=float
+          ]
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\PluginProcessor.cpp(203,93): warning C4100: 'midiMessages': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(61,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(70,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(71,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(72,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\Widgets\StyleSheet.h(86,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\UIFlexBox.cpp)
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(32,84): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(34,115): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(34,103): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(34,92): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(35,144): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(35,132): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(35,90): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-SaveWindow.cpp(22,46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-SaveWindow.cpp(23,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(37,118): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(37,106): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(37,95): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(38,140): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(38,128): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(38,87): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(40,112): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(40,100): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(40,92): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(40,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(41,97): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(41,85): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(41,77): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(41,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(43,165): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(43,152): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(43,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(44,131): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(44,118): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(44,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(45,168): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(45,155): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(45,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(47,119): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(48,113): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(50,125): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Resized.cpp(50,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\PluginEditor.cpp(47,56): warning C4100: 'g': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\PluginEditor.cpp(89,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\PluginEditor.cpp(89,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\PluginEditor.cpp(92,66): warning C4100: 'slider': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UIFlexBox.cpp(26,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UIFlexBox.cpp(26,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UIFlexBox.cpp(26,195): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UIFlexBox.cpp(27,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UIFlexBox.cpp(27,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UIFlexBox.cpp(27,195): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UIFlexBox.cpp(43,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UIFlexBox.cpp(43,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UIFlexBox.cpp(44,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UIFlexBox.cpp(44,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UIFlexBox.cpp(50,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UIFlexBox.cpp(61,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UIFlexBox.cpp(61,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UIFlexBox.cpp(62,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UIFlexBox.cpp(62,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UIFlexBox.cpp(76,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UI-Methods\UI-Constructor.cpp(91,115): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UIFlexBox.cpp(76,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UIFlexBox.cpp(77,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UIFlexBox.cpp(77,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UIFlexBox.cpp(93,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UIFlexBox.cpp(93,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UIFlexBox.cpp(109,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UIFlexBox.cpp(109,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UIFlexBox.cpp(116,124): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\UIFlexBox.cpp(116,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\PluginProcessor.cpp(335,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\PluginProcessor.cpp(339,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\LV_SVFilter.cpp(21,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\LV_SVFilter.cpp(62,39): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Source\LV_SVFilter.cpp(180,90): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  include_juce_audio_formats.cpp
+  include_juce_audio_plugin_client_utils.cpp
+  include_juce_audio_processors.cpp
+  include_juce_audio_utils.cpp
+  include_juce_core.cpp
+  include_juce_data_structures.cpp
+  include_juce_dsp.cpp
+  include_juce_events.cpp
+  include_juce_graphics.cpp
+  include_juce_gui_extra.cpp
+  include_juce_gui_basics.cpp
+  LV50A_SharedCode.vcxproj -> C:\Users\lando\Documents\GitHub\LV50A\M1_Mac\LV50A\Builds\VisualStudio2019\x64\Release\Shared Code\LV50A.lib

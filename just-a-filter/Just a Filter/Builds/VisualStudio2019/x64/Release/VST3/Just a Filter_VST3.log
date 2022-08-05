@@ -1,0 +1,5 @@
+﻿  include_juce_audio_plugin_client_VST3.cpp
+     Creating library C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Builds\VisualStudio2019\x64\Release\VST3\Just a Filter.lib and object C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Builds\VisualStudio2019\x64\Release\VST3\Just a Filter.exp
+  Generating code
+  Finished generating code
+  Just a Filter_VST3.vcxproj -> C:\Users\lando\Documents\GitHub\just-a-filter\Just a Filter\Builds\VisualStudio2019\x64\Release\VST3\Just a Filter.vst3

@@ -1,0 +1,387 @@
+﻿  AddRemoveListeners.cpp
+  Background.cpp
+  CleanMemory.cpp
+  CreateParams.cpp
+  CreateWindow.cpp
+  DialProps.cpp
+  DriveCompensate.cpp
+  EQToggle.cpp
+  InitLabels.cpp
+  InitMenu.cpp
+  InitSliders.cpp
+  InitToggles.cpp
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CleanMemory.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CleanMemory.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CleanMemory.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CleanMemory.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(54,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\CleanMemory.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(55,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\CleanMemory.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(62,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CleanMemory.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(43,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\CleanMemory.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(71,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CleanMemory.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(72,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CleanMemory.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CleanMemory.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(74,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CleanMemory.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(87,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CleanMemory.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(69,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\CleanMemory.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\DriveCompensate.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\DriveCompensate.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\DriveCompensate.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\DriveCompensate.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(54,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\DriveCompensate.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(55,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\DriveCompensate.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(62,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\DriveCompensate.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(43,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\DriveCompensate.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(71,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\DriveCompensate.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(72,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\DriveCompensate.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\DriveCompensate.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(74,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\DriveCompensate.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(87,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\DriveCompensate.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(69,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\DriveCompensate.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitToggles.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitToggles.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitToggles.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitToggles.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(54,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\InitToggles.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(55,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\InitToggles.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(62,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitToggles.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(43,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\InitToggles.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(71,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitToggles.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(72,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitToggles.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitToggles.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(74,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitToggles.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(87,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitToggles.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(69,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\InitToggles.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\EQToggle.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\EQToggle.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\EQToggle.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\EQToggle.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(54,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\EQToggle.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(55,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\EQToggle.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitSliders.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(62,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\EQToggle.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitSliders.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitSliders.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(43,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\EQToggle.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitSliders.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(54,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\InitSliders.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(71,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\EQToggle.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(55,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\InitSliders.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(72,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\EQToggle.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(62,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitSliders.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\EQToggle.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(74,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\EQToggle.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(43,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\InitSliders.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(87,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\EQToggle.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(71,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitSliders.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(69,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\EQToggle.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(72,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitSliders.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitSliders.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(74,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitSliders.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(87,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitSliders.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(69,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\InitSliders.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitLabels.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitLabels.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitLabels.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitLabels.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(54,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\InitLabels.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(55,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\InitLabels.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(62,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitLabels.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(43,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\InitLabels.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(71,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitLabels.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(72,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitLabels.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitLabels.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(74,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitLabels.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(87,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitLabels.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(69,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\InitLabels.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Background.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Background.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Background.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Background.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(54,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\Background.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(55,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\Background.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(62,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Background.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(43,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\Background.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(71,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Background.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(72,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Background.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Background.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(74,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Background.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(87,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Background.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(69,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\Background.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\DialProps.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\DialProps.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\DialProps.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\DialProps.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(54,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\DialProps.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(55,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\DialProps.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(62,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\DialProps.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(43,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\DialProps.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(71,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\DialProps.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(72,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\DialProps.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\DialProps.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(74,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\DialProps.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(87,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\DialProps.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(69,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\DialProps.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CreateWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CreateWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CreateWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CreateWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(54,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\CreateWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(55,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\CreateWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(62,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CreateWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(43,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\CreateWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(71,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CreateWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(72,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CreateWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CreateWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(74,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CreateWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(87,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\CreateWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(69,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\CreateWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitMenu.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitMenu.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitMenu.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitMenu.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(54,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\InitMenu.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(55,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\InitMenu.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(62,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitMenu.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(43,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\InitMenu.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(71,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitMenu.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(72,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitMenu.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitMenu.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(74,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitMenu.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(87,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\InitMenu.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(69,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\InitMenu.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\CreateWindow.cpp(13,70): warning C4458: declaration of 'audioProcessor' hides class member
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\PluginEditor.h(36,27): message : see declaration of 'BTClipAudioProcessorEditor::audioProcessor' (compiling source file ..\..\Source\CreateWindow.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\CreateWindow.cpp(27,93): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\CreateWindow.cpp(27,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\CreateWindow.cpp(27,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\CreateWindow.cpp(27,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\CreateWindow.cpp(32,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\CreateWindow.cpp(32,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\CreateWindow.cpp(37,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\CreateWindow.cpp(37,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\CreateWindow.cpp(51,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\CreateWindow.cpp(52,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\memory(2698,56): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ] (compiling source file ..\..\Source\CreateParams.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\CreateParams.cpp(23): message : see reference to function template instantiation 'std::unique_ptr<juce::AudioParameterFloat,std::default_delete<juce::AudioParameterFloat>> std::make_unique<juce::AudioParameterFloat,const char(&)[13],const char(&)[13],double,double,double,0>(const char (&)[13],const char (&)[13],double &&,double &&,double &&)' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\memory(2698,56): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ] (compiling source file ..\..\Source\CreateParams.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\CreateParams.cpp(25): message : see reference to function template instantiation 'std::unique_ptr<juce::AudioParameterFloat,std::default_delete<juce::AudioParameterFloat>> std::make_unique<juce::AudioParameterFloat,const char(&)[9],const char(&)[9],int,int,int,0>(const char (&)[9],const char (&)[9],int &&,int &&,int &&)' being compiled
+  Logo.cpp
+  LV_Clippers.cpp
+  LV_HardClipper.cpp
+  LV_SVFilter.cpp
+  MainDSPLoop.cpp
+  ParamsChanged.cpp
+  PedalDistortion.cpp
+  PhaseToggle.cpp
+  PluginEditor.cpp
+  PluginProcessor.cpp
+  PositionComponents.cpp
+  PrepareClipper.cpp
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Logo.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Logo.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Logo.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Logo.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(54,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\Logo.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(55,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\Logo.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(62,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Logo.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(43,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\Logo.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(71,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Logo.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(72,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Logo.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Logo.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(74,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Logo.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(87,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Logo.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(69,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\Logo.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\Logo.cpp(19,196): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\Logo.cpp(19,154): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\Logo.cpp(19,116): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\Logo.cpp(19,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\Logo.cpp(24,185): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\Logo.cpp(24,143): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\Logo.cpp(24,105): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\Logo.cpp(24,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\Logo.cpp(28,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\Logo.cpp(29,119): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\Logo.cpp(29,77): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\LV_Clippers.cpp(20,30): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\LV_Clippers.cpp(27,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\LV_Clippers.cpp(42,28): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\LV_Clippers.cpp(72,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\LV_Clippers.cpp(77,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\LV_Clippers.cpp(86,60): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\LV_Clippers.cpp(120,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\LV_SVFilter.cpp(21,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\LV_SVFilter.cpp(95,39): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\LV_SVFilter.cpp(202,79): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\LV_HardClipper.cpp(24,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\LV_HardClipper.cpp(55,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\LV_HardClipper.cpp(65,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\LV_HardClipper.cpp(71,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\LV_HardClipper.cpp(77,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\ParamsChanged.cpp(52,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(54,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(55,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(62,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(43,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(71,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(72,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(74,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(87,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(69,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\MainDSPLoop.cpp(41,37): warning C4244: '*=': conversion from 'double' to 'Type', possible loss of data
+          with
+          [
+              Type=float
+          ]
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\PedalDistortion.cpp(20,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PositionComponents.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PositionComponents.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PositionComponents.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PositionComponents.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(54,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PositionComponents.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(55,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PositionComponents.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(62,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PositionComponents.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(43,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PositionComponents.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(71,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PositionComponents.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(72,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PositionComponents.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PositionComponents.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(74,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PositionComponents.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(87,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PositionComponents.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(69,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PositionComponents.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\PositionComponents.cpp(16,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\PositionComponents.cpp(17,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\PositionComponents.cpp(18,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\PositionComponents.cpp(19,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\PositionComponents.cpp(20,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\PositionComponents.cpp(21,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\PositionComponents.cpp(24,83): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\PositionComponents.cpp(24,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\PositionComponents.cpp(24,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\PositionComponents.cpp(24,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\PositionComponents.cpp(25,111): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\PositionComponents.cpp(25,84): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\PositionComponents.cpp(25,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\PositionComponents.cpp(25,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\PositionComponents.cpp(32,118): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\PositionComponents.cpp(32,106): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\PositionComponents.cpp(32,93): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\PositionComponents.cpp(32,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\PositionComponents.cpp(37,116): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\PositionComponents.cpp(37,104): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\PositionComponents.cpp(37,91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\PositionComponents.cpp(37,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\PositionComponents.cpp(42,157): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\PositionComponents.cpp(42,99): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PhaseToggle.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PhaseToggle.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PhaseToggle.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PhaseToggle.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(54,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PhaseToggle.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(55,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PhaseToggle.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(62,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PhaseToggle.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(43,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PhaseToggle.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(71,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PhaseToggle.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(72,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PhaseToggle.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PhaseToggle.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(74,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PhaseToggle.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(87,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PhaseToggle.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(69,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PhaseToggle.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(54,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(55,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(62,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(43,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(71,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(72,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(74,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(87,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(69,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\PluginProcessor.cpp(85,51): warning C4100: 'index': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\PluginProcessor.cpp(89,62): warning C4100: 'index': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\PluginProcessor.cpp(94,78): warning C4100: 'newName': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\PluginProcessor.cpp(94,51): warning C4100: 'index': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\PluginProcessor.cpp(145,94): warning C4100: 'midiMessages': unreferenced formal parameter
+  PrepareMidTone.cpp
+  PrepareOthers.cpp
+  SetState.cpp
+  ShadowProps.cpp
+  StyleSheet.cpp
+  BinaryData.cpp
+  BinaryData2.cpp
+  include_juce_audio_basics.cpp
+  include_juce_audio_devices.cpp
+  include_juce_audio_formats.cpp
+  include_juce_audio_plugin_client_utils.cpp
+  include_juce_audio_processors.cpp
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\PrepareMidTone.cpp(19,68): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\SetState.cpp(24,20): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  include_juce_audio_utils.cpp
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(54,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(55,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(62,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(43,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(71,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(72,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(74,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(87,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(69,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.cpp(58,50): warning C4244: 'argument': conversion from 'double' to 'ValueType', possible loss of data
+          with
+          [
+              ValueType=float
+          ]
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.cpp(57,50): warning C4244: 'argument': conversion from 'double' to 'ValueType', possible loss of data
+          with
+          [
+              ValueType=float
+          ]
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.cpp(61,140): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.cpp(66,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ShadowProps.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ShadowProps.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ShadowProps.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ShadowProps.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(54,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\ShadowProps.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(55,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\ShadowProps.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(62,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ShadowProps.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(43,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\ShadowProps.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(71,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ShadowProps.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(72,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ShadowProps.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ShadowProps.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(74,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ShadowProps.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(87,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\ShadowProps.cpp)
+C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Source\StyleSheet.h(69,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\ShadowProps.cpp)
+  include_juce_core.cpp
+  include_juce_data_structures.cpp
+  include_juce_dsp.cpp
+  include_juce_events.cpp
+  include_juce_graphics.cpp
+  include_juce_gui_extra.cpp
+  include_juce_gui_basics.cpp
+  BT-Clip_SharedCode.vcxproj -> C:\Users\lando\Documents\GitHub\BT-Clipper\Windows\BT-Clip\Builds\VisualStudio2019\x64\Release\Shared Code\BT-Clip.lib

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="b6A65h" name="BedroomComp" projectType="audioplug" useAppConfig="0"
+              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="Viator DSP"
+              version="1.0.0" companyCopyright="Landon Viator 2017" companyWebsite="https://www.patreon.com/ViatorDSP"
+              companyEmail="landonviator@gmail.com" pluginName="Bedroom Comp">
+  <MAINGROUP id="nBabQF" name="BedroomComp">
+    <GROUP id="{4E382067-C67E-683A-A33D-342A1067D515}" name="Source">
+      <GROUP id="{1F4765FF-17FA-215B-E1D5-0D515A77E4E6}" name="Assets">
+        <FILE id="uPAgiv" name="landon55-04.png" compile="0" resource="1" file="Source/Assets/landon55-04.png"/>
+        <FILE id="VNB2ZX" name="pluginBackground.png" compile="0" resource="1"
+              file="Source/Assets/pluginBackground.png"/>
+        <FILE id="kS2ZjG" name="VuMeter.png" compile="0" resource="1" file="Source/Assets/VuMeter.png"/>
+      </GROUP>
+      <FILE id="krVXpr" name="BordersProps.cpp" compile="1" resource="0"
+            file="Source/BordersProps.cpp"/>
+      <FILE id="TOUZXv" name="ButtonProps.cpp" compile="1" resource="0" file="Source/ButtonProps.cpp"/>
+      <FILE id="e8JrrB" name="CompressorButtons.cpp" compile="1" resource="0"
+            file="Source/CompressorButtons.cpp"/>
+      <FILE id="vFyIuO" name="CompressorDials.cpp" compile="1" resource="0"
+            file="Source/CompressorDials.cpp"/>
+      <FILE id="Qw5D9u" name="DialProps.cpp" compile="1" resource="0" file="Source/DialProps.cpp"/>
+      <FILE id="Ba11fr" name="EQButtons.cpp" compile="1" resource="0" file="Source/EQButtons.cpp"/>
+      <FILE id="CoXglp" name="EQDials.cpp" compile="1" resource="0" file="Source/EQDials.cpp"/>
+      <FILE id="EDKIPE" name="InitBorders.cpp" compile="1" resource="0" file="Source/InitBorders.cpp"/>
+      <FILE id="Bu00zb" name="InitButtons.cpp" compile="1" resource="0" file="Source/InitButtons.cpp"/>
+      <FILE id="SQXKCg" name="InitDials.cpp" compile="1" resource="0" file="Source/InitDials.cpp"/>
+      <FILE id="PmBHxq" name="InitLabels.cpp" compile="1" resource="0" file="Source/InitLabels.cpp"/>
+      <FILE id="GJBsNW" name="InputDials.cpp" compile="1" resource="0" file="Source/InputDials.cpp"/>
+      <FILE id="qXls8L" name="LabelProps.cpp" compile="1" resource="0" file="Source/LabelProps.cpp"/>
+      <FILE id="DCjm6n" name="LV_Compressor.cpp" compile="1" resource="0"
+            file="Source/LV_Compressor.cpp"/>
+      <FILE id="fviHXj" name="LV_Compressor.h" compile="0" resource="0" file="Source/LV_Compressor.h"/>
+      <FILE id="yDykNI" name="LV_SVFilter.cpp" compile="1" resource="0" file="Source/LV_SVFilter.cpp"/>
+      <FILE id="S4JK8L" name="LV_SVFilter.h" compile="0" resource="0" file="Source/LV_SVFilter.h"/>
+      <FILE id="h28XlG" name="OutputDials.cpp" compile="1" resource="0" file="Source/OutputDials.cpp"/>
+      <FILE id="ND1Irr" name="OversampleMenu.cpp" compile="1" resource="0"
+            file="Source/OversampleMenu.cpp"/>
+      <FILE id="Nz2DEP" name="Parameters.cpp" compile="1" resource="0" file="Source/Parameters.cpp"/>
+      <FILE id="LsbjDh" name="Parameters.h" compile="0" resource="0" file="Source/Parameters.h"/>
+      <FILE id="ew8pAu" name="PhaseButton.cpp" compile="1" resource="0" file="Source/PhaseButton.cpp"/>
+      <FILE id="GbWGeb" name="PluginBackground.cpp" compile="1" resource="0"
+            file="Source/PluginBackground.cpp"/>
+      <FILE id="DVfY7m" name="PluginHeader.cpp" compile="1" resource="0"
+            file="Source/PluginHeader.cpp"/>
+      <FILE id="R82cBq" name="SatTypeButton.cpp" compile="1" resource="0"
+            file="Source/SatTypeButton.cpp"/>
+      <FILE id="bLwRUZ" name="ViatorDial.h" compile="0" resource="0" file="Source/ViatorDial.h"/>
+      <FILE id="CluCb1" name="PluginProcessor.cpp" compile="1" resource="0"
+            file="Source/PluginProcessor.cpp"/>
+      <FILE id="zFZQv8" name="PluginProcessor.h" compile="0" resource="0"
+            file="Source/PluginProcessor.h"/>
+      <FILE id="q4xxIE" name="PluginEditor.cpp" compile="1" resource="0"
+            file="Source/PluginEditor.cpp"/>
+      <FILE id="YrN0Rx" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+    </GROUP>
+  </MAINGROUP>
+  <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1" JUCE_VST3_CAN_REPLACE_VST2="0"/>
+  <EXPORTFORMATS>
+    <VS2019 targetFolder="Builds/VisualStudio2019">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug" targetName="BedroomComp"/>
+        <CONFIGURATION isDebug="0" name="Release" targetName="BedroomComp" useRuntimeLibDLL="0"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="../../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="../../../JUCE/modules"/>
+        <MODULEPATH id="juce_core" path="../../../JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../../../JUCE/modules"/>
+        <MODULEPATH id="juce_dsp" path="../../../JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="../../../JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="../../../JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../../../JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../../../JUCE/modules"/>
+      </MODULEPATHS>
+    </VS2019>
+  </EXPORTFORMATS>
+  <MODULES>
+    <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_plugin_client" showAllCode="1" useLocalCopy="0"
+            useGlobalPath="1"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_utils" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_dsp" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+  </MODULES>
+  <LIVE_SETTINGS>
+    <WINDOWS/>
+  </LIVE_SETTINGS>
+</JUCERPROJECT>

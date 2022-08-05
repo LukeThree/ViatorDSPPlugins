@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="Vp20iU" name="Pastel_Verb" projectType="audioplug" useAppConfig="0"
+              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" version="2.0.0"
+              companyName="Viator DSP" companyCopyright="Landon Viator 2021"
+              companyWebsite="https://www.patreon.com/ViatorDSP" companyEmail="landonviator@gmail.com"
+              pluginFormats="buildAU,buildStandalone,buildVST3" pluginName="Pastel Verb"
+              pluginDesc="Serene reverb capable of dark and smooth ambience."
+              cppLanguageStandard="17">
+  <MAINGROUP id="ryeNUG" name="Pastel_Verb">
+    <GROUP id="{B6304C21-03E4-31C8-860D-220E8BBF996D}" name="ParametersDef">
+      <FILE id="E8e4js" name="SetTreeState.cpp" compile="1" resource="0"
+            file="Source/SetTreeState.cpp"/>
+      <FILE id="xTxuTl" name="Parameters.h" compile="0" resource="0" file="Source/Parameters.h"/>
+    </GROUP>
+    <GROUP id="{A6284375-E6C2-9184-1B35-39B7ED83F731}" name="UI">
+      <GROUP id="{5B91E64D-FD81-E796-B9DE-FB78D9BDAC3B}" name="Borders">
+        <FILE id="wi27PH" name="FilterBorder.cpp" compile="1" resource="0"
+              file="Source/FilterBorder.cpp"/>
+      </GROUP>
+      <GROUP id="{37042C37-3E59-AE38-B813-42B995DDBB35}" name="Shadow">
+        <FILE id="GxaC8A" name="InitShadows.cpp" compile="1" resource="0" file="Source/InitShadows.cpp"/>
+      </GROUP>
+      <GROUP id="{60B514FE-E37E-DDED-8F60-4A513F1B8580}" name="Labels">
+        <FILE id="pY502m" name="InitLabels.cpp" compile="1" resource="0" file="Source/InitLabels.cpp"/>
+      </GROUP>
+      <GROUP id="{711230F1-580A-6058-42DC-B046D1E535ED}" name="Buttons">
+        <FILE id="CyJXq8" name="FilterEngageButton.cpp" compile="1" resource="0"
+              file="Source/FilterEngageButton.cpp"/>
+        <FILE id="WoUTXc" name="FilterModeButton.cpp" compile="1" resource="0"
+              file="Source/FilterModeButton.cpp"/>
+        <FILE id="ORPm9x" name="InitButtons.cpp" compile="1" resource="0" file="Source/InitButtons.cpp"/>
+      </GROUP>
+      <GROUP id="{EFFB48E1-CECA-BD54-D23B-2773AE9B6FA5}" name="Sliders">
+        <FILE id="wKcmWr" name="InitSliders.cpp" compile="1" resource="0" file="Source/InitSliders.cpp"/>
+        <FILE id="heg9My" name="SliderProps.cpp" compile="1" resource="0" file="Source/SliderProps.cpp"/>
+      </GROUP>
+      <GROUP id="{5EC19EFF-B4C6-B919-84B4-51BE12D56A06}" name="Styles">
+        <FILE id="JVbt1n" name="LV_Dial.h" compile="0" resource="0" file="Source/LV_Dial.h"/>
+        <FILE id="yfLNc8" name="LV_Fader.h" compile="0" resource="0" file="Source/LV_Fader.h"/>
+        <FILE id="MT5IN6" name="LV_GroupComponent.h" compile="0" resource="0"
+              file="Source/LV_GroupComponent.h"/>
+        <FILE id="BE3LOd" name="LV_Label.h" compile="0" resource="0" file="Source/LV_Label.h"/>
+        <FILE id="gN8Owk" name="LV_Toggle.h" compile="0" resource="0" file="Source/LV_Toggle.h"/>
+        <FILE id="WqFBEN" name="StyleSheet.cpp" compile="1" resource="0" file="Source/StyleSheet.cpp"/>
+        <FILE id="wjBRQx" name="StyleSheet.h" compile="0" resource="0" file="Source/StyleSheet.h"/>
+      </GROUP>
+      <FILE id="YeCWtP" name="CreateWindow.cpp" compile="1" resource="0"
+            file="Source/CreateWindow.cpp"/>
+      <FILE id="ZUL92d" name="SaveWindowSize.cpp" compile="1" resource="0"
+            file="Source/SaveWindowSize.cpp"/>
+    </GROUP>
+    <GROUP id="{631B3801-95F7-9418-7D96-7F5DD997E472}" name="Assets">
+      <FILE id="UAOcw0" name="landon55-03.png" compile="0" resource="1" file="Source/Assets/landon55-03.png"/>
+      <FILE id="aRVKnu" name="landon55-04.png" compile="0" resource="1" file="Source/Assets/landon55-04.png"/>
+      <FILE id="sZbu5n" name="pluginBackground.png" compile="0" resource="1"
+            file="Source/Assets/pluginBackground.png"/>
+      <FILE id="rnnJsF" name="pluginBackground2.png" compile="0" resource="1"
+            file="Source/Assets/pluginBackground2.png"/>
+    </GROUP>
+    <GROUP id="{393A0E19-45F9-985C-9E56-0711DC2B5B82}" name="Source">
+      <FILE id="HrjehM" name="PluginProcessor.cpp" compile="1" resource="0"
+            file="Source/PluginProcessor.cpp"/>
+      <FILE id="A8HezV" name="PluginProcessor.h" compile="0" resource="0"
+            file="Source/PluginProcessor.h"/>
+      <FILE id="wSvCNW" name="PluginEditor.cpp" compile="1" resource="0"
+            file="Source/PluginEditor.cpp"/>
+      <FILE id="a35wML" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+    </GROUP>
+  </MAINGROUP>
+  <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1" JUCE_VST3_CAN_REPLACE_VST2="0"/>
+  <EXPORTFORMATS>
+    <XCODE_MAC targetFolder="Builds/MacOSX">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug" targetName="Pastel_Verb"/>
+        <CONFIGURATION isDebug="0" name="Release" targetName="Pastel_Verb"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_core" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_dsp" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../../JUCE/modules"/>
+      </MODULEPATHS>
+    </XCODE_MAC>
+  </EXPORTFORMATS>
+  <MODULES>
+    <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_plugin_client" showAllCode="1" useLocalCopy="0"
+            useGlobalPath="1"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_utils" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_dsp" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+  </MODULES>
+  <LIVE_SETTINGS>
+    <OSX/>
+  </LIVE_SETTINGS>
+</JUCERPROJECT>

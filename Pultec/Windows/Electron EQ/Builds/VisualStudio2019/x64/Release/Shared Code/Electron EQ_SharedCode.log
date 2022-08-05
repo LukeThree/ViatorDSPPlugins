@@ -1,0 +1,412 @@
+﻿  DSPMethods.cpp
+  RecallParameters.cpp
+  PluginProcessor.cpp
+  PluginEditor.cpp
+  Buttons.cpp
+  Dials.cpp
+  Labels.cpp
+  LV_SVFilter.cpp
+  LV_TubeModel.cpp
+  Shadow.cpp
+  StereoMenu.cpp
+  StyleSheet.cpp
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Shadow.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Shadow.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Shadow.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Shadow.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(34,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\Shadow.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(35,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\Shadow.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(42,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Shadow.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\Shadow.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(51,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Shadow.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(52,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Shadow.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Shadow.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(54,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Shadow.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(60,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\Shadow.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(67,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Shadow.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(49,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\Shadow.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Shadow.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Shadow.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Shadow.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Shadow.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(54,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\Shadow.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(55,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\Shadow.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(62,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Shadow.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(43,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\Shadow.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(71,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Shadow.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(72,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Shadow.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Shadow.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(74,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Shadow.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(80,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\Shadow.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(87,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Shadow.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(69,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\Shadow.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\LV_TubeModel.cpp(19,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\LV_TubeModel.cpp(44,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\LV_TubeModel.cpp(46,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\LV_TubeModel.cpp(32,52): warning C4100: 'ch': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Buttons.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Buttons.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Buttons.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Buttons.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(34,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\Buttons.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(35,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\Buttons.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(42,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Buttons.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\Buttons.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(51,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Buttons.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(52,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Buttons.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Buttons.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(54,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Buttons.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(60,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\Buttons.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(67,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Buttons.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(49,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\Buttons.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Buttons.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Buttons.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Buttons.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\LV_SVFilter.cpp(21,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Buttons.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(54,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\Buttons.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(55,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\Buttons.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\LV_SVFilter.cpp(104,39): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(62,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Buttons.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(43,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\Buttons.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\LV_SVFilter.cpp(210,79): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(71,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Buttons.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(72,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Buttons.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Buttons.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(74,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Buttons.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(80,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\Buttons.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(87,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Buttons.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(69,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\Buttons.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\Buttons.cpp(29,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Labels.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Labels.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Labels.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Labels.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(34,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\Labels.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(35,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\Labels.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(42,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Labels.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\Labels.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(51,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Labels.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(52,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Labels.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Labels.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(54,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Labels.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(60,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\Labels.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(67,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Labels.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(49,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\Labels.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StereoMenu.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StereoMenu.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StereoMenu.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StereoMenu.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(34,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\StereoMenu.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(35,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\StereoMenu.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(42,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StereoMenu.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\StereoMenu.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(51,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StereoMenu.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(52,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StereoMenu.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StereoMenu.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(54,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StereoMenu.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(60,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\StereoMenu.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(67,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StereoMenu.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(49,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\StereoMenu.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StereoMenu.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StereoMenu.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StereoMenu.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StereoMenu.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(54,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\StereoMenu.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(55,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\StereoMenu.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(62,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StereoMenu.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(43,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\StereoMenu.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(71,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StereoMenu.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(72,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StereoMenu.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StereoMenu.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(74,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StereoMenu.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(80,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\StereoMenu.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(87,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StereoMenu.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(69,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\StereoMenu.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Labels.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Labels.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Labels.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Labels.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(54,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\Labels.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(55,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\Labels.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(62,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Labels.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(43,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\Labels.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(71,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Labels.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(72,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Labels.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Labels.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(74,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Labels.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(80,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\Labels.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(87,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Labels.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(69,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\Labels.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(54,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(55,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(62,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(43,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(71,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(72,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(74,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(80,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(87,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(69,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\StyleSheet.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.cpp(61,50): warning C4244: 'argument': conversion from 'double' to 'ValueType', possible loss of data
+          with
+          [
+              ValueType=float
+          ]
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.cpp(60,50): warning C4244: 'argument': conversion from 'double' to 'ValueType', possible loss of data
+          with
+          [
+              ValueType=float
+          ]
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.cpp(64,140): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.cpp(69,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.cpp(128,14): warning C4189: 'thumbWidth': local variable is initialized but not referenced
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StereoMenu.cpp(19,108): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Dials.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Dials.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Dials.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Dials.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(34,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\Dials.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(35,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\Dials.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(42,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Dials.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\Dials.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(51,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Dials.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(52,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Dials.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Dials.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(54,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Dials.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(60,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\Dials.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(67,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Dials.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(49,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\Dials.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Dials.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Dials.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Dials.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Dials.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(54,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\Dials.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(55,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\Dials.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(62,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Dials.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(43,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\Dials.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(71,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Dials.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(72,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Dials.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Dials.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(74,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Dials.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(80,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\Dials.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(87,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\Dials.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(69,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\Dials.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\Dials.cpp(71,113): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\RecallParameters.cpp(15,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\RecallParameters.cpp(18,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\RecallParameters.cpp(19,115): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\RecallParameters.cpp(21,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\RecallParameters.cpp(22,115): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\RecallParameters.cpp(23,112): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\RecallParameters.cpp(24,113): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\RecallParameters.cpp(54,24): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(34,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(35,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(42,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(51,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(52,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(54,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(60,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(67,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(49,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(54,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(55,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(62,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(43,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(71,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(72,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(74,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(80,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(87,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(69,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(25,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(26,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(34,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(35,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(42,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(23,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(51,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(52,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(54,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(60,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(67,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\ViatorDial.h(49,160): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(45,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(46,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(54,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(55,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(62,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(43,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(71,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(72,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(73,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(74,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(80,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(87,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\StyleSheet.h(69,148): warning C4100: 'slider': unreferenced formal parameter (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\DSPMethods.cpp(17,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\DSPMethods.cpp(26,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\DSPMethods.cpp(28,115): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\DSPMethods.cpp(29,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\DSPMethods.cpp(36,67): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\DSPMethods.cpp(40,112): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\DSPMethods.cpp(42,113): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\DSPMethods.cpp(43,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(29,90): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(29,76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(29,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(29,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(34,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(34,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(39,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(39,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(60,195): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(60,153): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(60,115): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(60,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(64,182): warning C4244: 'argument': conversion from 'double' to 'ValueType', possible loss of data
+          with
+          [
+              ValueType=float
+          ]
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(64,140): warning C4244: 'argument': conversion from 'double' to 'ValueType', possible loss of data
+          with
+          [
+              ValueType=float
+          ]
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(64,102): warning C4244: 'argument': conversion from 'double' to 'ValueType', possible loss of data
+          with
+          [
+              ValueType=float
+          ]
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(64,55): warning C4244: 'argument': conversion from 'double' to 'ValueType', possible loss of data
+          with
+          [
+              ValueType=float
+          ]
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(80,61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(80,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(80,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(80,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(81,114): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(81,104): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(81,93): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(81,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(82,113): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(82,103): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(82,92): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(82,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(83,117): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(83,107): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(83,96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(83,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(85,152): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(85,137): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(85,103): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(85,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(86,115): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(86,100): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(86,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(87,123): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(87,108): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(87,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(89,150): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(89,137): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(89,103): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(89,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(92,116): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(92,103): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(94,115): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(94,101): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(95,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(96,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(99,178): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(99,136): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginEditor.cpp(99,67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginProcessor.cpp(135,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginProcessor.cpp(145,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginProcessor.cpp(152,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginProcessor.cpp(163,79): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginProcessor.cpp(168,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginProcessor.cpp(237,55): warning C4100: 'index': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginProcessor.cpp(241,66): warning C4100: 'index': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginProcessor.cpp(246,82): warning C4100: 'newName': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginProcessor.cpp(246,55): warning C4100: 'index': unreferenced formal parameter
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginProcessor.cpp(260,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginProcessor.cpp(261,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginProcessor.cpp(268,24): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginProcessor.cpp(378,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginProcessor.cpp(388,47): warning C4244: '=': conversion from 'double' to 'SampleType', possible loss of data
+          with
+          [
+              SampleType=float
+          ]
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginProcessor.cpp(389,48): warning C4244: '=': conversion from 'double' to 'SampleType', possible loss of data
+          with
+          [
+              SampleType=float
+          ]
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginProcessor.cpp(396,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginProcessor.cpp(406,47): warning C4244: '=': conversion from 'double' to 'SampleType', possible loss of data
+          with
+          [
+              SampleType=float
+          ]
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginProcessor.cpp(407,48): warning C4244: '=': conversion from 'double' to 'SampleType', possible loss of data
+          with
+          [
+              SampleType=float
+          ]
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginProcessor.cpp(303,98): warning C4100: 'midiMessages': unreferenced formal parameter
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\memory(2698,56): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ] (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Source\PluginProcessor.cpp(80): message : see reference to function template instantiation 'std::unique_ptr<juce::AudioParameterFloat,std::default_delete<juce::AudioParameterFloat>> std::make_unique<juce::AudioParameterFloat,const char(&)[6],const char(&)[6],double,double,double,0>(const char (&)[6],const char (&)[6],double &&,double &&,double &&)' being compiled
+  BinaryData.cpp
+  BinaryData2.cpp
+  include_juce_audio_basics.cpp
+  include_juce_audio_devices.cpp
+  include_juce_audio_formats.cpp
+  include_juce_audio_plugin_client_utils.cpp
+  include_juce_audio_processors.cpp
+  include_juce_audio_utils.cpp
+  include_juce_core.cpp
+  include_juce_data_structures.cpp
+  include_juce_dsp.cpp
+  include_juce_events.cpp
+  include_juce_graphics.cpp
+  include_juce_gui_extra.cpp
+  include_juce_gui_basics.cpp
+  Electron EQ_SharedCode.vcxproj -> C:\Users\lando\Documents\GitHub\Pultec\Windows\Electron EQ\Builds\VisualStudio2019\x64\Release\Shared Code\Electron EQ.lib

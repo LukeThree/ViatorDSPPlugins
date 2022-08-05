@@ -1,0 +1,38 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2019
+
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BT-Clipper - Standalone Plugin", "BT-Clipper_StandalonePlugin.vcxproj", "{E52E4437-1C8D-B71B-2D48-F8406F10761B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4711228C-7269-5E62-E5E0-325ABA06E165} = {4711228C-7269-5E62-E5E0-325ABA06E165}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BT-Clipper - VST3", "BT-Clipper_VST3.vcxproj", "{BDA641BC-5281-CD43-3E94-C196B3CE15E2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4711228C-7269-5E62-E5E0-325ABA06E165} = {4711228C-7269-5E62-E5E0-325ABA06E165}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BT-Clipper - Shared Code", "BT-Clipper_SharedCode.vcxproj", "{4711228C-7269-5E62-E5E0-325ABA06E165}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDA641BC-5281-CD43-3E94-C196B3CE15E2}.Debug|x64.ActiveCfg = Debug|x64
+		{BDA641BC-5281-CD43-3E94-C196B3CE15E2}.Debug|x64.Build.0 = Debug|x64
+		{BDA641BC-5281-CD43-3E94-C196B3CE15E2}.Release|x64.ActiveCfg = Release|x64
+		{BDA641BC-5281-CD43-3E94-C196B3CE15E2}.Release|x64.Build.0 = Release|x64
+		{E52E4437-1C8D-B71B-2D48-F8406F10761B}.Debug|x64.ActiveCfg = Debug|x64
+		{E52E4437-1C8D-B71B-2D48-F8406F10761B}.Debug|x64.Build.0 = Debug|x64
+		{E52E4437-1C8D-B71B-2D48-F8406F10761B}.Release|x64.ActiveCfg = Release|x64
+		{E52E4437-1C8D-B71B-2D48-F8406F10761B}.Release|x64.Build.0 = Release|x64
+		{4711228C-7269-5E62-E5E0-325ABA06E165}.Debug|x64.ActiveCfg = Debug|x64
+		{4711228C-7269-5E62-E5E0-325ABA06E165}.Debug|x64.Build.0 = Debug|x64
+		{4711228C-7269-5E62-E5E0-325ABA06E165}.Release|x64.ActiveCfg = Release|x64
+		{4711228C-7269-5E62-E5E0-325ABA06E165}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
