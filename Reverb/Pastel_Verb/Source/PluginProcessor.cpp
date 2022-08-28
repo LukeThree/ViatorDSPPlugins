@@ -134,7 +134,7 @@ juce::AudioProcessorValueTreeState::ParameterLayout Pastel_VerbAudioProcessor::c
     auto filterEngageParam = std::make_unique<juce::AudioParameterInt>(filterEngageId, filterEngageName, 0, 1, 1);
     auto filterModeParam = std::make_unique<juce::AudioParameterInt>(filterModeId, filterModeName, 0, 1, 0);
     auto cutoffParam = std::make_unique<juce::AudioParameterInt>(cutoffSliderId, cutoffSliderName, 20, 20000, 20000);
-    auto resonanceParam = std::make_unique<juce::AudioParameterInt>(resonanceSliderId, resonanceSliderName, 0, 100, 0);
+    auto resonanceParam = std::make_unique<juce::AudioParameterInt>(resonanceSliderId, resonanceSliderName, 0, 90, 0);
     auto driveParam = std::make_unique<juce::AudioParameterFloat>(driveSliderId, driveSliderName, 0.0f, 24.0f, 0.0f);
     auto roomSizeParam = std::make_unique<juce::AudioParameterInt>(roomSizeSliderId, roomSizeSliderName, 0, 100, 50);
     auto dampingParam = std::make_unique<juce::AudioParameterInt>(dampingSliderId, dampingSliderName, 0, 100, 50);
@@ -347,14 +347,6 @@ void Pastel_VerbAudioProcessor::setStateInformation (const void* data, int sizeI
     if (tree.isValid())
     {
         treeState.state = tree;
-    }
-    else
-    {
-        // A dialog box to inform the user that there's an error with the value tree
-        alertWindow.showNativeDialogBox(
-                                        "BRUH",
-                                        "Hello, it's Landon from Viator DSP. It seems you have run into an error I thought was impossible. See, you're getting this message because the value tree that holds your saved parameters has become invalid for some reason. Contact me at LandonViator@gmail.com to inform me of this error.",
-                                        true);
     }
     
     // Set all the saved parameters
