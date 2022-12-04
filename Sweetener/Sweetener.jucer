@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="guWLYC" name="Sweetener" projectType="audioplug" useAppConfig="0"
+              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="Viator DSP">
+  <MAINGROUP id="YEIbnd" name="Sweetener">
+    <GROUP id="{9530E46E-44E3-23E9-56DE-9826FF633F8E}" name="Source">
+      <GROUP id="{673F6D02-3B4A-3995-A584-2B5D6C82BB99}" name="Assets">
+        <FILE id="tUrMhD" name="button_middle_off.png" compile="0" resource="1"
+              file="Source/Assets/button_middle_off.png"/>
+        <FILE id="kQb7lL" name="button_middle_on.png" compile="0" resource="1"
+              file="Source/Assets/button_middle_on.png"/>
+        <FILE id="V3MyWw" name="Knob_01.png" compile="0" resource="1" file="Source/Assets/Knob_01.png"/>
+        <FILE id="kZB8wd" name="Knob_03.png" compile="0" resource="1" file="Source/Assets/Knob_03.png"/>
+        <FILE id="sRo9wO" name="Knob_04.png" compile="0" resource="1" file="Source/Assets/Knob_04.png"/>
+        <FILE id="DYzE66" name="landon55-04.png" compile="0" resource="1" file="Source/Assets/landon55-04.png"/>
+        <FILE id="irVpCv" name="led_off.png" compile="0" resource="1" file="Source/Assets/led_off.png"/>
+        <FILE id="l0KD5i" name="led_on.png" compile="0" resource="1" file="Source/Assets/led_on.png"/>
+      </GROUP>
+      <FILE id="DdC608" name="PluginProcessor.cpp" compile="1" resource="0"
+            file="Source/PluginProcessor.cpp"/>
+      <FILE id="whctOh" name="PluginProcessor.h" compile="0" resource="0"
+            file="Source/PluginProcessor.h"/>
+      <FILE id="aNFR1H" name="PluginEditor.cpp" compile="1" resource="0"
+            file="Source/PluginEditor.cpp"/>
+      <FILE id="i0nX9f" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+    </GROUP>
+    <GROUP id="{353B4773-7B6A-53A7-E3C0-3ADB052EA87A}" name="UI-Components">
+      <FILE id="vKNrhA" name="MultiBandWindow.cpp" compile="1" resource="0"
+            file="Source/UI-Components/MultiBandWindow.cpp"/>
+      <FILE id="SVwSED" name="MultiBandWindow.h" compile="0" resource="0"
+            file="Source/UI-Components/MultiBandWindow.h"/>
+    </GROUP>
+  </MAINGROUP>
+  <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1" JUCE_VST3_CAN_REPLACE_VST2="0"/>
+  <EXPORTFORMATS>
+    <XCODE_MAC targetFolder="Builds/MacOSX">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug" targetName="Sweetener"/>
+        <CONFIGURATION isDebug="0" name="Release" targetName="Sweetener"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="../../JT-16/modules/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../../JT-16/modules/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../../JT-16/modules/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../../JT-16/modules/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../../JT-16/modules/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="../../JT-16/modules/JUCE/modules"/>
+        <MODULEPATH id="juce_core" path="../../JT-16/modules/JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../../JT-16/modules/JUCE/modules"/>
+        <MODULEPATH id="juce_dsp" path="../../JT-16/modules/JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="../../JT-16/modules/JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="../../JT-16/modules/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../../JT-16/modules/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../../JT-16/modules/JUCE/modules"/>
+        <MODULEPATH id="viator_modules" path="../../../../../Users/land00m/Documents/viatordsp"/>
+      </MODULEPATHS>
+    </XCODE_MAC>
+  </EXPORTFORMATS>
+  <MODULES>
+    <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_plugin_client" showAllCode="1" useLocalCopy="0"
+            useGlobalPath="1"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_utils" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_dsp" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="viator_modules" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+  </MODULES>
+</JUCERPROJECT>
