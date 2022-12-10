@@ -11,7 +11,7 @@
 
 //==============================================================================
 SweetenerAudioProcessorEditor::SweetenerAudioProcessorEditor (SweetenerAudioProcessor& p)
-    : AudioProcessorEditor (&p), audioProcessor (p)
+    : AudioProcessorEditor (&p), audioProcessor (p), _multiBandWindow(audioProcessor)
 {
     addAndMakeVisible(_multiBandWindow);
     initWindow();

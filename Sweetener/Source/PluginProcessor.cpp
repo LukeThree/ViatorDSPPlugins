@@ -19,7 +19,8 @@ SweetenerAudioProcessor::SweetenerAudioProcessor()
                       #endif
                        .withOutput ("Output", juce::AudioChannelSet::stereo(), true)
                      #endif
-                       )
+                       ),
+treeState(*this, nullptr, "PARAMETERS", createParameterLayout())
 #endif
 {
 }
@@ -28,6 +29,24 @@ SweetenerAudioProcessor::~SweetenerAudioProcessor()
 {
 }
 
+juce::AudioProcessorValueTreeState::ParameterLayout SweetenerAudioProcessor::createParameterLayout()
+{
+    std::vector <std::unique_ptr<juce::RangedAudioParameter>> params;
+    
+    juce::NormalisableRange<float> cutoffRange = foleysLogRange(20.0f, 20000.0f);
+    //auto cutoffRange = juce::NormalisableRange<float> (20.0f, 20000.0f);
+    //cutoffRange.setSkewForCentre(700.0f);
+        
+    params.push_back(std::make_unique<juce::AudioParameterFloat>("cutoff1", "Cutoff1", cutoffRange, 1000.0f));
+    params.push_back(std::make_unique<juce::AudioParameterFloat>("cutoff2", "Cutoff2", cutoffRange, 1000.0f));
+    
+    return { params.begin(), params.end() };
+}
+
+void SweetenerAudioProcessor::parameterChanged(const juce::String &parameterID, float newValue)
+{
+    
+}
 //==============================================================================
 const juce::String SweetenerAudioProcessor::getName() const
 {
@@ -167,6 +186,7 @@ bool SweetenerAudioProcessor::hasEditor() const
 juce::AudioProcessorEditor* SweetenerAudioProcessor::createEditor()
 {
     return new SweetenerAudioProcessorEditor (*this);
+    //return new juce::GenericAudioProcessorEditor (*this);
 }
 
 //==============================================================================

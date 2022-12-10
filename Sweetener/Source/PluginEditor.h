@@ -14,7 +14,8 @@
 
 //==============================================================================
 /**
-*/
+ */ 
+
 class SweetenerAudioProcessorEditor  : public juce::AudioProcessorEditor
 {
 public:
